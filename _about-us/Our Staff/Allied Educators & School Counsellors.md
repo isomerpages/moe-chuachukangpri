@@ -37,7 +37,7 @@ third_nav_title: Our Staff
     <td class="tg-32j0">Allied Educator </td>
   </tr>
   <tr>
-    <td class="tg-488e"><br>Ms Anisah Binte Muhammad Hussain<br></td>
+    <td class="tg-488e">Ms Anisah Binte Muhammad Hussain<br></td>
     <td class="tg-488e">Allied Educator </td>
   </tr>
   <tr>
