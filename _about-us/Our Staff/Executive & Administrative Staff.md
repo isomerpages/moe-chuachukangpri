@@ -29,7 +29,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-ltnk">Mdm Tan Khar Heoh Ruth</td>
-    <td class="tg-ltnk">Management Support Officer <br><br></td>
+    <td class="tg-ltnk">Management Support Officer</td>
   </tr>
   <tr>
     <td class="tg-9wka">Mdm Jean Liew</td>
@@ -41,7 +41,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9wka">Mdm Rajeswari Kumaran </td>
-    <td class="tg-9wka"><span style="color:black">Teacher Aide</span> <br><br></td>
+    <td class="tg-9wka"><span style="color:black">Teacher Aide</span></td>
   </tr>
   <tr>
     <td class="tg-ltnk"> Mdm Normalah Bte Jantan</td>
