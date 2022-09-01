@@ -219,3 +219,106 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+
+#### P5 Form Teachers
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-488e{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-as4b{background-color:#134693;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rbc9{background-color:#134693;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ltnk{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-32j0{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9wka{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-as4b">Class</td>
+    <td class="tg-rbc9">Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-488e"> 5 Harmony 1</td>
+    <td class="tg-ltnk"><span style="font-weight:bold;background-color:transparent">Mrs Goh Shiting</span><br><br><span style="background-color:transparent">Ms Alyssa Shahira Binte Sariman</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">5 Harmony 2</td>
+    <td class="tg-9wka"><span style="background-color:transparent">Ms Jacqueline Chng Hui Lin (Mrs Zeng)</span><br><br><span style="background-color:transparent">Mr Logesh s/o Jayaraman</span></td>
+  </tr>
+  <tr>
+    <td class="tg-488e">5 Harmony 3</td>
+    <td class="tg-ltnk">Mr Philip Chua Kwan Chems<br><br>Ms Korina Shalini d/o Manogaran</td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">5 Harmony 4</td>
+    <td class="tg-9wka">Mrs Jerrine Chan Hui En</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">5 Harmony 5</td>
+    <td class="tg-ltnk">Mr Aloysius Low Chun How<br><br>Mr Chan Kah Kit Colin</td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">5 Harmony 6</td>
+    <td class="tg-9wka">Mr Timothy Chen Zeliang<br><br>Mr Terence Song Kin Hoe</td>
+  </tr>
+</tbody>
+</table>
+
+
+#### P6 Form Teachers
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-488e{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-as4b{background-color:#134693;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rbc9{background-color:#134693;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ltnk{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-32j0{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9wka{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-as4b">Class</td>
+    <td class="tg-rbc9"> Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-488e"> 6 Resilience 1</td>
+    <td class="tg-ltnk"><span style="background-color:transparent"> Mr Ang Guan Piew</span><br><br><span style="background-color:transparent">Ms Teo Siew Peng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">6 Resilience 2</td>
+    <td class="tg-9wka">Mr Yong Hanyang<br><br>Mdm Noranisah Binte Kamis</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">6 Resilience 3</td>
+    <td class="tg-ltnk">Mdm Azizah Binte Abdul Latiff<br><br>Mr Muhammad Shukur Bin Mohamad Ayub</td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">6 Resilience 4</td>
+    <td class="tg-9wka">Mr Tan Jen Ming, Mark<br><br>Mr Chiam Kim Yeow</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">6 Resilience 5</td>
+    <td class="tg-ltnk">Mdm Neo Shi Rong<br><br>Mdm Ng Hui Yin</td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">6 Resilience 6</td>
+    <td class="tg-9wka">Ms Adele Yeo Shwu Yuan<br><br>Mdm Melanie Ng Ling Ling</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">6 Resilience 7</td>
+    <td class="tg-ltnk">Mdm Michelle Foo Mei Fang<br><br>Mdm Jane Chua Jie Ying (Mrs Lee)</td>
+  </tr>
+</tbody>
+</table>
