@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Life in CKKPS/Virtual Tour.md
       - Life in CKKPS/.keep
