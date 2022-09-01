@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Executive & Administrative Staff.md
       - Our Staff/Allied Educators & School Counsellors.md
       - Our Staff/.keep
       - Life in CKKPS/.keep
