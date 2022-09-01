@@ -118,3 +118,104 @@ third_nav_title: Our Staff
 </table>
 
 
+#### P3 Form Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0qp5{background-color:#134693;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-488e{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-as4b{background-color:#134693;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ltnk{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-32j0{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9wka{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-as4b"><span style="color:#FFF;background-color:#134693">Class</span></td>
+    <td class="tg-0qp5">Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">3 Responsibility 1 </td>
+    <td class="tg-ltnk"><span style="background-color:transparent">Mr Roslan Bin Yahya</span><br><br><span style="background-color:transparent">Mdm Rasidah Bte Abdul Wahab</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">3 Responsibility 2 </td>
+    <td class="tg-9wka"><span style="background-color:transparent">Mdm Josephine Pang Mei Kuen</span><br><br><span style="background-color:transparent">Mdm Angela Albert</span></td>
+  </tr>
+  <tr>
+    <td class="tg-488e"> 3 Responsibility 3</td>
+    <td class="tg-ltnk"><span style="background-color:transparent">Ms Lim Siew Peng</span><br><br><span style="background-color:transparent">Mr Benedict Tan Hock Leng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">3 Responsibility 4 </td>
+    <td class="tg-9wka"><span style="background-color:transparent">Mdm Teo Guat Soon</span><br><br><span style="background-color:transparent">Mdm Vasanthi d/o Arumugam</span></td>
+  </tr>
+  <tr>
+    <td class="tg-488e">3 Responsibility 5<br></td>
+    <td class="tg-ltnk"><span style="background-color:transparent">Mr Chin Loke Ping</span><br><br><span style="background-color:transparent">Mdm Vivien Gwee Shay Nee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0"> 3 Responsibility 6</td>
+    <td class="tg-9wka"><span style="background-color:transparent">Mrs Amy Kwan Sing Ting</span><br><br><span style="background-color:transparent">Mr Senthil s/o Veerapandian</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+#### P4 Form Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-488e{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-as4b{background-color:#134693;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rbc9{background-color:#134693;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ltnk{background-color:#FFF;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-32j0{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9wka{background-color:#DCE7F7;color:#2E2A56;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-as4b">Class</td>
+    <td class="tg-rbc9">Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-488e"> 4 Integrity 1</td>
+    <td class="tg-ltnk"><span style="background-color:transparent">Mdm Siti Maryam Binte Mohd Amin</span><br><br><span style="background-color:transparent">Ms Eng Xin Di</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">4 Integrity 2</td>
+    <td class="tg-9wka">Mdm Jean Jie Ying Stella<br><br>Ms Siti Salmah Binte Hamid</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">4 Integrity 3</td>
+    <td class="tg-ltnk"><span style="background-color:transparent">Mdm Wendy Tan Wen Wang</span><br><br><span style="background-color:transparent">Mdm R Krishnaveeni Ramiah</span></td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">4 Integrity 4</td>
+    <td class="tg-9wka">Mdm Lee Lay Tin<br><br>Mr Soh Eng Kian</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">4 Integrity 5</td>
+    <td class="tg-ltnk">Ms Faith Wong Yun Jia<br><br>Mdm Xi Jun</td>
+  </tr>
+  <tr>
+    <td class="tg-32j0">4 Integrity 6</td>
+    <td class="tg-9wka">Mdm Nur Ramizah Binte Amzah<br><br>Mdm Joan Ong Wei Qi</td>
+  </tr>
+  <tr>
+    <td class="tg-488e">4 Integrity 7</td>
+    <td class="tg-ltnk">Mr Siew Mun Cheung, Dominic<br><br>Mdm Kasidah Khatoon Bte Kasim Khan Surattee</td>
+  </tr>
+</tbody>
+</table>
+
