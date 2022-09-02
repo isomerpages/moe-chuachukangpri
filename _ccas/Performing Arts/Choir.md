@@ -50,3 +50,28 @@ Choir CCA aspires to groom budding singers with a wide repertoire ranging from c
   </tr>
 </tbody>
 </table>
+
+#### Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-vqm8"><span style="color:#222">Tuesdays</span></td>
+    <td class="tg-vqm8"><span style="color:#222">3.40pm to 5.40pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"><span style="color:#222">Thursdays</span></td>
+    <td class="tg-vqm8"><span style="color:#222">2.15pm to 4.15pm</span></td>
+  </tr>
+</tbody>
+</table>
