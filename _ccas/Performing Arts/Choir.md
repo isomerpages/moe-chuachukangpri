@@ -6,5 +6,5 @@ third_nav_title: Performing Arts
 ---
 #### E-Showcase
 
-![](/images/choir.png)
-
+<a href = "https://vimeo.com/589653970/12adee5efe" target = "_self"> 
+          <img src="/images/choir.png"></a>
