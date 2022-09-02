@@ -26,7 +26,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">1995</td>
-    <td class="tg-ykq9">The school moved to its present site in 1995. It had an enrolment of 1 500 students in 44 classes from Primary One to Primary Five.<br><br>Our Primary 5 students from Art Club won the Distinction Award In the Singapore Youth Festival (SYF).<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br>The first Annual Speech and Prize Presentation Ceremony in the School Hall (1995)<br></td>
+    <td class="tg-ykq9">The school moved to its present site in 1995. It had an enrolment of 1 500 students in 44 classes from Primary One to Primary Five.<br><br>Our Primary 5 students from Art Club won the Distinction Award In the Singapore Youth Festival (SYF).<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist2.jpeg"></span>The first Annual Speech and Prize Presentation Ceremony in the School Hall (1995)<br></td>
   </tr>
   <tr>
     <td class="tg-32j0">1997</td>
@@ -46,7 +46,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-32j0"> 2002</td>
-    <td class="tg-zybv">The school achieved the People Developer Standard Award.   <br>  <br>The school collaborated with Keat Hong Zone 5 RC in ‘CCKPS – Rhythm with the Community’. <br>   <br>The school held an IT Open House – iTopia </td>
+    <td class="tg-zybv">The school achieved the People Developer Standard Award.<br><br>The school collaborated with Keat Hong Zone 5 RC in ‘CCKPS – Rhythm with the Community’. <br><br>The school held an IT Open House – iTopia </td>
   </tr>
   <tr>
     <td class="tg-488e">2003</td>
@@ -82,7 +82,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">2011</td>
-    <td class="tg-ykq9">Mrs Lee Wai Ling was appointed the fourth principal.<br><br>Mdm Chilukuri Dimps joined the school as vice-principal.<br><br>The school was awarded the National Arts Education Glow Award.<br><br><br><br><span style="background-color:initial">Our Badminton Senior Girls emerged 4th</span> <span style="background-color:initial">in the West Zone Division in the National School Games.</span><br><br>Chua Chu Kang Primary was recognised as a ‘Leader in Me School’ by Sean Covey, President of FranklinCovey Education, who visited the school.<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br><span style="background-color:initial">Chua Chu Kang Primary is recognised as a ‘Leader in Me School’ in 2011 by Sean Covey, President of FranklinCovey Education.</span><br></td>
+    <td class="tg-ykq9">Mrs Lee Wai Ling was appointed the fourth principal.<br><br>Mdm Chilukuri Dimps joined the school as vice-principal.<br><br>The school was awarded the National Arts Education Glow Award.<br><br><br><br><span style="background-color:initial">Our Badminton Senior Girls emerged 4th</span> <span style="background-color:initial">in the West Zone Division in the National School Games.</span><br><br>Chua Chu Kang Primary was recognised as a ‘Leader in Me School’ by Sean Covey, President of FranklinCovey Education, who visited the school.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist3.jpeg"></span><br><br><span style="background-color:initial">Chua Chu Kang Primary is recognised as a ‘Leader in Me School’ in 2011 by Sean Covey, President of FranklinCovey Education.</span><br></td>
   </tr>
   <tr>
     <td class="tg-32j0">2012</td>
@@ -94,7 +94,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-32j0">2014</td>
-    <td class="tg-zybv"><span style="background-color:initial">Robotics was recognised as the school’s Applied Learning Programme (ALP). With the extra support provided, the school continued to expand and improve the quality of its robotics programme.</span><br><br><br>The school was accorded the Learning for Life Programme (LLP), ‘A Confident and Caring Leader – Leading Through C.A.R.E.’. With the extra support provided, the school funded level-wide leadership training workshops for all students.<br><br>Educators from National Taipei University of Education visited the school to find out more about our Mother Tongue (Chinese Language) Programme.<br><br><br>The school hosted delegates during the ICTLT Delegates Visit.<br><br>The School celebrated its 20th Anniversary at Warren Golf and Country Club. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC, was the Guest Of Honour.<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br><span style="background-color:initial">The School celebrated its 20th Anniversary at Warren Golf and Country Club in 2014. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC was the GOH </span><br></td>
+    <td class="tg-zybv"><span style="background-color:initial">Robotics was recognised as the school’s Applied Learning Programme (ALP). With the extra support provided, the school continued to expand and improve the quality of its robotics programme.</span><br><br><br>The school was accorded the Learning for Life Programme (LLP), ‘A Confident and Caring Leader – Leading Through C.A.R.E.’. With the extra support provided, the school funded level-wide leadership training workshops for all students.<br><br>Educators from National Taipei University of Education visited the school to find out more about our Mother Tongue (Chinese Language) Programme.<br><br><br>The school hosted delegates during the ICTLT Delegates Visit.<br><br>The School celebrated its 20th Anniversary at Warren Golf and Country Club. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC, was the Guest Of Honour.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist4.jpeg"></span><br><br><span style="background-color:initial">The School celebrated its 20th Anniversary at Warren Golf and Country Club in 2014. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC was the GOH </span><br></td>
   </tr>
   <tr>
     <td class="tg-488e">2015</td>
@@ -106,15 +106,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">2017</td>
-    <td class="tg-ykq9">Mrs Sheree Chong joined the school as the fifth principal.<br><br><br>The school held its first Consortium Games Day where students and teachers bonded together.<br><br>The school held its first musical at ITE College West with Minister Gan Kim Yong as our Guest of Honour.<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br>The School’s first Musical at ITE College West in 2017. Minister Gan Kim Yong was the GOH.<br></td>
+    <td class="tg-ykq9">Mrs Sheree Chong joined the school as the fifth principal.<br><br><br>The school held its first Consortium Games Day where students and teachers bonded together.<br><br>The school held its first musical at ITE College West with Minister Gan Kim Yong as our Guest of Honour.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist5.jpeg"></span><br><br>The School’s first Musical at ITE College West in 2017. Minister Gan Kim Yong was the GOH.<br></td>
   </tr>
   <tr>
     <td class="tg-32j0">2018</td>
-    <td class="tg-zybv">With the belief that every child can learn and the importance of Joy of Learning, the school deepened its approach in Formative Assessment (FA) to close students’ learning gaps appropriate to their learning abilities. The school incorporated FA strategies into its T&amp;L and worked on deepening effective feedback practices. T&amp;L resources were customized to close students’ learning gaps.<br>PERI upgrading was completed with a new Indoor Sports Hall added to the premises.<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br>PERI Upgrading: An Indoor Sports Hall is added to the school premises (2018).<br><br></td>
+    <td class="tg-zybv">With the belief that every child can learn and the importance of Joy of Learning, the school deepened its approach in Formative Assessment (FA) to close students’ learning gaps appropriate to their learning abilities. The school incorporated FA strategies into its T&amp;L and worked on deepening effective feedback practices. T&amp;L resources were customized to close students’ learning gaps.<br>PERI upgrading was completed with a new Indoor Sports Hall added to the premises.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist6.jpeg"></span><br><br>PERI Upgrading: An Indoor Sports Hall is added to the school premises (2018).<br><br></td>
   </tr>
   <tr>
     <td class="tg-488e">2<span style="background-color:initial">019</span></td>
-    <td class="tg-ykq9"><span style="background-color:initial">The school embarked on a strong partnership with NIE to deepen staff’s application of Assessment for Learning (AfL) to help students to learn effectively. Core AfL teams were formed. Partners from NIE provided insights on feedback practices on how the school can further refine its practices to ensure effective teaching and learning processes in the school.</span><br><br><br>The school’s mission was reviewed and a new mission ‘Bringing out the best in each child’ was drawn out. The new mission, with a focus on recognising each student as individuals and nurturing the strengths of each student, provides clarity and direction for the next chapter for the school.<br><br>The school reviewed its core values based on the relevance of the current core values to students’ needs and expectations, alignment to school’s vision and alignment to the 21st century outcomes.<br>The school celebrated its 25th anniversary.<br><br><span style="font-weight:400;font-style:normal">(IMAGE HERE)</span><br><br>The school celebrated its 25th Anniversary in School (2019).<br></td>
+    <td class="tg-ykq9"><span style="background-color:initial">The school embarked on a strong partnership with NIE to deepen staff’s application of Assessment for Learning (AfL) to help students to learn effectively. Core AfL teams were formed. Partners from NIE provided insights on feedback practices on how the school can further refine its practices to ensure effective teaching and learning processes in the school.</span><br><br><br>The school’s mission was reviewed and a new mission ‘Bringing out the best in each child’ was drawn out. The new mission, with a focus on recognising each student as individuals and nurturing the strengths of each student, provides clarity and direction for the next chapter for the school.<br><br>The school reviewed its core values based on the relevance of the current core values to students’ needs and expectations, alignment to school’s vision and alignment to the 21st century outcomes.<br>The school celebrated its 25th anniversary.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist7.jpeg"></span><br><br>The school celebrated its 25th Anniversary in School (2019).<br></td>
   </tr>
   <tr>
     <td class="tg-32j0">2020</td>
