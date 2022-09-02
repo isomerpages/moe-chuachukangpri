@@ -12,4 +12,4 @@ The school has **3 strategic thrusts** to help it achieve its vision.
 ##### **Leaders of Good Character**
  
 ### Strategic Thrust 3   
-**Quality Staff**
+##### **Quality Staff**
