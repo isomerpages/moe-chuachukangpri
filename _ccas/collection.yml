@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Physical Sports/Percussion Ensemble.md
       - Physical Sports/.keep
       - Clubs and Uniformed Groups/.keep
       - Performing Arts/Percussion Ensemble.md
