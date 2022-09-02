@@ -1,5 +1,4 @@
 collections:
   holistic-development:
     output: true
-    order:
-      - CCAS.md
+    order: []
