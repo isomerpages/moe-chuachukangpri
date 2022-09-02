@@ -22,8 +22,8 @@ To achieve these, there are 14 CCAS offered under 3 categories.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yz20{color:#134693;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9ve2{background-color:#cbcefb;border-color:#cbcefb;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xccu{background-color:#cbcefb;border-color:#cbcefb;color:#134693;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
@@ -34,16 +34,16 @@ To achieve these, there are 14 CCAS offered under 3 categories.
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-e2p0"><span style="color:#222">Badminton</span></td>
-    <td class="tg-e2p0"><span style="color:#222">Floorball</span></td>
-    <td class="tg-e2p0"><span style="color:#222">Basketball</span></td>
-    <td class="tg-e2p0"><span style="color:#222">Football</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Badminton</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Floorball</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Basketball</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Football</span></td>
   </tr>
   <tr>
-    <td class="tg-yz20"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/football" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-xccu"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/football" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
   </tr>
 </tbody>
 </table>
