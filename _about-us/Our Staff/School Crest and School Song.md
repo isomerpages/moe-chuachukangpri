@@ -14,3 +14,5 @@ third_nav_title: Our Staff
 *   The pages and the spine of the book take the form of a burning torch that signifies the passing on of knowledge, values and habits.
 *   The Arrows show the way to Excellence through Discipline and Diligence.
 *   The Colour apple-green is symbolic of vitality, blue signifies graciousness, gold represents excellence, and flaming yellow stands for commitment.
+
+<center>Together they depict Chua Chu Kang Primary School's motto:<br><h5>"Excellence through Discipline and Diligence"</h5></center>
