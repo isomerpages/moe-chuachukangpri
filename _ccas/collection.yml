@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs and Uniformed Groups/.keep
       - Performing Arts/.keep
       - Physical Sports/.keep
