@@ -22,11 +22,11 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-32j0">1994</td>
-    <td class="tg-zybv">Chua Chu Kang Primary School started operations on 2 January 1994 with 400 students from Primary One to Primary Four under the leadership of Mr Raja Rajendra using South View Primary School as the holding site. Mr Tan Boon Chee was appointed as the vice-principal of the school.<br><br><img src="/images/Hist%201.jpeg">Official handling of the school keys to the School Leader at the school foyer (1994)<br><br></td>
+    <td class="tg-zybv">Chua Chu Kang Primary School started operations on 2 January 1994 with 400 students from Primary One to Primary Four under the leadership of Mr Raja Rajendra using South View Primary School as the holding site. Mr Tan Boon Chee was appointed as the vice-principal of the school.<br><br><img src="/images/Hist%201.jpeg"><center>Official handling of the school keys to the School Leader at the school foyer (1994)</center><br></td>
   </tr>
   <tr>
     <td class="tg-488e">1995</td>
-    <td class="tg-ykq9">The school moved to its present site in 1995. It had an enrolment of 1 500 students in 44 classes from Primary One to Primary Five.<br><br>Our Primary 5 students from Art Club won the Distinction Award In the Singapore Youth Festival (SYF).<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist2.jpeg"></span>The first Annual Speech and Prize Presentation Ceremony in the School Hall (1995)<br></td>
+    <td class="tg-ykq9">The school moved to its present site in 1995. It had an enrolment of 1 500 students in 44 classes from Primary One to Primary Five.<br><br>Our Primary 5 students from Art Club won the Distinction Award In the Singapore Youth Festival (SYF).<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist2.jpeg"></span><center>The first Annual Speech and Prize Presentation Ceremony in the School Hall (1995)</center></td>
   </tr>
   <tr>
     <td class="tg-32j0">1997</td>
@@ -34,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">1999</td>
-    <td class="tg-ykq9">Mrs Yue Yoke Mun took over the leadership of the school while the school bid farewell to Mr <span style="background-color:initial">Raja Rajendra.</span><br><br><br>The Parent Support Group was formed.<br><br>Our Basketball Senior Boys emerged as National Champions in the National School Games.</td>
+    <td class="tg-ykq9">Mrs Yue Yoke Mun took over the leadership of the school while the school bid farewell to Mr <span style="background-color:initial">Raja Rajendra.</span><br><br>The Parent Support Group was formed.<br><br>Our Basketball Senior Boys emerged as National Champions in the National School Games.</td>
   </tr>
   <tr>
     <td class="tg-32j0">2000</td>
@@ -82,7 +82,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">2011</td>
-    <td class="tg-ykq9">Mrs Lee Wai Ling was appointed the fourth principal.<br><br>Mdm Chilukuri Dimps joined the school as vice-principal.<br><br>The school was awarded the National Arts Education Glow Award.<br><br><br><br><span style="background-color:initial">Our Badminton Senior Girls emerged 4th</span> <span style="background-color:initial">in the West Zone Division in the National School Games.</span><br><br>Chua Chu Kang Primary was recognised as a ‘Leader in Me School’ by Sean Covey, President of FranklinCovey Education, who visited the school.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist3.jpeg"></span><br><br><span style="background-color:initial">Chua Chu Kang Primary is recognised as a ‘Leader in Me School’ in 2011 by Sean Covey, President of FranklinCovey Education.</span><br></td>
+    <td class="tg-ykq9">Mrs Lee Wai Ling was appointed the fourth principal.<br><br>Mdm Chilukuri Dimps joined the school as vice-principal.<br><br>The school was awarded the National Arts Education Glow Award.<br><br><span style="background-color:initial">Our Badminton Senior Girls emerged 4th</span> <span style="background-color:initial">in the West Zone Division in the National School Games.</span><br><br>Chua Chu Kang Primary was recognised as a ‘Leader in Me School’ by Sean Covey, President of FranklinCovey Education, who visited the school.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist3.jpeg"></span><center><span style="background-color:initial">Chua Chu Kang Primary is recognised as a ‘Leader in Me School’ in 2011 by Sean Covey, President of FranklinCovey Education.</span></center></td>
   </tr>
   <tr>
     <td class="tg-32j0">2012</td>
@@ -94,7 +94,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-32j0">2014</td>
-    <td class="tg-zybv"><span style="background-color:initial">Robotics was recognised as the school’s Applied Learning Programme (ALP). With the extra support provided, the school continued to expand and improve the quality of its robotics programme.</span><br><br><br>The school was accorded the Learning for Life Programme (LLP), ‘A Confident and Caring Leader – Leading Through C.A.R.E.’. With the extra support provided, the school funded level-wide leadership training workshops for all students.<br><br>Educators from National Taipei University of Education visited the school to find out more about our Mother Tongue (Chinese Language) Programme.<br><br><br>The school hosted delegates during the ICTLT Delegates Visit.<br><br>The School celebrated its 20th Anniversary at Warren Golf and Country Club. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC, was the Guest Of Honour.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist4.jpeg"></span><br><br><span style="background-color:initial">The School celebrated its 20th Anniversary at Warren Golf and Country Club in 2014. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC was the GOH </span><br></td>
+    <td class="tg-zybv"><span style="background-color:initial">Robotics was recognised as the school’s Applied Learning Programme (ALP). With the extra support provided, the school continued to expand and improve the quality of its robotics programme.</span><br><br><br>The school was accorded the Learning for Life Programme (LLP), ‘A Confident and Caring Leader – Leading Through C.A.R.E.’. With the extra support provided, the school funded level-wide leadership training workshops for all students.<br><br>Educators from National Taipei University of Education visited the school to find out more about our Mother Tongue (Chinese Language) Programme.<br><br><br>The school hosted delegates during the ICTLT Delegates Visit.<br><br>The School celebrated its 20th Anniversary at Warren Golf and Country Club. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC, was the Guest Of Honour.<br><br><span style="font-weight:400;font-style:normal"><img src="/images/hist4.jpeg"></span><center><span style="background-color:initial">The School celebrated its 20th Anniversary at Warren Golf and Country Club in 2014. Mr Zaqy Mohamed, Member of Parliament for Chua Chu Kang GRC was the GOH </span></center></td>
   </tr>
   <tr>
     <td class="tg-488e">2015</td>
