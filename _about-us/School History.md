@@ -22,7 +22,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-32j0">1994</td>
-    <td class="tg-zybv">Chua Chu Kang Primary School started operations on 2 January 1994 with 400 students from Primary One to Primary Four under the leadership of Mr Raja Rajendra using South View Primary School as the holding site. Mr Tan Boon Chee was appointed as the vice-principal of the school.<br><br><br>(IMAGE HERE)<br><br>Official handling of the school keys to the School Leader at the school foyer (1994)<br><br></td>
+    <td class="tg-zybv">Chua Chu Kang Primary School started operations on 2 January 1994 with 400 students from Primary One to Primary Four under the leadership of Mr Raja Rajendra using South View Primary School as the holding site. Mr Tan Boon Chee was appointed as the vice-principal of the school.<br><br><img src="/images/Hist%201.jpeg">Official handling of the school keys to the School Leader at the school foyer (1994)<br><br></td>
   </tr>
   <tr>
     <td class="tg-488e">1995</td>
