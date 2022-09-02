@@ -3,3 +3,47 @@ title: CCAS
 permalink: /holistic-development/CCAS/
 description: ""
 ---
+### Objectives
+
+1. To develop character, values, leadership and life skills in our students through engaging activities.
+
+2. To provide our students with a variety of platforms to realise their strengths and excel in non- academic pursuits.
+
+3. To provide our students an avenue to foster social integration, commitment and sense of responsibility to school. 
+
+
+To achieve these, there are 14 CCAS offered under 3 categories.
+
+### Physical Sports 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yz20{color:#134693;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-e2p0"><span style="color:#222">Badminton</span></td>
+    <td class="tg-e2p0"><span style="color:#222">Floorball</span></td>
+    <td class="tg-e2p0"><span style="color:#222">Basketball</span></td>
+    <td class="tg-e2p0"><span style="color:#222">Football</span></td>
+  </tr>
+  <tr>
+    <td class="tg-yz20"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-e2p0"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/football" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+  </tr>
+</tbody>
+</table>
