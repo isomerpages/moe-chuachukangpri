@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <img src="/images/Mrs%20Sheree%20Chong.jpg" 
-     style="width:25%">
+     style="width:30%">
 		 
 		 
 <style type="text/css">
