@@ -103,9 +103,38 @@ To achieve these, there are 14 CCAS offered under 3 categories.
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-9ve2"><span style="color:#222">Art and Crafts Club</span></td>
-    <td class="tg-9ve2"><span style="color:#222">Environmental Science Club</span></td>
-    <td class="tg-9ve2"><span style="color:#222">Robotics Club</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Chinese Dance</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Malay Dance</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Indian Dance</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xccu"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9ve2{background-color:#cbcefb;border-color:#cbcefb;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xccu{background-color:#cbcefb;border-color:#cbcefb;color:#134693;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9ve2"><span style="color:#222">English Drama Club</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Choir</span></td>
+    <td class="tg-9ve2"><span style="color:#222">Percussion Ensemble</span></td>
   </tr>
   <tr>
     <td class="tg-xccu"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
