@@ -16,3 +16,7 @@ third_nav_title: Our Staff
 *   The Colour apple-green is symbolic of vitality, blue signifies graciousness, gold represents excellence, and flaming yellow stands for commitment.
 
 <center>Together they depict Chua Chu Kang Primary School's motto:<h5>"Excellence through Discipline and Diligence"</h5></center>
+
+#### School Song
+
+https://soundcloud.com/cckpsofficial/cck-ps-school-song?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
