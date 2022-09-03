@@ -200,3 +200,30 @@ National Education Ambassadors will share global or local news of the month with
 **Primary 4** – National Art Museum    
 **Primary 5** – Heritage Trail to Chinatown   
 **Primary 6** – Asian Civilisation Museum and Sungei Buloh
+
+
+### **Reflection**
+
+Students will internalize what they have learnt through reflections done from NE core events and SS learning journeys. Primary 6 students will participate in the biennial Citizenship Education Quiz and the annual National Education Quiz at the end of the year.
+
+  
+
+###### **Engagement through V.I.A Activities**
+
+Students engage in V.I.A activities that are appropriate to their level. We want our students to be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all. 
+
+**Primary 1** – Sharing examples of being proactive in their daily life (self)   
+**Primary 2** – Helping with household chores (home)   
+**Primary 3** – Keeping school compound clean (school)   
+**Primary 4** – Dengue Mobster (community)   
+**Primary 5** – Food from the Heart (nation)   
+**Primary 6** \- Book Donation Drive for Mobile Library in Africa (world)
+
+  
+
+  
+
+##### **NE Dispositions in CCKPS**
+
+**Sense of Belonging**   
+To develop a deeper understanding of who we are and what values are important to us as a nation.
