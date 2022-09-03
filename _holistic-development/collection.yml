@@ -2,5 +2,6 @@ collections:
   holistic-development:
     output: true
     order:
+      - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - CCAS.md
