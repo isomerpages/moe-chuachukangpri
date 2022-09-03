@@ -230,3 +230,19 @@ To develop a deeper understanding of who we are and what values are important to
 
 ![](/images/ne1.png)
 <center><strong>We are all part of Singapore</strong></center>
+
+##### Sense of Reality
+To be aware of the contemporary realities (constraints and vulnerabilities) which could affect us as a nation.
+
+
+
+##### Sense of Hope
+Having confidence and optimism in Singapore’s future and resilience to face the challenges ahead. 
+
+
+
+##### The Will to Act
+To be active citizens who have a collective resolve and a sense of shared mission towards building a nation for all. 
+
+
+
