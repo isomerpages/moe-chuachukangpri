@@ -47,3 +47,5 @@ It aims to develop national cohesion, cultivate the instinct for survival as a n
   
 
 We do the above through our Social Studies syllabus and the 4 core events, which are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.
+
+![](/images/CCE.png)
