@@ -95,9 +95,7 @@ The school also uses SLS to roll out Cyber Wellness lesson packages termly to al
 ![](/images/ict2.png)
 
 ##### Resources
-**<u>MOE Cyber Wellness Useful Links</u>**
-
-  
+**MOE Cyber Wellness Useful Links**
 
 **[MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/)**   
 **[Parent Kit - Cyber Wellness for your child](http://go.gov.sg/moe-cyber-wellness)**   
