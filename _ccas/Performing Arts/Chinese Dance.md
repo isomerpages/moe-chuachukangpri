@@ -4,6 +4,8 @@ permalink: /ccas/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+#### E-Showcase
+
 <a href = "https://vimeo.com/588126881/1a0c521eca" target = "_self"> 
           <img src="/images/cd1.png"></a>
 
