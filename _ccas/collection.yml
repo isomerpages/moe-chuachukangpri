@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Physical Sports/.keep
+      - Clubs and Uniformed Groups/Robotics Club.md
       - Clubs and Uniformed Groups/.keep
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Malay Dance.md
