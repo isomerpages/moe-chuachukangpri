@@ -144,3 +144,24 @@ To achieve these, there are 14 CCAS offered under 3 categories.
   </tr>
 </tbody>
 </table>
+
+
+#### P2 CCA Showcase
+
+Dear Parents,   
+  
+To sign up for the CCAS, you may either  
+  
+1.  Click on the tab below to access the **CCKPS CCA Option Form 2022.**
+
+<a href = "https://go.gov.sg/2022p2ccaoption" target = "_self"> 
+	<img src="/images/ccaoptionform2022.png"></a>
+
+
+or   
+  
+2\. Scan the QR code below.
+
+<img src="/images/download.png" 
+     style="width:20%">
+
