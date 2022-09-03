@@ -74,3 +74,20 @@ The ICT skill competencies are set out in progressive stages (Table 1). These re
   </tr>
 </tbody>
 </table>
+
+##### Cyber Wellness Programme
+
+<img src="/images/ICT6.png" 
+     style="width:35%">
+
+
+
+Our aim is to equip our students with skills and knowledge to become responsible and discerning digital learners, demonstrate respect for self and others and practise safe and responsible use of digital resources.
+
+  
+
+Student advocates share their understanding of Cyber Wellness issues through pre-assembly talks. Professional speakers engage our students through assembly talks on various Cyber Wellness topics. In the classroom, lessons on Cyber Wellness are carried out during the Form Teacher Guidance Period. Form Teachers conduct discussions on Cyber Wellness issues and how to go about navigating the cyber world.
+
+  
+
+The school also uses SLS to roll out Cyber Wellness lesson packages termly to all students to constantly engage them.
