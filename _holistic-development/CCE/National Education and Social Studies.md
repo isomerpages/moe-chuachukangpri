@@ -66,3 +66,71 @@ Students will participate in V.I.A activities – to be active citizens who have
   </tr>
 </tbody>
 </table>
+
+
+##### **Character (Built Through Instructions)** 
+
+  
+
+##### **1\. Social Studies Curriculum**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 767px">
+<colgroup>
+<col style="width: 137px">
+<col style="width: 200px">
+<col style="width: 122px">
+<col style="width: 141px">
+<col style="width: 167px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">Cluster of Studies</td>
+    <td class="tg-5ws4">Topic of Studies</td>
+    <td class="tg-5ws4">Core Values<br>(SS Syllabus)</td>
+    <td class="tg-5ws4">NE Disposition</td>
+    <td class="tg-5ws4">CCE Learning Outcome</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4" rowspan="2">Discovering self and immediate environment</td>
+    <td class="tg-7fd7">Primary 1: Knowing Myself, Others and My Surroundings</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Harmony</td>
+    <td class="tg-2rp9">A sense of belonging</td>
+    <td class="tg-2rp9" rowspan="6">LO5: Take pride in our national identity, have a sense of belonging to Singapore and be committed to nation-building<br> <br>LO6: Value Singapore’s socio-cultural diversity, and promote social cohesion and harmony<br> <br>LO7: Care for others and contribute actively to the progress of our community and nation<br> <br>LO8: Reflect on and respond to community, national and global issues, as an informed and responsible<br>citizen</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Primary 2: Coming Together as A Nation</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Harmony<br>Resilience</td>
+    <td class="tg-7fd7" rowspan="4">A sense of belonging<br><br>A sense of reality<br> <br>A sense of hope</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4" rowspan="2">Understanding Singapore in the Past and Present</td>
+    <td class="tg-7fd7">Primary 3: Understand Singapore's Environment and Challenges</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Resilience</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Primary 4: Understanding Our Past</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Harmony<br>Resilience</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4" rowspan="2">Appreciating Singapore, the region and the world we live in</td>
+    <td class="tg-2rp9">Primary 5: Understanding Singapore's Development and Understanding S.E.A's Diversity and Interconnectedness</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Harmony<br>Resilience<br>Integrity</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Primary 6: Understanding Features and Legacies of Civilisations</td>
+    <td class="tg-2rp9">Respect<br>Responsibility<br>Care<br>Resilience</td>
+    <td class="tg-7fd7">A sense of belonging<br> <br>A sense of reality</td>
+  </tr>
+</tbody>
+</table>
