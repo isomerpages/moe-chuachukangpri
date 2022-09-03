@@ -4,6 +4,7 @@ permalink: /ccas/Clubs-and-Uniformed-Groups/arts-and-craft-club/
 description: ""
 third_nav_title: Clubs and Uniformed Groups
 ---
+#### E-Showcase
 <a href = "https://vimeo.com/587640393/ac8d6badd1" target = "_self"> 
           <img src="/images/aac1.png"></a>
 
@@ -62,4 +63,3 @@ Art and Crafts Club aspires to groom young artists by broadening their perspecti
   </tr>
 </tbody>
 </table>
-
