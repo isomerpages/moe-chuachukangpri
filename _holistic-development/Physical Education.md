@@ -54,3 +54,10 @@ NAPFA is a tool that the school uses for students to measure their own physical 
 
 **Primary 5 Camp**   
 The 3-day-2-night Primary 5 Cohort Camp is the highlight of the primary education our students have gone through with us.  This is their opportunity to apply the skills learnt in Outdoor Education modules and also the school values and the 7 Habits.  Through experiential learning, students learnt to apply all that they have learnt to work with one another through the various activities, resolve conflict and making sound decision for the group.  Adventure obstacle courses train our students to strengthen their resilience and not to give up when faced with challenges.  Students also learnt to encourage and help their classmates to give their best.  The experiences from the camp toughen our students’ mind and teach them valuable lessons outside the classrooms, and prepare them to be Future-Ready.
+
+![](/images/pe1.png)
+
+![](/images/pe2.png)
+
+<img src="/images/5.jpeg" 
+     style="width:85%">
