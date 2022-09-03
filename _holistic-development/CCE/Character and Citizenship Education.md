@@ -24,28 +24,24 @@ c)       understand their family and friends (social-awareness)
 d)      learn how to work with their family and friends (relationship management)    
 e)      make appropriate and responsible decisions (responsible decision making)
 
-  
 
 During FTGP, 1-to-1 interaction is also carried out between the Form Teachers and the students, to allow the Form Teachers to have heart-to-heart conversations with each student to get to know each student better.
 
   
 
-### **Programmes & Activities**
+#### **Programmes & Activities**
 
-**Pre-assembly and Assembly Talks**
-
+**<u>Pre-assembly and Assembly Talks</u>**    
 The pre-assembly and assembly talks aim to create a learning, thinking and reflecting environment for the students.  
 
   
 
-**Recess Activities**
-
+**<u>Recess Activities</u>**     
 The varied recess activities allow students to continue their learning beyond the classroom.  
 
   
 
-**Citizenship Education**
-
+**<u>Citizenship Education</u>**   
 It aims to develop national cohesion, cultivate the instinct for survival as a nation and instill in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
 
   
