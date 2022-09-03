@@ -22,10 +22,10 @@ third_nav_title: Physical Sports
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://vimeo.com/588123217/864ec9bee5" target = "_self"> 
 			<img src="/images/bbb.png"></a>
 </td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "https://vimeo.com/588125180/3293adba41" target = "_self"> 
 			<img src="/images/bbg.png"></td>
   </tr>
 </tbody>
