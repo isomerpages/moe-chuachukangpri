@@ -300,14 +300,3 @@ We would like to congratulate the following students as their works were chosen 
   </tr>
 </tbody>
 </table>
-
-
-![](/images/nes1.png)
-
-![](/images/nes2.png)
-![](/images/nes3.png)
-![](/images/nes4.png)
-![](/images/nes5.png)
-![](/images/nes6.png)
-![](/images/nes7.png)
-![](/images/nes8.png)
