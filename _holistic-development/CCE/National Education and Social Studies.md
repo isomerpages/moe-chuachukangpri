@@ -38,31 +38,29 @@ Students will participate in V.I.A activities – to be active citizens who have
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ztvg{background-color:#FFF;color:#000000;text-align:center;vertical-align:middle}
 .tg .tg-0djp{background-color:#FFF;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-lppf{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1bbm{background-color:#FFF;color:#000000;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 895px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 142px">
-<col style="width: 221px">
-<col style="width: 224px">
-<col style="width: 181px">
-<col style="width: 127px">
+<col style="width: 113px">
+<col style="width: 200px">
+<col style="width: 201px">
+<col style="width: 164px">
+<col style="width: 122px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-0djp"> </td>
-    <td class="tg-lppf">Character<br><span style="background-color:initial">(built through instructions)</span></td>
-    <td class="tg-lppf">Attitude<br>(mold through experience)</td>
-    <td class="tg-lppf">Reflection</td>
-    <td class="tg-lppf">Engagement</td>
+    <td class="tg-0djp">Character<br><span style="background-color:initial">(built through instructions)</span></td>
+    <td class="tg-0djp">Attitude<br>(mold through experience)</td>
+    <td class="tg-0djp">Reflection</td>
+    <td class="tg-0djp">Engagement</td>
   </tr>
   <tr>
-    <td class="tg-lppf">Citizenry Education</td>
+    <td class="tg-0djp">Citizenry Education</td>
     <td class="tg-ztvg">1)    Social Studies curriculum including discussion of contemporary issue in P5<br><br>2)    CCE Lessons (NE Core events)<br><br>3)    News of the month sharing during PAT</td>
     <td class="tg-ztvg">1)    NE core events<br><br>2)    SS Learning Journeys</td>
     <td class="tg-ztvg">1)    Reflection from core events/ LJ<br><br>2)    CE Quiz<br><br>3)    NE Quiz</td>
-    <td class="tg-1bbm">V.I.A activities</td>
+    <td class="tg-ztvg">V.I.A activities</td>
   </tr>
 </tbody>
 </table>
