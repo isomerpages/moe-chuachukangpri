@@ -134,3 +134,69 @@ Students will participate in V.I.A activities – to be active citizens who have
   </tr>
 </tbody>
 </table>
+
+
+##### **2\. CCE Lessons (NE Core Events)** 
+
+National Education CCE lessons in Mother Tongue are dispatched by CCEB to engage all students in meaningful discussions pertaining to the NE event. 
+
+  
+
+##### **3\. News of the month sharing during Pre-assembly (NEW)**
+
+National Education Ambassadors will share global or local news of the month with students during pre-assembly slots. 
+
+  
+
+
+##### **Attitude (Mould through Experience)** 
+
+1\. NE commemorative days in CCKPS comprises of mass assembly and a whole week of meaningful recess activities to foster a sense of pride and belonging to Singapore. The NE commemorative days are:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 749px">
+<colgroup>
+<col style="width: 282px">
+<col style="width: 467px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">Total Defence Day</td>
+    <td class="tg-7fd7">Total Defence Day is held on 15 February each year to commemorate the fall of Singapore to the Japanese in 1942. On this day, activities held in school serve to remind pupils that Singapore can be defended and is worth defending, and that Singaporeans themselves are responsible for the defence of Singapore. Students will learn the 6 aspects of Total Defence and how they can play a part in each aspect.</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4">International Friendship Day</td>
+    <td class="tg-7fd7">International Friendship Day is celebrated in schools on the third Friday of Term Two. This is a day dedicated to the understanding of Singapore's relations with its neighbours, and aims to nurture in students the spirit of friendship and collaboration among different people.</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4">Racial Harmony Day</td>
+    <td class="tg-7fd7">Racial Harmony Day, which is commemorated on 21 July, marks the race riots that broke out in Singapore on this day in 1964, reminding students that social division weakens society, and that race and religion will always be potential fault-lines in Singapore’s society. It is a day for students to reflect on and celebrate the nation’s success as a harmonious society, built on cultural diversity.</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4">National Day</td>
+    <td class="tg-7fd7">National Day on 9 August celebrates Singapore’s independence from Malaysia and its emergence as a sovereign nation. We come together to celebrate Singapore’s achievements, progress and stay strong as a nation.</td>
+  </tr>
+  <tr>
+    <td class="tg-5ws4">Primary 5 National Education Show</td>
+    <td class="tg-7fd7">All Primary 5 students are invited to attend the National Education Show, which is essentially a preview of the National Day Parade. The parade provides a unifying experience amongst each cohort of students on what it means to be a Singaporean, evoke in them a sense of pride and patriotism and to impart to them the significance of National Day.</td>
+  </tr>
+</tbody>
+</table>
+
+
+2) Social Studies Learning Journeys
+
+**Primary 1** – Singapore Zoo    
+**Primary 2** – Singapore Zoo    
+**Primary 3**  - Gardens By the Bay   
+**Primary 4** – National Art Museum    
+**Primary 5** – Heritage Trail to Chinatown   
+**Primary 6** – Asian Civilisation Museum and Sungei Buloh
