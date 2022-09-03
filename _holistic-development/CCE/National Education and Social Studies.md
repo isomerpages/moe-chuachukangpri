@@ -247,3 +247,18 @@ To be active citizens who have a collective resolve and a sense of shared missio
 
 ![](/images/ne4.png)
 
+
+#### Achievements 
+
+
+Chua Chu Kang Primary School has been credited in the 2020 and 2021 time capsule at the National Museum of Singapore and also on NDP website 2021 for participating in ‘Our Heart for Singapore’ event.
+  
+
+**Title for achievement in 2020**   
+Our Heart for Singapore NDP 2020 Together, A Stronger Singapore (Certificate of Recognition)
+
+**Title for achievement in 2021**   
+Our Heart for Singapore NDP 2021 Together, Our Singapore Spirit (Certificate of Appreciation) 
+
+
+We would like to congratulate the following students as their works were chosen for ‘Our Heart for Singapore’ online gallery.
