@@ -113,9 +113,9 @@ To achieve these, there are 14 CCAS offered under 3 categories.
     <td class="tg-9ve2"><span style="color:#222">Indian Dance</span></td>
   </tr>
   <tr>
-    <td class="tg-xccu"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-xccu"><a href="/ccas/Performing-Arts/chinese-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="/ccas/Performing-Arts/malay-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="/ccas/Performing-Arts/indian-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -142,9 +142,9 @@ To achieve these, there are 14 CCAS offered under 3 categories.
     <td class="tg-9ve2"><span style="color:#222">Percussion Ensemble</span></td>
   </tr>
   <tr>
-    <td class="tg-xccu"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/badminton" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/floorball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-9ve2"><a href="https://chuachukangpri.moe.edu.sg/holistic-development/ccas/physical-sports/basketball" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-xccu"><a href="/ccas/Performing-Arts/english-drama-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="/ccas/Performing-Arts/choir/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="/ccas/Performing-Arts/percussion-ensemble/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
   </tr>
 </tbody>
 </table>
