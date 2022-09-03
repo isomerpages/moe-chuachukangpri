@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Physical Sports/.keep
+      - Clubs and Uniformed Groups/Art and Crafts Club.md
       - Clubs and Uniformed Groups/Scouts.md
       - Clubs and Uniformed Groups/Environmental Science Club.md
       - Clubs and Uniformed Groups/Robotics Club.md
