@@ -227,3 +227,6 @@ Students engage in V.I.A activities that are appropriate to their level. We want
 
 **Sense of Belonging**   
 To develop a deeper understanding of who we are and what values are important to us as a nation.
+
+![](/images/ne1.png)
+<center><strong>We are all part of Singapore</strong></center>
