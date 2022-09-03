@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Physical Sports/Floorball.md
       - Physical Sports/Football.md
       - Physical Sports/.keep
       - Clubs and Uniformed Groups/Art and Crafts Club.md
