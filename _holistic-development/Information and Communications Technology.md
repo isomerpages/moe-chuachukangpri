@@ -91,3 +91,18 @@ Student advocates share their understanding of Cyber Wellness issues through pre
   
 
 The school also uses SLS to roll out Cyber Wellness lesson packages termly to all students to constantly engage them.
+
+![](/images/ict2.png)
+
+##### Resources
+**<u>MOE Cyber Wellness Useful Links</u>**
+
+  
+
+**[MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/)**   
+**[Parent Kit - Cyber Wellness for your child](http://go.gov.sg/moe-cyber-wellness)**   
+**[Practising Cyber Wellness](https://beta.moe.gov.sg/programmes/cyber-wellness/)**   
+**[Parents Guide for better Internet Usage](http://go.gov.sg/better-internet-sg)**   
+**[National Library's Learning & Information Literacy resources](http://sure.nlb.gov.sg/)**   
+**[Help123- Cyber Wellness and digital parenting platform](http://help123.sg/)**   
+**[TOUCH Community Services](https://www.touch.org.sg/about-touch/our-services/touch-cyber-wellness-homepage)**
