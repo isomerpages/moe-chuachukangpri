@@ -10,7 +10,8 @@ third_nav_title: Clubs and Uniformed Groups
 ![](/images/rbc2.png)
 
 
-<iframe width="469" height="263" src="https://www.youtube.com/embed/wbgPUKjN92g" title="P1.2 - SG1034 (Singapore Region) - iCooL Best Presentation Candidate - CoSpace GP FirstSteps U12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbgPUKjN92g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **In May 2020, Nitin Ramesh, from Primary 4IN4 prepared for Robocup Asia Pacific Cospace Challenges with his Robotics Club team members. He participated in RCAP Cospace Grand Prix, FirstSteps, U12 and won several awards. Click [here](https://www.youtube.com/watch?reload=9&v=wbgPUKjN92g&feature=youtu.be) to watch his video if you are unable to view the video above.**
   
