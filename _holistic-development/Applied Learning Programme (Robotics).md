@@ -43,7 +43,7 @@ Our ALP is structured in three tiers as follows:
     <td class="tg-xwen">Student Population</td>
   </tr>
   <tr>
-    <td class="tg-lr6o">1<br></td>
+    <td class="tg-22b2">1<br></td>
     <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Experience</span><br>All Primary 1 to Primary 6 students<br>(Refer to Table 1)</td>
   </tr>
   <tr>
