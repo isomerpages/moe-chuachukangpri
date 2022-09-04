@@ -160,5 +160,4 @@ Music mini-performances 
 Aesthetics Day
 
 
-<u>**Students performing on various instruments during our very first Aesthetics Day**</u>
-
+<u><center><strong>Students performing on various instruments during our very first Aesthetics Day</strong></center></u>
