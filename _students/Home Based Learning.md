@@ -108,7 +108,7 @@ Saturdays: 9.00 a.m. to 4.00 p.m.
 
 d) Email SLS at **[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**
 
-For more FAQs on SLS, please click **[here]()**.
+For more FAQs on SLS, please click **[here](/students/sls/)**.
 
 ### Zoom Guide for Parents and Students
 
