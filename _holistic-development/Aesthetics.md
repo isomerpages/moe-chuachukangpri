@@ -169,13 +169,9 @@ Aesthetics Day
 
 ![](/images/aes3.jpeg)
 
-
-
 <center><strong><u>Lower Primary Music Fiesta</u></strong></center>
 
-
-
-
+![](/images/aes4.png)
 
 
 <center><strong><u>Student-Centric lessons that encourages exploration, problem solving and discovery!</u></strong></center>
@@ -196,6 +192,3 @@ Aesthetics Day
 
 
 <center><strong><u>P5 Chinese Ink Painting</u></strong></center>
-
-
-
