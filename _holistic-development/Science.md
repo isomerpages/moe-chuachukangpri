@@ -131,3 +131,17 @@ Every year, the Science Centre organises this interesting competition for studen
 ![](/images/sci4.png)
 ![](/images/sci3.png)
 ![](/images/sci5.png)
+
+
+##### **Dengue Mobster (P4)**
+
+Primary 4 students will be spreading dengue prevention messages to their fellow schoolmates as well as the residents in the nearby residential blocks using their wonderfully prepared posters and charts!
+
+![](/images/sci6.png)
+![](/images/sci7.png)
+
+### **Hydroponics (P4)**
+
+The Primary 4 students will get to grow and harvest some local vegetables like Bayam and Kangkong. The students will have a much deeper understanding of the life cycle of plants as they observe and monitor the growth of the vegetables.
+
+![](/images/sci8.png)
