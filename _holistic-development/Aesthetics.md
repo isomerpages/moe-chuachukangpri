@@ -158,3 +158,7 @@ Museum-Based Learning (P4)
 Music Fiesta (P1 & P2)   
 Music mini-performances    
 Aesthetics Day
+
+
+<u>**Students performing on various instruments during our very first Aesthetics Day**</u>
+
