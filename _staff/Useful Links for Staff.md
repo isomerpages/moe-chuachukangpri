@@ -78,3 +78,33 @@ description: ""
 </table>
 
 #### **Teaching and Learning Links**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 480px">
+<colgroup>
+<col style="width: 315px">
+<col style="width: 165px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-xwen">Student Learning Space (SLS)</td>
+    <td class="tg-22b2"> <a href="https://vle.learning.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#FFF;background-color:#CCC">Click Here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwen">One Portal All Learners (OPAL 2.0)</td>
+    <td class="tg-22b2"><br><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3Dwtj-_CyyRG56gdMwdaPHb-4Lhn1zWvpaLEd4VOtk39q1Y%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DAp7aqdvY63VSY-e6Dv0sqTel8CnraTPUGeY4fHBR46o%26code_challenge_method%3DS256%26nonce%3Dwtj-_CyyRG56gdMwdaPHb-4Lhn1zWvpaLEd4VOtk39q1Y" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xwen">My Skills Future Student Portal</td>
+    <td class="tg-22b2"><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
+  </tr>
+</tbody>
+</table>
