@@ -33,27 +33,23 @@ Creating a **Vibrant Aesthetics Culture (VAC)** through:
 .tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 544px">
-<colgroup>
-<col style="width: 52px">
-<col style="width: 492px">
-</colgroup>
+<table class="tg">
 <tbody>
   <tr>
     <td class="tg-u05r">P3</td>
-    <td class="tg-vqm8">Digital Art <br><br>Expressing themselves through lines, shapes and colours inspired by Wassily Kandinsky.</td>
+    <td class="tg-vqm8">Digital Art<br>Expressing themselves through lines, shapes and colours inspired by Wassily Kandinsky.</td>
   </tr>
   <tr>
     <td class="tg-u05r">P4</td>
-    <td class="tg-vqm8">Batik Painting<br><br>Understanding colours through toning and exploring a different medium.</td>
+    <td class="tg-vqm8">Batik Painting<br>Understanding colours through toning and exploring a different medium.</td>
   </tr>
   <tr>
     <td class="tg-u05r">P5</td>
-    <td class="tg-vqm8">Chinese Brush Painting<br><br>Understanding the nuances of brushstrokes through a traditional medium.</td>
+    <td class="tg-vqm8">Chinese Brush Painting<br>Understanding the nuances of brushstrokes through a traditional medium.</td>
   </tr>
   <tr>
     <td class="tg-u05r">P6</td>
-    <td class="tg-vqm8">Digital Art (Animation)<br><br>Expressing ideas through ICT.</td>
+    <td class="tg-vqm8">Digital Art (Animation)<br>Expressing ideas through ICT.</td>
   </tr>
 </tbody>
 </table>
