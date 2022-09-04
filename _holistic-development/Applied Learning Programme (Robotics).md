@@ -23,3 +23,34 @@ Students will learn to be creative in solving problems. Through different proble
 #### **Approach**
 
 Our ALP is structured in three tiers as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-xwen">Tier</td>
+    <td class="tg-xwen">Student Population</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">1<br></td>
+    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Experience</span><br>All Primary 1 to Primary 6 students<br>(Refer to Table 1)</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">2<br></td>
+    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Extension</span><br>Primary 1 and Primary 2 students in the enrichment programme<br>Primary 3 to 6 Robotics Club students<br>Primary 3 to 6 non-Robotics Club students who show aptitude</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">3<br></td>
+    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Expertise</span><br>Primary 3 to 6 Robotics Club students who show aptitude</td>
+  </tr>
+</tbody>
+</table>
