@@ -95,19 +95,19 @@ Creating a **Vibrant Aesthetics Culture (VAC)** through:
   </tr>
   <tr>
     <td class="tg-u05r">P2</td>
-    <td class="tg-vqm8">Music &amp; Movement<br><br>Sing &amp; Dance</td>
+    <td class="tg-vqm8">Music &amp; Movement<br>Sing &amp; Dance</td>
   </tr>
   <tr>
     <td class="tg-u05r">P3</td>
-    <td class="tg-vqm8">Instrumental skills: Recorder &amp; Keyboard<br><br>Ensemble skills: Recorder &amp; classroom instruments</td>
+    <td class="tg-vqm8">Instrumental skills: Recorder &amp; Keyboard<br>Ensemble skills: Recorder &amp; classroom instruments</td>
   </tr>
   <tr>
     <td class="tg-u05r">P4</td>
-    <td class="tg-vqm8">Global music &amp; cultural awareness<br><br>Instrumental skills: Keyboard<br><br>Garageband: Music arrangement using technology.</td>
+    <td class="tg-vqm8">Global music &amp; cultural awareness<br>Instrumental skills: Keyboard<br>Garageband: Music arrangement using technology.</td>
   </tr>
   <tr>
     <td class="tg-u05r">P5</td>
-    <td class="tg-vqm8">Instrumental skills: Ukulele<br><br>Ensemble skills: Creating a music cover</td>
+    <td class="tg-vqm8">Instrumental skills: Ukulele<br>Ensemble skills: Creating a music cover</td>
   </tr>
   <tr>
     <td class="tg-u05r">P6</td>
@@ -115,5 +115,3 @@ Creating a **Vibrant Aesthetics Culture (VAC)** through:
   </tr>
 </tbody>
 </table>
-	
-	
