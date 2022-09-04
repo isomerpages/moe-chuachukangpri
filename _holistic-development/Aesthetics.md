@@ -176,19 +176,19 @@ Aesthetics Day
 
 <center><strong><u>Student-Centric lessons that encourages exploration, problem solving and discovery!</u></strong></center>
 
-
-
-
+![](/images/aes5.png)
+![](/images/aes6.png)
 
 
 <center><strong><u>Primary 4 Museum Based Learning to NUS Museum</u></strong></center>
 
-
-
+![](/images/aes7.png)
 
 <center><strong><u>P4 Batik Painting</u></strong></center>
 
-
-
+![](/images/aes.png)
+![](/images/aes8.png)
 
 <center><strong><u>P5 Chinese Ink Painting</u></strong></center>
+
+![](/images/aes9.png)
