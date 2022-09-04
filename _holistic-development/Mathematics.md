@@ -77,6 +77,6 @@ Our department programmes are aligned to the MOE Mathematics Framework. We aim t
 ##### **Useful Resources/Links**
 
 *   Click **[here](https://problemsums.koobits.com/)** for Koobits (P1 – P4)  
-*   Click **[here](https://chuachukangpri.moe.edu.sg/qql/slot/u151/2021/mathematics_syllabus_primary_1_to_6.pdf)** for MOE Mathematics Syllabus (P1 – P6)  
-*   Click **[here](https://chuachukangpri.moe.edu.sg/qql/slot/u151/Assessment%20Plan/guidelines_calculators.pdf)** for SEAB approved calculator list (P5 and P6 only)
-*   Click **[here](https://chuachukangpri.moe.edu.sg/qql/slot/u151/2021/PSLE%20Math%20SEAB%20Website.pdf)** for information on PSLE Mathematics SEAB
+*   Click **[here](/files/mathematics_syllabus_primary_1_to_6.pdf)** for MOE Mathematics Syllabus (P1 – P6)  
+*   Click **[here](/files/guidelines_calculators.pdf)** for SEAB approved calculator list (P5 and P6 only)
+*   Click **[here](/files/PSLE%20Math%20SEAB%20Website.pdf)** for information on PSLE Mathematics SEAB
