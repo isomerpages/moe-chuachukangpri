@@ -154,7 +154,7 @@ You can access SLS from internet browsers installed on your mobile phones or equ
     <td class="tg-9n9o"><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
   </tr>
   <tr>
-    <td class="tg-i9lp"><span style="color:#222">5.  Guide to clear browsing history and cache (for students)</span></td>
+    <td class="tg-lr6o"><span style="color:#222">5.  Guide to clear browsing history and cache (for students)</span></td>
     <td class="tg-9n9o"><a href="/files/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
   </tr>
   <tr>
