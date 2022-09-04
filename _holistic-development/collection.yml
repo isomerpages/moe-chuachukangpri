@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mother Tongue Languages/.keep
-      - Mother Tongue Languages.md
       - Aesthetics.md
       - Physical Education.md
       - Programme For Active Learning (PAL).md
