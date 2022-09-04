@@ -8,7 +8,9 @@ Our Applied Learning Programme which revolves around the theme, _A Sustainable 
 
 <center><strong>Framework</strong></center>
 
-![](/images/ALP.png)
+
+<img src="/images/ALP.png" 
+     style="width:45%">
 
 #### **Vision**
 
