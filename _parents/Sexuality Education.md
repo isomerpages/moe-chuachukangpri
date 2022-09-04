@@ -60,4 +60,76 @@ c.        Character and Citizenship Education (CCE)
 
 **7.       The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.**
 
-****At Chua Chu Kang Primary School, the following Sexuality Education lessons will be taught in 2022:****
+**At Chua Chu Kang Primary School, the following Sexuality Education lessons will be taught in <u>2022</u>:**
+
+<center><strong>Primary 5</strong></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-1uvx{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 767px">
+<colgroup>
+<col style="width: 163px">
+<col style="width: 116px">
+<col style="width: 343px">
+<col style="width: 145px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1uvx">UNIT</td>
+    <td class="tg-1uvx">LESSONS / DURATION</td>
+    <td class="tg-xwen">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-1uvx">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">Gosh! I Am Changing</td>
+    <td class="tg-22b2">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-lr6o">·       know what puberty is<br>·       identify the physical changes during puberty</td>
+    <td class="tg-22b2">Term 4 <br>Week 5-6</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2"><span style="color:#222"> Gosh! I Am Changing</span></td>
+    <td class="tg-22b2">What Can I Do? (Part 1)<br> (30 min)</td>
+    <td class="tg-lr6o">·       identify the stresses caused by physical and emotional changes during puberty<br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-22b2">Term 4 <br>Week 5-6</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2"><span style="color:#222"> Gosh! I Am Changing</span></td>
+    <td class="tg-22b2">What Can I Do? (Part 2)<br> (30 min)</td>
+    <td class="tg-lr6o">·       identify the stresses caused by physical and emotional changes during puberty<br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·       describe the emotions caused by physical changes during puberty<br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-22b2">Term 4 <br>Week 5-6</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2"><span style="color:#222"> Gosh! I Am Changing</span></td>
+    <td class="tg-22b2">Main Task<br>(30 min)</td>
+    <td class="tg-lr6o">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-22b2">Term 4 <br>Week 5-6</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">Where I Belong</td>
+    <td class="tg-22b2">What Are Families?<br>(30 min)<br></td>
+    <td class="tg-lr6o">·       know that there are different types of family structures<br>·       know that every family is unique<br>·       state that the three basic functions of families are to provide love, protection and guidance<br>·       identify the right sources of help to turn to when in need</td>
+    <td class="tg-22b2">Term 4 <br>Week 9-10</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">Where I Belong</td>
+    <td class="tg-22b2">What is My Role?<br> (30 min)</td>
+    <td class="tg-lr6o">·       know that gender is about being male or female<br>·       choose not to stereotype by gender</td>
+    <td class="tg-22b2">Term 4<br>Week 9-10</td>
+  </tr>
+  <tr>
+    <td class="tg-22b2">How Do I Keep Myself Safe?</td>
+    <td class="tg-22b2">What is Safety?<br>(30 min)</td>
+    <td class="tg-lr6o">·       know what sexual abuse is<br>·       know that there are laws in Singapore that can protect them from sexual abuse<br>·       know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-22b2">Term 4<br>Week 9-10</td>
+  </tr>
+</tbody>
+</table>
