@@ -90,7 +90,8 @@ Fridays: 7 a.m. to 5 p.m.
 
 Please provide your child’s full name and class.  
 
-d) WhatsApp the school's hotline at **8637 9952**.    
+d) WhatsApp the school's hotline at **8637 9952**.   
+
 Operating hours: Mondays to Fridays: 8 a.m. to 4 p.m.  
 \*Closed on Saturdays, Sundays and Public Holidays
 
@@ -110,7 +111,8 @@ Please provide your child’s full name and class.
 
   
  
-b) WhatsApp the school's hotline at **8637 9952**.    
+b) WhatsApp the school's hotline at **8637 9952**. 
+
 Operating hours:     
 Mondays to Fridays: 8 a.m. to 4 p.m.   
 \*Closed on Saturdays, Sundays and Public Holidays 
