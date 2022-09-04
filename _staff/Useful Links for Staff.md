@@ -52,7 +52,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xwen"> iExams2</td>
-    <td class="tg-22b2"><a href="https://iexams.seab.gov.sg/login"><span style="color:#FFF;background-color:#CCC">Click here</span></a><br></td>
+    <td class="tg-22b2"><a href="https://iexams.seab.gov.sg/login"><span style="color:#FFF;background-color:#CCC">Click here</span></a></td>
   </tr>
   <tr>
     <td class="tg-xwen"> Star Awards</td>
