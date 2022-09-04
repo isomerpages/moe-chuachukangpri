@@ -146,11 +146,11 @@ c.        Character and Citizenship Education (CCE)
 .tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1001px">
+<table class="tg" style="undefined;table-layout: fixed; width: 784px">
 <colgroup>
-<col style="width: 190px">
-<col style="width: 177px">
-<col style="width: 489px">
+<col style="width: 163px">
+<col style="width: 116px">
+<col style="width: 360px">
 <col style="width: 145px">
 </colgroup>
 <tbody>
