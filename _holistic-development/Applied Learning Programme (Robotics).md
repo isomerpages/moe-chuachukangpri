@@ -102,3 +102,10 @@ Our ALP is structured in three tiers as follows:
   </tr>
 </tbody>
 </table>
+
+#### **Process**
+
+In every ALP lesson, we use the following process to provide structures for learning in order to scaffold our students’ thinking.
+
+<img src="/images/download%20(1).png" 
+     style="width:65%">
