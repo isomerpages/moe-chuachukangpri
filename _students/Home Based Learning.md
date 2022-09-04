@@ -50,9 +50,36 @@ description: ""
 
 ### HBL Timetable
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g1lj{background-color:#FFF;color:#134693;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-20yt{background-color:#134693;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-20yt">Primary 1</td>
+    <td class="tg-20yt">Primary 2</td>
+    <td class="tg-20yt">Primary 3</td>
+    <td class="tg-20yt">Primary 4</td>
+    <td class="tg-20yt">Primary 5</td>
+  </tr>
+  <tr>
+    <td class="tg-g1lj"><a href="/files/P1%20term%204%20HBL%20guide.pdf"><span style="text-decoration:none;color:#134693">Click Here</span></a></td>
+    <td class="tg-g1lj"><a href="/files/P2%20Term%204%20HBL%20guide.pdf"><span style="text-decoration:none;color:#134693">Click Here</span></a></td>
+    <td class="tg-g1lj"><a href="/files/P3%20Term%204%20HBL%20guide.pdf"><span style="text-decoration:none;color:#134693">Click Here</span></a></td>
+    <td class="tg-g1lj"><a href="/files/P4%20Term%204%20HBL%20Guide.pdf"><span style="text-decoration:none;color:#134693">Click Here</span></a></td>
+    <td class="tg-g1lj"><a href="/files/P5%20Term%204%20HBL%20guide.pdf"><span style="text-decoration:none;color:#134693">Click Here</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ### Hotlines for HBL 
 
 
 
-### Zoom Guide for Parents and Students 
+### Zoom Guide for Parents and Students
