@@ -153,19 +153,8 @@ The Creative Cycle is a thinking process that helps students to constantly refle
 
 ##### **Other Aesthetic Programmes** 
 
-On-the-Spot Art Competition (P1 to P6)
-
-Museum-Based Learning (P4)
-
-Music Fiesta (P1 & P2)
-
-Music mini-performances 
-
+On-the-Spot Art Competition (P1 to P6)   
+Museum-Based Learning (P4)   
+Music Fiesta (P1 & P2)   
+Music mini-performances    
 Aesthetics Day
-
-
-
-
-
-
-	
