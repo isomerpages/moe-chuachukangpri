@@ -53,17 +53,12 @@ Do ask your child to see if they changed their password. They have been instruct
 
 **Q1 : I have forgotten my password. What should I do?**
 
-3 Ways to reset password:
-1. Reset via email. Please remember the email address used during your first setup. If you cannot see the email in your inbox, it may be in the spam or junk email folder.   
-2. Reset via answering security questions    
-3. Reset through subject teachers
+3 Ways to reset password:   
 
-  
-
-d)Please contact the School General Office at **6766 1574** and leave your child's name, class and your contact number with the office staff. We will get back to you as soon as possible.
-
-  
-
+a) Reset via email. Please remember the email address used during your first setup. If you cannot see the email in your inbox, it may be in the spam or junk email folder.      
+b) Reset via answering security questions     
+c) Reset through subject teachers   
+d)Please contact the School General Office at **6766 1574** and leave your child's name, class and your contact number with the office staff. We will get back to you as soon as possible.   
 e) Call SLS helpdesk **(Non-School Operation Hours)** at 6702 6513
 
   
