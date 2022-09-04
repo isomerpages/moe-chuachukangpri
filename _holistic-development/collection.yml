@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Learning for Life Programme (Student Leadership).md
       - Educational Support.md
       - English Language.md
       - Mathematics.md
