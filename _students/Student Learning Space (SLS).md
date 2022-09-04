@@ -143,7 +143,7 @@ You can access SLS from internet browsers installed on your mobile phones or equ
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">2.  Access SLS Instruction Menu for Account Management</span></td>
-    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2022/SLS/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+    <td class="tg-9n9o"><a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">3.  Information on SLS and its technical requirements</span></td>
@@ -155,15 +155,15 @@ You can access SLS from internet browsers installed on your mobile phones or equ
   </tr>
   <tr>
     <td class="tg-i9lp"><span style="color:#222">5.  Guide to clear browsing history and cache (for students)</span></td>
-    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+    <td class="tg-9n9o"><a href="/files/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">6.  Tips on uploading audio and video files</span></td>
-    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a><br></td>
+    <td class="tg-9n9o"><a href="/files/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">7.  Guided steps to search MOE library on SLS </span></td>
-    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%204%20-%20Search%20MOE%20Library.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Click here</span></a></td>
+    <td class="tg-9n9o"><a href="/files/FHBL%20Resource%204%20-%20Search%20MOE%20Library.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Click here</span></a></td>
   </tr>
 </tbody>
 </table>
