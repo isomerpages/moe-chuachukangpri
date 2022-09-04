@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Science.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Chinese Language.md
