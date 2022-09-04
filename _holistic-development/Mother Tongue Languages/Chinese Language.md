@@ -27,7 +27,7 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-lr6o">考评局批准词典<br>LIST OF APPROVED DICTIONARIES FOR USE IN PSLE</td>
-    <td class="tg-4l7k"><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_2020_examination.pdf"><span style="text-decoration:none;color:#134693">https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_2020_examination.pdf</span></a></td>
+    <td class="tg-4l7k"><a href="LINKPDFHERE"><span style="text-decoration:none;color:#134693">PDFNAMEHERE (not found on seab)</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o">知识网<br>eTutor</td>
@@ -35,7 +35,7 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-lr6o">小学华文辅助读物推荐书目<br>Recommended Supplementary Chinese Language Readers for Primary School</td>
-    <td class="tg-4l7k"><a href="https://www.moe.gov.sg/docs/default-source/document/resources/files/chinese-supplementary-readers-primary.pdf"><span style="text-decoration:none;color:#134693">https://www.moe.gov.sg/docs/default-source/document/resources/files/chinese-supplementary-readers-primary.pdf</span></a></td>
+    <td class="tg-4l7k"><a href="LINKPDFHERE"><span style="text-decoration:none;color:#134693">PDFNAMEHERE (file not found on seab)</span></a></td>
   </tr>
 </tbody>
 </table>
