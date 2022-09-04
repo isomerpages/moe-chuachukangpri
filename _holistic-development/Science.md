@@ -76,3 +76,34 @@ Our science curriculum provides our students with a range of learning experience
   </tr>
 </tbody>
 </table>
+
+##### Learning Journey
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-u05r">Primary 3</td>
+    <td class="tg-u05r">Gardens By the Bay (Plants)</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Primary 4</td>
+    <td class="tg-u05r">Dengue Mobster (Life Cycle of Animals)</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Primary 5</td>
+    <td class="tg-u05r">Science Centre (Unit of Life)</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Primary 6</td>
+    <td class="tg-u05r">Sungei Buloh Wetland Reserve (Adaptations)</td>
+  </tr>
+</tbody>
+</table>
