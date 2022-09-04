@@ -28,7 +28,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xwen"> iCON2.0</td>
-    <td class="tg-ymr5"><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#FFF;background-color:#CCC">Click her</span></a>e</td>
+    <td class="tg-lr6o"><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#FFF;background-color:#CCC">Click here</span></a></td>
   </tr>
   <tr>
     <td class="tg-xwen">SC Mobile</td>
@@ -60,15 +60,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span>HRMS (using IE)</td>
-    <td class="tg-ceiv"><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
+    <td class="tg-lr6o"><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
   </tr>
   <tr>
     <td class="tg-xwen">HR and Payroll Portal</td>
-    <td class="tg-ceiv"><a href="https://www.hrp.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
+    <td class="tg-lr6o"><a href="https://www.hrp.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
   </tr>
   <tr>
     <td class="tg-xwen">MIMS Portal</td>
-    <td class="tg-ceiv"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
+    <td class="tg-lr6o"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF;background-color:#CCC">Click Here</span></a></td>
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span>HR Online</td>
