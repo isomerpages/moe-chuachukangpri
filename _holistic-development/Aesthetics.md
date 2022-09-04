@@ -71,3 +71,49 @@ Creating a **Vibrant Aesthetics Culture (VAC)** through:
 	* Ensemble playing across P1 – 6 to help students develop musicianship, confidence and learn to think critically.
 * Create a broad-based exposure of different genres, instrumental skills and music experiences through a variety of music programmes that engages students with different interests, needs and abilities.
 * The use of different instructional techniques that cater to the different learning needs of the class, helping them achieve             the desired Learning Objectives of the lesson.
+
+<center><strong>Music Modular Programmes</strong><center>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-u05r">Level</td>
+    <td class="tg-u05r">Modular programmes</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P1</td>
+    <td class="tg-vqm8">Music &amp; Movement</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P2</td>
+    <td class="tg-vqm8">Music &amp; Movement<br><br>Sing &amp; Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P3</td>
+    <td class="tg-vqm8">Instrumental skills: Recorder &amp; Keyboard<br><br>Ensemble skills: Recorder &amp; classroom instruments</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P4</td>
+    <td class="tg-vqm8">Global music &amp; cultural awareness<br><br>Instrumental skills: Keyboard<br><br>Garageband: Music arrangement using technology.</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P5</td>
+    <td class="tg-vqm8">Instrumental skills: Ukulele<br><br>Ensemble skills: Creating a music cover</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">P6</td>
+    <td class="tg-vqm8">Ensemble skills: Ipad band</td>
+  </tr>
+</tbody>
+</table>
+	
+	
