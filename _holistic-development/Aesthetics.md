@@ -161,3 +161,41 @@ Aesthetics Day
 
 
 <u><center><strong>Students performing on various instruments during our very first Aesthetics Day</strong></center></u>
+
+![](/images/aes1.png)
+![](/images/aes2.png)
+
+<center><strong><u>P2 Sing and Dance Performers during Teacher’s Day</u></strong></center>
+
+![](/images/aes3.jpeg)
+
+
+
+<center><strong><u>Lower Primary Music Fiesta</u></strong></center>
+
+
+
+
+
+
+<center><strong><u>Student-Centric lessons that encourages exploration, problem solving and discovery!</u></strong></center>
+
+
+
+
+
+
+<center><strong><u>Primary 4 Museum Based Learning to NUS Museum</u></strong></center>
+
+
+
+
+<center><strong><u>P4 Batik Painting</u></strong></center>
+
+
+
+
+<center><strong><u>P5 Chinese Ink Painting</u></strong></center>
+
+
+
