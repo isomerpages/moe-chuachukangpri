@@ -122,3 +122,48 @@ SLS is accessible through the latest internet browsers (minimum: Internet Explor
 **Q6 : Can SLS be accessed on mobile phones?** 
 
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
+
+### Troubleshooting Tips for SLS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9n9o{background-color:#09b0b3;color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-i9lp{background-color:#E8EDFF;border-color:#222222;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">1.  Access Student Learning  Space online portal</span></td>
+    <td class="tg-9n9o"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">2.  Access SLS Instruction Menu for Account Management</span></td>
+    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2022/SLS/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">3.  Information on SLS and its technical requirements</span></td>
+    <td class="tg-9n9o"><a href="https://www.moe.gov.sg/education-in-sg/student-learning-space/accessing-sls" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">4.  Access User Login Troubleshooting Guide</span></td>
+    <td class="tg-9n9o"><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-i9lp"><span style="color:#222">5.  Guide to clear browsing history and cache (for students)</span></td>
+    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">6.  Tips on uploading audio and video files</span></td>
+    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#FFF">Click here</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">7.  Guided steps to search MOE library on SLS </span></td>
+    <td class="tg-9n9o"><a href="https://chuachukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u151/2021/HBL/FHBL%20Resource%204%20-%20Search%20MOE%20Library.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FFF">Click here</span></a></td>
+  </tr>
+</tbody>
+</table>
