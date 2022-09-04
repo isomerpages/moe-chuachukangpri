@@ -107,3 +107,27 @@ Our science curriculum provides our students with a range of learning experience
   </tr>
 </tbody>
 </table>
+
+##### **Environment Science Club**
+
+Members immerse themselves in the world of environmental science where exciting and interesting experiments and activities are conducted.
+
+![](/images/sci1.png)
+
+##### **Science Reading Programme**  
+
+Enriching students’ learning of Science through the reading of the Young Scientists magazines. This comic-based magazine aims to deliver syllabus-based science content that resonates with the young children of today.
+
+##### **Environment Recess Activities**
+
+During some recesses, booths are set up in the canteen by external organisations such as PUB, Food for the Heart, etc., where students learn about environmental issues. Students will also get to participate in hands-on activities where they will better understand how they can play a more active role in saving the environment.
+
+![](/images/sci2.png)
+
+##### **Science Buskers Competition**
+
+Every year, the Science Centre organises this interesting competition for students to showcase their science experiments in the form of busking. Our school organises our own internal Science Busking Fair to provide a platform for students to share interesting science concepts and phenomenon with their fellow schoolmates. Promising groups will be selected to represent the school in the external competition.
+
+![](/images/sci4.png)
+![](/images/sci3.png)
+![](/images/sci5.png)
