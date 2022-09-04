@@ -54,3 +54,51 @@ Our ALP is structured in three tiers as follows:
   </tr>
 </tbody>
 </table>
+
+<center><strong><u>Table 1</u></strong></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-xwen">Level</td>
+    <td class="tg-xwen">Module</td>
+    <td class="tg-xwen">Objective</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 1</td>
+    <td class="tg-lr6o">Basic logic of coding</td>
+    <td class="tg-lr6o" rowspan="2">To learn the fundamental concepts of coding in simple, logical steps</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 2</td>
+    <td class="tg-lr6o">Advance logic of coding</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 3</td>
+    <td class="tg-lr6o">Fundamentals of robot construction</td>
+    <td class="tg-lr6o" rowspan="2">To apply basics of creating and programming autonomous robots</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 4</td>
+    <td class="tg-lr6o">Fundamentals of autonomous robots</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 5</td>
+    <td class="tg-lr6o">Robots in real-world context</td>
+    <td class="tg-lr6o" rowspan="2">To build a robot to solve a real-world problem</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o">Primary 6</td>
+    <td class="tg-lr6o">Code For Fun</td>
+  </tr>
+</tbody>
+</table>
