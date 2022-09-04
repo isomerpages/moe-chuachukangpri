@@ -80,6 +80,36 @@ description: ""
 
 ### Hotlines for HBL 
 
+a) Call the **General Office** at **6766 1574**   
 
+Operating Hours:    
+Mondays to Fridays: 8.00 a.m. to 4.00 p.m.   
+\*Closed on Saturdays, Sundays and Public Holidays 
+
+b) **WhatsApp** at **8637 9952**    
+
+Mondays to Fridays: 8.00 a.m. to 4.00 p.m.   
+\*Closed on Saturdays, Sundays and Public Holidays 
+
+
+
+  
+
+  
+
+c) Call **SLS helpline** at **6702 6513**    
+
+Non- school operating hours:   
+Saturdays: 9.00 a.m. to 4.00 p.m.
+
+  
+
+  
+
+d) Email SLS at **[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**
+
+For more FAQs on SLS, please click **[here]()**.
 
 ### Zoom Guide for Parents and Students
+
+1\. Zoom Guide for Students - Click **[here](/files/Zoom%20Guide%20for%20Parents%20%20Students_updated.pdf)**
