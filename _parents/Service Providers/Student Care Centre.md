@@ -66,3 +66,13 @@ Below is the contact information of our SCC operator:
 <center><strong>Holiday Programme</strong></center>
 
 ![](/images/scc5.png)
+
+### Student Care Centre Registration Matters
+
+(1) Please click [**here**](https://tinyurl.com/ChuaChuKang-2023-P1-ROI) to access the registration of interest form.  
+  
+(2) You may also scan the QR code below to access the registration of interest form:
+
+<img src="/images/qrcode_formsofficecom.png" 
+     style="width:25%">
+
