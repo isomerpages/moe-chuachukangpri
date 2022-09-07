@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Service Providers/School Uniform & PE Attire.md
       - Service Providers/Dental Service.md
       - Service Providers/Student Care Centre.md
       - Service Providers/.keep
