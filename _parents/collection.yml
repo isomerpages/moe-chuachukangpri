@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Service Providers/.keep
       - Sexuality Education.md
       - Star Awards.md
