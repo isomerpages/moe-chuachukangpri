@@ -26,7 +26,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+		<td class="tg-nrix">Mr Chua Kok Wei (PBM)<br><strong>Chairman</strong></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
