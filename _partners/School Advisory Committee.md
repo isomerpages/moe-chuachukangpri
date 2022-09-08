@@ -21,7 +21,7 @@ description: ""
   <tr>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"><img src="/images/sac1.png" 
-     style="width:55%"></td>
+     style="width:65%"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
@@ -31,11 +31,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/sac2.png" 
-     style="width:55%"></td>
+     style="width:65%"></td>
     <td class="tg-nrix"><img src="/images/sac3.jpeg" 
-     style="width:55%"></td>
-    <td class="tg-nrix"><img src="/images/sac3.jpeg" 
-     style="width:55%"></td>
+     style="width:65%"></td>
+    <td class="tg-nrix"><img src="/images/sac4.jpeg" 
+     style="width:65%"></td>
   </tr>
   <tr>
     <td class="tg-nrix">Dr Lim Wei Ying Rebekah<br><strong>Vice-Chairman</strong></td>
@@ -44,11 +44,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/sac5.png" 
-     style="width:55%"></td>
+     style="width:65%"></td>
     <td class="tg-nrix"><img src="/images/sac6.jpeg" 
-     style="width:55%"></td>
+     style="width:65%"></td>
     <td class="tg-nrix"><img src="/images/sac7.jpeg" 
-     style="width:55%"></td>
+     style="width:65%"></td>
   </tr>
   <tr>
     <td class="tg-nrix">Mr Sethuraman Alagappan<br><strong>Member</strong></td>
