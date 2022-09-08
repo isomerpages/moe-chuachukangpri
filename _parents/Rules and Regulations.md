@@ -44,3 +44,50 @@ Students are to wear the prescribed school uniform and modification to the unifo
   </tr>
 </tbody>
 </table>
+
+##### PE Attire (Old Uniform)
+
+On days when students have PE lessons, they are allowed to wear their PE attire throughout the day.  Girls\* can wear their PE T-shirt with their school skirt and boys with their school shorts when there are no PE lessons. 
+
+\*Girls should tuck in their PE T-shirts.
+
+
+##### Attire on CCA days  
+
+Students can wear their PE attire and sports shoes on their CCA days. Special permission will be given by the Principal for students to come in their PE attire and sports shoes on days when students participate in competitions. Scouts are allowed to wear their Scouts uniform and shoes throughout the day on CCA days.
+
+ 
+
+##### Hairstyle
+
+![](/images/boyhair.png)
+![](/images/girlhair2.png)
+
+##### Shoes and Socks
+
+*   **Only school socks are allowed.**
+*   Only plain white-based shoes with no fanciful trimmings or patterns are allowed on non-CCA days.
+*   At no time should one be in slippers or sandals without a valid reason.
+
+##### **Use of cosmetics and accessories**
+
+*   Use of cosmetics and nail polish is not allowed.
+*   Jewellery and accessories are not allowed.
+*   Only girls are allowed to wear a single, plain ear stud on each ear.
+
+  
+
+##### Others
+
+*   Outlandish / flamboyant / over-sized spectacle frames are not allowed. 
+*   Use of coloured contact lenses is not allowed. 
+
+  
+
+##### Mobile Phones and Gadgets
+
+The school prohibits students from bringing all expensive items such as smart watches, MP3 players, hand-held computer games etc. **Mobile phones are not allowed in school.**  Every case will be examined on its own merit. Approval will be given by the Principal / Vice-Principal. The school cannot be held responsible in case of theft or loss of mobile phones / smart watches.  
+
+##### Weapons
+
+**All students are not allowed to have in their possession any weapon.  They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.**
