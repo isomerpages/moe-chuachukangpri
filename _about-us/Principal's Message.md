@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 <img src="/images/Mrs%20Sheree%20Chong.jpg" 
-     style="width:15%">
+     style="width:25%">
 		 
 Chua Chu Kang Primary School (CCKPS) started operations in 1994. Today, our school has grown to be a reputable school of choice in the community. I am both humbled and privileged to be entrusted with the honour of leading CCKPS.
 
