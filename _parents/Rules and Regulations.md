@@ -36,11 +36,11 @@ Students are to wear the prescribed school uniform and modification to the unifo
   <tr>
     <td class="tg-tlx9"><span style="background-color:initial">Boys</span><br><img src="/images/boyuni.jpeg" 
      style="width:65%">
-<br>Shirt/ PE T-shirt, shorts should not be oversized.<br>Shorts should not fall below the knee.<br>A name tag should be worn on the shirt / PE T-shirt at all times.</td>
+<br>• Shirt/ PE T-shirt, shorts should not be oversized.<br>• Shorts should not fall below the knee.<br>•
+ A name tag should be worn on the shirt / PE T-shirt at all times.</td>
     <td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/girluni.jpeg" 
      style="width:55%">
-<br><span style="background-color:initial">Skirt should be of knee length.</span><br><span style="background-color:initial">Blouse / PE T-shirt should not be oversized.</span><br><span style="background-color:initial">A name tag should be worn on the blouse / PE T-shirt at all times.</span></td>
+<br><span style="background-color:initial">• Skirt should be of knee length.</span><br><span style="background-color:initial">• Blouse / PE T-shirt should not be oversized.</span><br><span style="background-color:initial">• A name tag should be worn on the blouse / PE T-shirt at all times.</span></td>
   </tr>
 </tbody>
 </table>
-
