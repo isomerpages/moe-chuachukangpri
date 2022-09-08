@@ -75,7 +75,6 @@ Students can wear their PE attire and sports shoes on their CCA days. Special pe
 *   Jewellery and accessories are not allowed.
 *   Only girls are allowed to wear a single, plain ear stud on each ear.
 
-  
 
 ##### Others
 
