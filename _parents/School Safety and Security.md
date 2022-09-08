@@ -18,8 +18,10 @@ description: ""
 ### Parent Drop-off and Pick-up 
 
 *   All parents/guardians who need to drive into the school to drop-off/pick-up students will be issued with a vehicle entry permit for easy identification and will only be allowed to drive in on School Terms during the following timings (mass arrival and dismissal):
-*   6.15am to 7.30am (Daily)
-*   1.45pm to 2.00pm (Daily)
+	*   6.15am to 7.30am (Daily)
+	*   1.45pm to 2.00pm (Daily)
+
+
 *   Parents are to display the official CCKPS Visitor Car Decal prominently before they are allowed entry.
 
   
