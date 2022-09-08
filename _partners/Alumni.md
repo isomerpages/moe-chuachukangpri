@@ -85,3 +85,24 @@ CCKPS Alumni takes the lead in role modelling positive relationship between scho
   </tr>
 </tbody>
 </table>
+
+##### Vision
+
+To support the School in achieving its vision – “Empowered Leaders”
+
+  ##### Mission
+
+  
+
+To encourage former students to give back to the school by passing on experience, knowledge and leadership skills to the current batch of students.
+  
+
+To support in school projects and enrichment programmes to help current students realise the vision of becoming Empowered Leaders.
+
+
+To promote collaboration and positive relationship amongst former and present students of the school. 
+  
+
+To enquire more about our Alumni, please contact Mr Yip Yew Weng at [yip\_yew\_wing@moe.gov.sg](mailto:yip_yew_wing@moe.gov.sg)
+
+or go to [CCKPS Alumni Registration](https://go.gov.sg/cckpsalumniregistration)
