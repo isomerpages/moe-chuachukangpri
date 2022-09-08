@@ -63,3 +63,66 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+##### **For Selected Students Only**
+
+**CCA**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-u05r">Day</td>
+    <td class="tg-u05r">Reporting Time</td>
+    <td class="tg-u05r">Dismissal Time</td>
+    <td class="tg-u05r">Dismissal Gate</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Thursday</td>
+    <td class="tg-vqm8">2.15 p.m.</td>
+    <td class="tg-vqm8">4.15 p.m.</td>
+    <td class="tg-vqm8">Gate 1 /1A</td>
+  </tr>
+</tbody>
+</table>
+
+##### **General Office Operating Hours**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-u05r">School Term</td>
+    <td class="tg-u05r">Operating Hours</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Mondays to Thursdays</td>
+    <td class="tg-vqm8">7.00 a.m. to 5.30 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"> Fridays</td>
+    <td class="tg-vqm8">7.00 a.m. to 5.00 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Saturdays, Sundays and Public Holidays</td>
+    <td class="tg-vqm8">Closed</td>
+  </tr>
+</tbody>
+</table>
