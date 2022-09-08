@@ -38,9 +38,9 @@ description: ""
      style="width:55%"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Dr Lim Wei Ying Rebekah<br><strong>Vice-Chairman</strong></td>
+    <td class="tg-nrix">Mr Lee Chin Leong (PBM)<br><strong>Member</strong></td>
+    <td class="tg-nrix">Mr Ng Heok Kwee Freddie  <br><strong>Member</strong></td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/sac5.png" 
@@ -51,9 +51,9 @@ description: ""
      style="width:55%"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Mr Sethuraman Alagappan<br><strong>Member</strong></td>
+    <td class="tg-nrix">Dr Zhou Changjiu, PPA (G)<br><strong>Member</strong></td>
+    <td class="tg-nrix">Mdm Chng Jit Huee Cindy<br><strong>Member</strong></td>
   </tr>
 </tbody>
 </table>
