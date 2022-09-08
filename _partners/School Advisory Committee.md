@@ -21,7 +21,7 @@ description: ""
   <tr>
     <td class="tg-nrix"></td>
     <td class="tg-nrix"><img src="/images/sac1.png" 
-     style="width:45%"></td>
+     style="width:55%"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
