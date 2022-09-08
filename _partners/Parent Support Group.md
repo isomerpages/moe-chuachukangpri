@@ -80,6 +80,9 @@ To support School in achieving its vision – “Empowered Leaders”
 *   Support our Children - To Reach Their Best
 *   Support One Another
 
-  
-
+ 
 For enquiries about our PSG, please contact Mdm Mogana at [mogana514@gmail.com](mailto:mogana514@gmail.com)
+
+![](/images/psg1.jpeg)
+![](/images/psg2.png)
+![](/images/psg3.png)
