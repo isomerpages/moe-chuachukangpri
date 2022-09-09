@@ -18,14 +18,14 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: Announcements
+      subtitle: Latest Updates
+      button: View All
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Announcements
-      subtitle: Latest Updates
-      button: View All
 ---
