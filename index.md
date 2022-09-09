@@ -25,7 +25,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Announcements
+      subtitle: Latest Updates
+      button: View All
 ---
