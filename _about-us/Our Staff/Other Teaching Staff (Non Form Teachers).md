@@ -53,8 +53,8 @@ third_nav_title: Our Staff
     <td class="tg-ppou">Mr Rozali Bin Ibrahim (PE) </td>
   </tr>
   <tr>
-    <td class="tg-ppou">ML</td>
-    <td class="tg-ppou">Mdm Nur Hafyzah Binte Jumee </td>
+    <td class="tg-qzx0">ML</td>
+    <td class="tg-qzx0">Mdm Nur Hafyzah Binte Jumee </td>
   </tr>
   <tr>
     <td class="tg-ppou">ML</td>
