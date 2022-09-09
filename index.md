@@ -4,14 +4,10 @@ title: Chua Chu Kang Primary School
 description: An Isomer site of the Singapore Government
 image: /images/CCK-Logo-b-colour-200.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/homepagesample.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
