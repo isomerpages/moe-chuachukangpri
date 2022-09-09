@@ -21,7 +21,7 @@ third_nav_title: Life in CKKPS
 
 ##### International Friendship Day 2021
 
-<iframe allowfullscreen="true" height="400" width="659" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_8f62baieY3UCfNpyiVPMfmIjeEEc1iz5mj6d9s-21X1Yit00dnMhTJ-SunEllAbHLM7EAItxsoYI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<center><iframe allowfullscreen="true" height="400" width="659" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_8f62baieY3UCfNpyiVPMfmIjeEEc1iz5mj6d9s-21X1Yit00dnMhTJ-SunEllAbHLM7EAItxsoYI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 ##### Racial Harmony Day 2021
 
