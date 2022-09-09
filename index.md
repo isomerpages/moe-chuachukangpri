@@ -8,24 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagesample.gif
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - resources:
       title: Announcements
       subtitle: Latest Updates
       button: View All
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Life in CCKPS
+      description: Pictures and Videos from CCKPS
+      button: View More
+      url: /about-us/Life-in-CKKPS/gallery/
 ---
