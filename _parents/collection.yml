@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents Portal FAQ.md
       - Parents Portal Log In.md
       - Rules and Regulations.md
       - School Safety and Security.md
