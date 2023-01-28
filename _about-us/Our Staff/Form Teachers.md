@@ -61,3 +61,9 @@ third_nav_title: Our Staff
 | 3 Responsibility 5 | Mdm Raheelah Binte Abdul Manaf |
 | 3 Responsibility 6 | Mdm Nurafizah Binte Abdul Razak |
 | 3 Responsibility 6 | Ms Lim Siew Peng |
+
+#### Primary 4 Form Teachers
+
+| Class | Form Teacher |
+| -------- | -------- |
+| 4 Integrity 1 | Mdm Noranisah Binte Kamis |
