@@ -29,6 +29,18 @@ third_nav_title: Our Staff
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 2 Respect 1 | Mrs Cheryl Tsang |
-| 2 Respect 1 | Ms Siti Salmah Binte Hamid |
-
+| 2 Respect 1 | Mdm Fauziah Binte Othman |
+| 2 Respect 1 | Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed |
+| 2 Respect 2 | Mrs Alison Ho Pei Xin |
+| 2 Respect 2 | Mrs Chen Xifang |
+| 2 Respect 3 | Mdm Zhang Zhiting |
+| 2 Respect 3 | Mdm Nurhidayah Binte Hamdan |
+| 2 Respect 4 | Mdm Nurfarhana Binte Saat |
+| 2 Respect 4 | Mdm Tan Lay Jun |
+| 2 Respect 5 | Mdm Sri Priya d/o Kisnan |
+| 2 Respect 5 | Mr Mohd Hamdan Bin Mohd Mohaideen |
+| 2 Respect 6 | Mdm Zarina Binte Hassan |
+| 2 Respect 7 | Mdm Lim Wan Fong |
+| 2 Respect 7 | Mdm Aznizah Binte Abdul Aziz |
+| 2 Respect 8 | Ms Ker Bee Leng |
+| 2 Respect 8 | Mdm Nur Afiqah Binte Alias |
