@@ -44,3 +44,20 @@ third_nav_title: Our Staff
 | 2 Respect 7 | Mdm Aznizah Binte Abdul Aziz |
 | 2 Respect 8 | Ms Ker Bee Leng |
 | 2 Respect 8 | Mdm Nur Afiqah Binte Alias |
+
+#### Primary 3 Form Teachers
+
+| Class | Form Teacher |
+| -------- | -------- |
+| 3 Responsibility 1 | Mdm Noranisah Binte Kamis |
+| 3 Responsibility 1 | Ms Tan Jia Hui |
+| 3 Responsibility 2 | Mr Roslan Bin Yahya |
+| 3 Responsibility 2 | Ms Tan Lay Bee |
+| 3 Responsibility 3 | Mr Colin Chan Kah Kit |
+| 3 Responsibility 3 | Mdm Angela Albert |
+| 3 Responsibility 4 | Mdm Wendy Tan Wen Wang |
+| 3 Responsibility 4 | Mdm Vivien Gwee Shay Nee |
+| 3 Responsibility 5 | Mrs Faith Teng |
+| 3 Responsibility 5 | Mdm Raheelah Binte Abdul Manaf |
+| 3 Responsibility 6 | Mdm Nurafizah Binte Abdul Razak |
+| 3 Responsibility 6 | Ms Lim Siew Peng |
