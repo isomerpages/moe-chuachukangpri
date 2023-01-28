@@ -7,7 +7,7 @@ third_nav_title: CCE
 <center><strong>Citizenry Education</strong></center>
 
 ##### **Vision**   
-Leaders who love Singapore and contribute towards building a Singapore for all.  
+Leaders who love and have confidence in Singapore and contribute towards building a Singapore for all.  
 
 
 
@@ -190,14 +190,14 @@ National Education Ambassadors will share global or local news of the month with
 </table>
 
 
-2) Social Studies Learning Journeys
+2) Learning Journeys (2023)
 
 **Primary 1** – Singapore Zoo    
-**Primary 2** – Singapore Zoo    
+**Primary 2** – Botanic Gardens    
 **Primary 3**  - Gardens By the Bay   
-**Primary 4** – National Art Museum    
-**Primary 5** – Heritage Trail to Chinatown   
-**Primary 6** – Asian Civilisation Museum and Sungei Buloh
+**Primary 4** – National Art Museum, Ayer Kreta Heritage Gallery/ Geylang Serai Gallery    
+**Primary 5** – Indian Heritage Gallery and National Education Show
+**Primary 6** – Asian Civilisation Museum and Sungei Buloh Wetland
 
 
 ### **Reflection**
