@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Learning Space (SLS).md
-      - Home Based Learning.md
       - Student iCON.md
