@@ -21,3 +21,14 @@ third_nav_title: Our Staff
 | Assistant Year Head (Internal) | Mdm Kasidah Khatoon Bte Kasim Khan Surattee |
 | Assistant Year Head (Internal) | Mr Muhammad Shukur Bin Mohamad Ayub |
 | School Staff Developer (Internal) | Ms Yogeswary d/o Subramaniam |
+| Level Head / Mathematics | Mdm Ng Hui Yin |
+| Level Head / Science (Internal) | Ms Faith Wong |
+| Subject Head / Malay Language | Mdm Siti Maryam Bte Mohd Amin |
+| Subject Head / Student Well-Being | Mr Mohd Hamdan Bin Mohd Mohaideen |
+| Subject Head / Environment Education | Mdm Fauziah Bte Othman |
+| Subject Head / Information and Communications Technology (ICT) | Mr Aloysius Loh Chun How |
+| Subject Head / Character & Citizenship Education (CCE) | Mrs Alison Ho Pei Xin |
+| Subject Head / Student Management | Mrs Goh Shiting |
+| Subject Head / Educational Support | Mdm Zarina Bte Hassan |
+| Administration Manager | More information will be given soon. |
+| Operations Manager | Mr S. Rajasegaran |
