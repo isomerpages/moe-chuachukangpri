@@ -96,3 +96,20 @@ third_nav_title: Our Staff
 | 5 Harmony 5 | Ms Eng Xin Di |
 | 5 Harmony 6 | Mr Timothy Chen Zeliang |
 | 5 Harmony 6 | Mdm Ang Shu Yu |
+
+#### Primary 6 Form Teachers
+
+| Class | Form Teacher |
+| -------- | -------- |
+| 6 Resilience 1 | Mdm Azizah Binte Abdul Latiff |
+| 6 Resilience 1 | Mdm R Krishnaveeni Ramiah |
+| 6 Resilience 2 | Mr Mark Tan Jen Ming |
+| 6 Resilience 2 | Mdm Neo Shi Rong |
+| 6 Resilience 3 | Mdm Melanie Ng Ling Ling |
+| 6 Resilience 3 | Mdm Vasanthi d/o Arumugam |
+| 6 Resilience 4 | Mdm Siti Maryam Binte Md. Amin |
+| 6 Resilience 4 | Mr Ang Guan Piew |
+| 6 Resilience 5 | Mr Aloysius Low Chun How |
+| 6 Resilience 5 | Mdm Melati Hallel |
+| 6 Resilience 6 | Mdm Michelle Foo Mei Fang |
+| 6 Resilience 6 | Mr Chiam Kim Yeow |
