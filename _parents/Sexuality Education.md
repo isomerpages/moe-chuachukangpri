@@ -12,14 +12,6 @@ description: ""
 .tg .tg-8fzr{background-color:#dce7f7;color:#134693;font-size:100%;text-align:center;vertical-align:middle}
 .tg .tg-hblt{background-color:#dce7f7;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-8fzr"><a href="/files/Annex%20A_Opt%20Out%20Form%202022%20(1).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">Opting Out of Sexuality Education lessons Form</span></a></td>
-    <td class="tg-hblt">Sexuality Education Brochure <br>(<a href="/files/Parent's%20Brochure_English.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">English</span></a><span style="color:#000">| </span><a href="/files/Parent's%20Brochure_Chinese.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">Mandarin</span></a><span style="color:#000"> | </span><a href="/files/Parent's%20Brochure_Malay.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">Malay</span></a><span style="color:#000"> | </span><a href="/files/Parent's%20Brochure_Tamil.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">Tamil</span></a><span style="color:#000">)</span></td>
-  </tr>
-</tbody>
-</table>
 
 **MOE Sexuality Education in Schools**
 
@@ -86,7 +78,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 8.       Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  **The completed opt-out form is to be submitted by 28 February 2023.**
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_Opt%20out%20Form.pdf).  **The completed opt-out form is to be submitted by 28 February 2023.**
 
 10\.      Parents can contact the school at 67661574 or email us at [cckps@moe.edu.sg](mailto:cckps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
