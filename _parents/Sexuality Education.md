@@ -71,6 +71,14 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 
 
+| CCE(FTGP) Theme | Lesson Title/ Duration | Lesson Overview | Time Period
+| -------- | -------- | -------- |-------- |
+| Growing Years | Are We More than Friends? Lesson 1 (60 min) | In this lesson, students will learn to distinguish between the characteristics of love, infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. | Term 4 Week 5-10
+| Growing Years | Are We More than Friends? Lesson 2 (60 min) | text | Term 4 Week 5-10
+
+
+
+
 
 
 
