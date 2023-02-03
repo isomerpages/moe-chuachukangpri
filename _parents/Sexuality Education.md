@@ -27,18 +27,16 @@ description: ""
 
 2.       The **Goals** of Sexuality Education are:
 
-(i)             To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
-
-(ii)            To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-
-(iii)          To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes about sexuality</u>.
+* To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+* To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+* To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes about sexuality</u>.
 
 3.       The **Key Messages** of Sexuality Education are:
 
-(i)             Love and respect yourself as you love and respect others;    
-(ii)            Build positive relationships based on love and respect (which are the foundation for strong families);   
-(iii)          Make responsible decisions for yourself, your family and society; and   
-(iv)          Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+* Love and respect yourself as you love and respect others;    
+* Build positive relationships based on love and respect (which are the foundation for strong families);   
+* Make responsible decisions for yourself, your family and society; and   
+* Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
