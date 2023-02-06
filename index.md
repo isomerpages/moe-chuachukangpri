@@ -12,9 +12,4 @@ sections:
       title: Announcements
       subtitle: Latest Updates
       button: View All
-  - infobar:
-      title: Life in CCKPS
-      description: Pictures and Videos from CCKPS
-      button: View More
-      url: /about-us/Life-in-CKKPS/gallery/
 ---
