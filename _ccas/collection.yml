@@ -1,0 +1,21 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Physical Sports/Basketball.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Football.md
+      - Physical Sports/.keep
+      - Clubs and Uniformed Groups/Art and Crafts Club.md
+      - Clubs and Uniformed Groups/Scouts.md
+      - Clubs and Uniformed Groups/Environmental Science Club.md
+      - Clubs and Uniformed Groups/Robotics Club.md
+      - Clubs and Uniformed Groups/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/English Drama Club.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Percussion Ensemble.md
+      - Performing Arts/.keep
