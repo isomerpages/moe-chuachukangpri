@@ -11,10 +11,10 @@ third_nav_title: Our Staff
 | HOD / Science | Mr Woo Wai Hoong Jerric | 
 | HOD / Mother Tongue Languages | Mdm Toh Suat Hong |
 | HOD / Student Management | Mdm Francis Anita Chitra |
-| HOD / Character & Citizenship Education (CCE) & Year Head | Mrs Hon Tham Tsui Yee Karyn |
-| HOD / Information & Communications Technology (ICT) | Mdm Shama Begum d/o Muhammad Faris | 
+| HOD / Character & Citizenship Education (CCE), HOD / Information & Communications Technology (ICT) (Covering) | Mdm Shama Begum d/o Muhammad Faris | 
 | HOD / CCA, PAL & Aesthetics (Internal) | Mr Muhammad Zhafran Bin Abdul Halim | 
 | HOD / PE & Innovation (Internal) | Mr Yong Hanyang | 
+| Year Head | Mrs Hon Tham Tsui Yee Karyn |
 | Year Head | Mdm Rasidah Bte Abdul Wahab |
 | Year Head | Mdm Lim Hui Hui Shermaine |
 | Assistant Year Head | Mrs Lee Siew Fung |
