@@ -7,3 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+ Dear Parents,
+
+The application for this Phase 2B is closed. For any other enquiries, please email: [fauziah\_othman@schools.gov.sg](mailto:fauziah_othman@schools.gov.sg).
+
+Thank you.
