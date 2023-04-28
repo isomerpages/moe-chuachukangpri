@@ -8,15 +8,15 @@ third_nav_title: Our Staff
 | -------- | -------- |
 | Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
 | Management Support Officer | Mdm Norcia Arshad |
-| Management Support Officer | Mdm Dorothy Khoo |
 | Management Support Officer | Mdm Tan Khar Heoh Ruth |
 | Adjunct Corporate Support Officer | Mdm Jean Liew |
+| Adjunct Corporate Support Officer | Mdm Rajeswari Kumaran |
 | Administrative Assistant | Mdm Roshimah Bte Awang |
-| Teacher Aide | Mdm Rajeswari Kumaran |
 | Teacher Aide | Mdm Normalah Bte Jantan |
-| Teacher Aide | Mdm Catherine Tai Guat Hoon |
+| Teacher Aide | Mdm Ng Bee Hiang Winnie |
 | Librarian | Mdm Aida Bte Ibrahim |
 | Desktop Manager | Mr Kifflie Bin Abdul Maulod |
+| Desktop Engineer | Mr Suhaimi Idari Bin Mazlan |
 | Operations Support Officer | Mr Hatbar Bin Mangis |
 | Operations Support Officer | Mdm Jenny Liang Yoke Poh |
 | Operations Support Officer | Mdm May Go Geok Choo |
