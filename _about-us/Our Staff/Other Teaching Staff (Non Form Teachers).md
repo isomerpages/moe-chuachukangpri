@@ -18,4 +18,3 @@ third_nav_title: Our Staff
 | English | Mdm Soon Siok Ching Cecila |
 | English | Mdm Nur Hasinah Bte Sidek |
 | Chinese | Mdm Ng Soon Lian |
-| Mother Tongue | Mdm Zhong Zhaohui |
