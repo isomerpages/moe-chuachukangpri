@@ -6,19 +6,20 @@ third_nav_title: Our Staff
 ---
 | Designation | Name |
 | -------- | -------- |
-| Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
-| Management Support Officer | Mdm Norcia Arshad |
+| Administrative Executive | Mdm Norhuda Binte Mohamad |
+| Administrative Assistant | Mdm Roshimah Bte Awang |
+| Management Support Officer | Mdm Norcia Binte Arshad |
 | Management Support Officer | Mdm Tan Khar Heoh Ruth |
 | Adjunct Corporate Support Officer | Mdm Jean Liew |
 | Adjunct Corporate Support Officer | Mdm Rajeswari Kumaran |
-| Administrative Assistant | Mdm Roshimah Bte Awang |
+|Flexi Relief Corporate Support Officer | Mdm Yong Chui Peng (Toni) |
 | Teacher Aide | Mdm Normalah Bte Jantan |
 | Teacher Aide | Mdm Ng Bee Hiang Winnie |
 | Librarian | Mdm Aida Bte Ibrahim |
-| Desktop Manager | Mr Kifflie Bin Abdul Maulod |
+| Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
+| Desktop Engineer | Mr Kifflie Bin Abdul Maulod |
 | Desktop Engineer | Mr Suhaimi Idari Bin Mazlan |
 | Operations Support Officer | Mr Hatbar Bin Mangis |
 | Operations Support Officer | Mdm Jenny Liang Yoke Poh |
 | Operations Support Officer | Mdm May Go Geok Choo |
 | Operations Support Officer | Mdm Sumathi d/o S Meenatchi Sundaram |
-| Operations Support Officer | Mr Loh Hoi Fah |
