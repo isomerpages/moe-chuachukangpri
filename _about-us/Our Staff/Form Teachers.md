@@ -87,6 +87,7 @@ third_nav_title: Our Staff
 | 5 Harmony 1 | Ms Alyssa Shahira Binte Sariman |
 | 5 Harmony 2 | Mdm Nur Ratna Binte Mohamed Rashid |
 | 5 Harmony 2 | Mrs Jerrine Chan Hui En |
+| 5 Harmony 2 | Ms Chin Xin Yu |
 | 5 Harmony 3 | Mdm Ng Hui Yin |
 | 5 Harmony 3 | Mr Logesh s/o Jayaraman |
 | 5 Harmony 3 | Ms Fatimatus Sakinah s/o Muhammad Faris |
