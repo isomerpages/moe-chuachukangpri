@@ -89,7 +89,7 @@ To support School in achieving its vision – “Empowered Leaders”
 *   Support One Another
 
  
-For enquiries about our PSG, please contact Mdm Mogana at [mogana514@gmail.com](mailto:mogana514@gmail.com)
+For enquiries about our PSG, please contact Mdm Nur (Chairperson) at [nurnn79nn@gmail.com](mailto:nurnn79nn@gmail.com)
 
 ![](/images/psg1.jpeg)
 ![](/images/psg2.png)
