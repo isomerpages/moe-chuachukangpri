@@ -91,6 +91,6 @@ To support School in achieving its vision – “Empowered Leaders”
  
 For enquiries about our PSG, please contact Mdm Nur (Chairperson) at [nurnn79nn@gmail.com](mailto:nurnn79nn@gmail.com)
 
-![](/images/psg1.jpeg)
-![](/images/psg2.png)
-![](/images/psg3.png)
+![](/images/PSG/picture1.jpg)
+
+![](/images/PSG/picture2.jpg)
