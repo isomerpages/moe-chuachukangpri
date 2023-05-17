@@ -95,4 +95,6 @@ For enquiries about our PSG, please contact Mdm Nur (Chairperson) at [nurnn79nn@
 
 ![](/images/PSG/picture2.jpg)
 
-![](/images/PSG/picture3.jpg)
+![](/images/PSG/psgalign.jpg)
+
+![](/images/PSG/psgalign2.jpg)
