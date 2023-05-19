@@ -19,52 +19,60 @@ description: ""
     <td class="tg-xwen"><span style="color:#222">Appointment </span></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr Mohammad Nazree Bin Mat Sidik </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mentor</span><br></td>
-  </tr>
-  <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Siti Nurhawa Abu Bakar</span>	</td>
-    <td class="tg-lr6o"><span style="color:#222">Chairman</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Chairperson</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Nithiya Saravana</span>	</td>
-    <td class="tg-lr6o"><span style="color:#222">Vice-Chairman</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm Arunkumar Poornima Devasena</span>	</td>
+    <td class="tg-lr6o"><span style="color:#222">Vice-Chairperson</span><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Mr Shu Wenjie</span>	</td>
+    <td class="tg-lr6o"><span style="color:#222">Vice-Chairperson</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Lee Poh Wan</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Chelsea Lee Poh Wan</span></td>
     <td class="tg-lr6o"><span style="color:#222">Secretary</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Lakshmi Nelaturi</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Arunkumar Poornima Devasena</span></td>
+    <td class="tg-lr6o"><span style="color:#222">P1 Level Coordinator</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Siti Hanisah</span></td>
     <td class="tg-lr6o"><span style="color:#222">P1 Level Coordinator</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Chen Meiji</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Felicia Woon Shu Chao</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">P2 Level Coordinator</span><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Tay Pek Hoon</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">P2 Level Coordinator</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Chuan Suan Im</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Chen Meiji</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">P3 Level Coordinator</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Arunkumar Poornimadevasena</span></td>
+	<tr>
+    <td class="tg-lr6o"><span style="color:#222"> To be confirmed</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">P4 Level Coordinator</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222"> Mdm Carine Lay Wai Pui</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Mdm Chelsea Lee Poh Wan</span></td>
     <td class="tg-lr6o"><span style="color:#222">P5 Level Coordinator </span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Chloe Chow Soek Fung</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm Carine Lay Wai Pui</span></td>
     <td class="tg-lr6o"><span style="color:#222">P6 Level Coordinator </span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o">Mdm Tajunisha Abu Bakar <br></td>
-    <td class="tg-lr6o"><span style="color:#222">Special Project Manager</span><br></td>
+    <td class="tg-lr6o">Mdm Dayalan Deepa<br></td>
+    <td class="tg-lr6o"><span style="color:#222">Projects Manager / Events Coordinator</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Dayalan Deepa</span>	</td>
-    <td class="tg-lr6o"><span style="color:#222">Special Project Manager </span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm Connie Wong Yoke Mui</span>	</td>
+    <td class="tg-lr6o"><span style="color:#222">Events Coordinator </span><br></td>
   </tr>
 </tbody>
 </table>
@@ -81,8 +89,12 @@ To support School in achieving its vision – “Empowered Leaders”
 *   Support One Another
 
  
-For enquiries about our PSG, please contact Mdm Mogana at [mogana514@gmail.com](mailto:mogana514@gmail.com)
+For enquiries about our PSG, please contact Mdm Nur (Chairperson) at [nurnn79nn@gmail.com](mailto:nurnn79nn@gmail.com)
 
-![](/images/psg1.jpeg)
-![](/images/psg2.png)
-![](/images/psg3.png)
+![](/images/PSG/picture1.jpg)
+
+![](/images/PSG/picture2.jpg)
+
+![](/images/PSG/psgalign.jpg)
+
+![](/images/PSG/psgalign2.jpg)
