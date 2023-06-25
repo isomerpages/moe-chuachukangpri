@@ -40,10 +40,12 @@ third_nav_title: Our Staff
 | 2 Respect 5 | Mdm Sri Priya d/o Kisnan |
 | 2 Respect 5 | Mr Mohd Hamdan Bin Mohd Mohaideen |
 | 2 Respect 6 | Mdm Zarina Binte Hassan |
-| 2 Respect 7 | Mdm Lim Wan Fong |
+| 2 Respect 6 | Mdm Germaine Tan Zhe-Min |
+| 2 Respect 7 | Mdm Lim Wan Fong (Mrs Yong) |
 | 2 Respect 7 | Mdm Aznizah Binte Abdul Aziz |
 | 2 Respect 8 | Ms Ker Bee Leng |
 | 2 Respect 8 | Mdm Nur Afiqah Binte Alias |
+| 2 Respect 8 | Mdm Goh Keow Keow |
 
 #### Primary 3 Form Teachers
 
