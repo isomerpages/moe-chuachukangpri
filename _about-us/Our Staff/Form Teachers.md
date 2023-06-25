@@ -70,6 +70,7 @@ third_nav_title: Our Staff
 | -------- | -------- |
 | 4 Integrity 1 | Mr Soh Eng Kian |
 | 4 Integrity 1 | Mdm Nur Ramizah Binte Amzah |
+| 4 Integrity 1 | Mr Brandon Toh Kay Boon |
 | 4 Integrity 2 | Mdm Josephine Pang Mei Kuen |
 | 4 Integrity 2 | Mr Chin Loke Ping |
 | 4 Integrity 3 | Mr Dominic Siew Mun Cheung |
@@ -78,6 +79,7 @@ third_nav_title: Our Staff
 | 4 Integrity 4 | Mr Philip Chua Kwan Chye |
 | 4 Integrity 5 | Ms Korina Shalini d/o Manogaran |
 | 4 Integrity 5 | Mr Benedict Tan Hock Leng |
+| 4 Integrity 5 | Mdm Nur Kamilah Binte Sumardi |
 | 4 Integrity 6 | Mrs Amy Kwan Sing Ting |
 | 4 Integrity 6 | Mr Senthil s/o Veerapandian |
 
@@ -88,17 +90,16 @@ third_nav_title: Our Staff
 | 5 Harmony 1 | Mdm Lee Lay Tin |
 | 5 Harmony 1 | Ms Alyssa Shahira Binte Sariman |
 | 5 Harmony 2 | Mdm Nur Ratna Binte Mohamed Rashid |
-| 5 Harmony 2 | Mrs Jerrine Chan Hui En |
+| 5 Harmony 2 | Mdm Teo Guat Soon |
 | 5 Harmony 2 | Ms Chin Xin Yu |
 | 5 Harmony 3 | Mdm Ng Hui Yin |
-| 5 Harmony 3 | Mr Logesh s/o Jayaraman |
-| 5 Harmony 3 | Ms Fatimatus Sakinah s/o Muhammad Faris |
+| 5 Harmony 3 | Mrs Tan-Chng Miang Khee |
 | 5 Harmony 4 | Ms Faith Wong Yun Jia |
-| 5 Harmony 4 | Mrs Tan-Chng MK |
-| 5 Harmony 5 | Mdm Candice Chen |
+| 5 Harmony 4 | Mr Alan Yang Qidong |
+| 5 Harmony 5 | Mdm Candice Chen Peijun |
 | 5 Harmony 5 | Ms Eng Xin Di |
 | 5 Harmony 6 | Mr Timothy Chen Zeliang |
-| 5 Harmony 6 | Mdm Ang Shu Yu |
+| 5 Harmony 6 | Mdm Ang Shuyu |
 
 #### Primary 6 Form Teachers
 
