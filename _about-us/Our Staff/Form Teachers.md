@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 | 3 Responsibility 1 | Mdm Noranisah Binte Kamis |
 | 3 Responsibility 1 | Ms Tan Jia Hui |
 | 3 Responsibility 2 | Mr Roslan Bin Yahya |
-| 3 Responsibility 2 | Ms Tan Lay Bee |
+| 3 Responsibility 2 | Mrs Jerrine Chan |
 | 3 Responsibility 3 | Mr Colin Chan Kah Kit |
 | 3 Responsibility 3 | Mdm Angela Albert |
 | 3 Responsibility 4 | Mdm Wendy Tan Wen Wang |
