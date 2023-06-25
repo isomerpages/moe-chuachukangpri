@@ -18,9 +18,10 @@ third_nav_title: Our Staff
 | Year Head | Mdm Rasidah Bte Abdul Wahab |
 | Year Head | Mdm Lim Hui Hui Shermaine |
 | Assistant Year Head | Mrs Lee Siew Fung |
-| Assistant Year Head (Internal) | Mdm Kasidah Khatoon Bte Kasim Khan Surattee |
-| Assistant Year Head (Internal) | Mr Muhammad Shukur Bin Mohamad Ayub |
-| School Staff Developer (Internal) | Ms Yogeswary d/o Subramaniam |
+| Assistant Year Head | Mdm Kasidah Khatoon Bte Kasim Khan Surattee |
+| Assistant Year Head | Mr Muhammad Shukur Bin Mohamad Ayub |
+| School Staff Developer | Ms Yogeswary d/o Subramaniam |
+| Level Head / English | Mdm Nur Kamilah Sumardi|
 | Level Head / Mathematics | Mdm Ng Hui Yin |
 | Level Head / Science (Internal) | Ms Faith Wong |
 | Subject Head / Malay Language | Mdm Siti Maryam Bte Mohd Amin |
