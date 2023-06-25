@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 | Designation | Name |
 | -------- | -------- |
 | Senior SEN Officer (LBS) | Ms Sim Wee Li |
-| Allied Educator (LBS) | Mdm Florence Ong Hwee Ming |
+| SEN Officer (LBS) | Mdm Florence Ong Hwee Ming |
 | Senior School Counsellor | Mdm Suriana Bte Othman |
 | School Counsellor | Mr Lionel Ong Yue Jin |
 | Student Welfare Officer | Mdm Salina Binte Samsu |
