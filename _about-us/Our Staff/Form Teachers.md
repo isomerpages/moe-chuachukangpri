@@ -10,10 +10,10 @@ third_nav_title: Our Staff
 | -------- | -------- |
 | 1 Care 1 | Mrs Cheryl Tsang |
 | 1 Care 1 | Ms Siti Salmah Binte Hamid |
-| 1 Care 2 | Ms Jocelyn Guo Wenxun |
+| 1 Care 2 | Ms Jocelyn Guo Wen Xun |
 | 1 Care 2 | Ms Teo Siew Peng |
 | 1 Care 3 | Mdm Kiang Shu Jun Amanda |
-| 1 Care 3 | Mdm Nurhani Idris |
+| 1 Care 3 | Mdm Nurhani Binte Idris |
 | 1 Care 4 | Mdm Nordiana Yanti Binte A Aziz |
 | 1 Care 4 | Mdm Zhan Ying |
 | 1 Care 5 | Mdm Sarina Binte Mohamed |
