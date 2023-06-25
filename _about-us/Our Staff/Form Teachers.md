@@ -113,7 +113,7 @@ third_nav_title: Our Staff
 | 6 Resilience 3 | Mdm Vasanthi d/o Arumugam |
 | 6 Resilience 4 | Mdm Siti Maryam Binte Md. Amin |
 | 6 Resilience 4 | Mr Ang Guan Piew |
-| 6 Resilience 5 | Mr Aloysius Low Chun How |
+| 6 Resilience 5 | Mr Logesh s/o Jayaraman |
 | 6 Resilience 5 | Mdm Melati Hallel |
 | 6 Resilience 6 | Mdm Michelle Foo Mei Fang |
 | 6 Resilience 6 | Mr Chiam Kim Yeow |
