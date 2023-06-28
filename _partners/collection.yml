@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - School Bus Service.md
       - Canteen Vendors.md
       - School Advisory Committee.md
       - Parent Support Group.md
