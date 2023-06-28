@@ -1,5 +1,0 @@
-collections:
-  advertisements:
-    output: true
-    order:
-      - Canteen Stalls.md
