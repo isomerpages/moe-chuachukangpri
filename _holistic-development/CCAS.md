@@ -76,7 +76,7 @@ To achieve these, there are 14 CCAS offered under 3 categories.
     <td class="tg-9ve2"><span style="color:#222">Scouts</span></td>
   </tr>
   <tr>
-    <td class="tg-xccu"><a href="/ccas/Clubs-and-Uniformed-Groups/art-and-crafts-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-xccu"><a href="/ccas/Clubs-and-Uniformed-Groups/arts-and-crafts-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/environmental-science-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/robotics-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/scouts/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
