@@ -12,7 +12,7 @@ description: ""
 
 ##### **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 [Canteen Vendor Application Form](/files/canteen%20application%20form%202023.pdf)
 
