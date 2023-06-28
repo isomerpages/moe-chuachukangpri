@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Canteen Vendors.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - Alumni.md
