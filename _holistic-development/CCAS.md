@@ -76,7 +76,7 @@ To achieve these, there are 14 CCAS offered under 3 categories.
     <td class="tg-9ve2"><span style="color:#222">Scouts</span></td>
   </tr>
   <tr>
-    <td class="tg-xccu"><a href="/ccas/Clubs-and-Uniformed-Groups/arts-and-crafts-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-xccu"><a href="/ccas/Clubs-and-Uniformed-Groups/art-and-crafts-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/environmental-science-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/robotics-club/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Clubs-and-Uniformed-Groups/scouts/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
@@ -148,20 +148,18 @@ To achieve these, there are 14 CCAS offered under 3 categories.
 
 #### P2 CCA Showcase
 
-Dear Parents,   
+Dear Parents,&nbsp;  
   
 To sign up for the CCAS, you may either  
   
-1.  Click on the tab below to access the **CCKPS CCA Option Form 2022.**
+1.&nbsp; Click on the tab below to access the&nbsp;**CCKPS CCA Option Form 2022.**
 
-<a href = "https://go.gov.sg/2022p2ccaoption" target = "_self"> 
+<a href="https://go.gov.sg/2022p2ccaoption" target="_self"> 
 	<img src="/images/ccaoptionform2022.png"></a>
 
 
-or   
+or&nbsp;  
   
 2\. Scan the QR code below.
 
-<img src="/images/download.png" 
-     style="width:20%">
-
+<img src="/images/download.png" style="width:20%">
