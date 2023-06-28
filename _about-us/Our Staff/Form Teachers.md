@@ -10,10 +10,10 @@ third_nav_title: Our Staff
 | -------- | -------- |
 | 1 Care 1 | Mrs Cheryl Tsang |
 | 1 Care 1 | Ms Siti Salmah Binte Hamid |
-| 1 Care 2 | Ms Jocelyn Guo Wenxun |
+| 1 Care 2 | Ms Jocelyn Guo Wen Xun |
 | 1 Care 2 | Ms Teo Siew Peng |
 | 1 Care 3 | Mdm Kiang Shu Jun Amanda |
-| 1 Care 3 | Mdm Nurhani Idris |
+| 1 Care 3 | Mdm Nurhani Binte Idris |
 | 1 Care 4 | Mdm Nordiana Yanti Binte A Aziz |
 | 1 Care 4 | Mdm Zhan Ying |
 | 1 Care 5 | Mdm Sarina Binte Mohamed |
@@ -40,10 +40,12 @@ third_nav_title: Our Staff
 | 2 Respect 5 | Mdm Sri Priya d/o Kisnan |
 | 2 Respect 5 | Mr Mohd Hamdan Bin Mohd Mohaideen |
 | 2 Respect 6 | Mdm Zarina Binte Hassan |
-| 2 Respect 7 | Mdm Lim Wan Fong |
+| 2 Respect 6 | Mdm Germaine Tan Zhe-Min |
+| 2 Respect 7 | Mdm Lim Wan Fong (Mrs Yong) |
 | 2 Respect 7 | Mdm Aznizah Binte Abdul Aziz |
 | 2 Respect 8 | Ms Ker Bee Leng |
 | 2 Respect 8 | Mdm Nur Afiqah Binte Alias |
+| 2 Respect 8 | Mdm Goh Keow Keow |
 
 #### Primary 3 Form Teachers
 
@@ -52,7 +54,7 @@ third_nav_title: Our Staff
 | 3 Responsibility 1 | Mdm Noranisah Binte Kamis |
 | 3 Responsibility 1 | Ms Tan Jia Hui |
 | 3 Responsibility 2 | Mr Roslan Bin Yahya |
-| 3 Responsibility 2 | Ms Tan Lay Bee |
+| 3 Responsibility 2 | Mrs Jerrine Chan |
 | 3 Responsibility 3 | Mr Colin Chan Kah Kit |
 | 3 Responsibility 3 | Mdm Angela Albert |
 | 3 Responsibility 4 | Mdm Wendy Tan Wen Wang |
@@ -68,6 +70,7 @@ third_nav_title: Our Staff
 | -------- | -------- |
 | 4 Integrity 1 | Mr Soh Eng Kian |
 | 4 Integrity 1 | Mdm Nur Ramizah Binte Amzah |
+| 4 Integrity 1 | Mr Brandon Toh Kay Boon |
 | 4 Integrity 2 | Mdm Josephine Pang Mei Kuen |
 | 4 Integrity 2 | Mr Chin Loke Ping |
 | 4 Integrity 3 | Mr Dominic Siew Mun Cheung |
@@ -76,6 +79,7 @@ third_nav_title: Our Staff
 | 4 Integrity 4 | Mr Philip Chua Kwan Chye |
 | 4 Integrity 5 | Ms Korina Shalini d/o Manogaran |
 | 4 Integrity 5 | Mr Benedict Tan Hock Leng |
+| 4 Integrity 5 | Mdm Nur Kamilah Binte Sumardi |
 | 4 Integrity 6 | Mrs Amy Kwan Sing Ting |
 | 4 Integrity 6 | Mr Senthil s/o Veerapandian |
 
@@ -86,17 +90,16 @@ third_nav_title: Our Staff
 | 5 Harmony 1 | Mdm Lee Lay Tin |
 | 5 Harmony 1 | Ms Alyssa Shahira Binte Sariman |
 | 5 Harmony 2 | Mdm Nur Ratna Binte Mohamed Rashid |
-| 5 Harmony 2 | Mrs Jerrine Chan Hui En |
+| 5 Harmony 2 | Mdm Teo Guat Soon |
 | 5 Harmony 2 | Ms Chin Xin Yu |
 | 5 Harmony 3 | Mdm Ng Hui Yin |
-| 5 Harmony 3 | Mr Logesh s/o Jayaraman |
-| 5 Harmony 3 | Ms Fatimatus Sakinah s/o Muhammad Faris |
+| 5 Harmony 3 | Mrs Tan-Chng Miang Khee |
 | 5 Harmony 4 | Ms Faith Wong Yun Jia |
-| 5 Harmony 4 | Mrs Tan-Chng MK |
-| 5 Harmony 5 | Mdm Candice Chen |
+| 5 Harmony 4 | Mr Alan Yang Qidong |
+| 5 Harmony 5 | Mdm Candice Chen Peijun |
 | 5 Harmony 5 | Ms Eng Xin Di |
 | 5 Harmony 6 | Mr Timothy Chen Zeliang |
-| 5 Harmony 6 | Mdm Ang Shu Yu |
+| 5 Harmony 6 | Mdm Ang Shuyu |
 
 #### Primary 6 Form Teachers
 
@@ -110,7 +113,7 @@ third_nav_title: Our Staff
 | 6 Resilience 3 | Mdm Vasanthi d/o Arumugam |
 | 6 Resilience 4 | Mdm Siti Maryam Binte Md. Amin |
 | 6 Resilience 4 | Mr Ang Guan Piew |
-| 6 Resilience 5 | Mr Aloysius Low Chun How |
+| 6 Resilience 5 | Mr Logesh s/o Jayaraman |
 | 6 Resilience 5 | Mdm Melati Hallel |
 | 6 Resilience 6 | Mdm Michelle Foo Mei Fang |
 | 6 Resilience 6 | Mr Chiam Kim Yeow |

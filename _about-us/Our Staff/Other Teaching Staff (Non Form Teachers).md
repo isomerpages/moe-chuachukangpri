@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 | Subject | Name | 
 | -------- | -------- | 
-| English | Mdm Adeline Tan Sue Lin |
+| English | Mdm Nancy Tham Lai Po |
 | English | Mdm Fathima Beevi d/o Mohd Sidique |
 | English | Mdm Jean Jie Ying Stella |
 | English | Mdm Joan Ong Wei Qi |
