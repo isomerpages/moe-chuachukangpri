@@ -27,7 +27,7 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-lr6o">考评局批准词典<br>LIST OF APPROVED DICTIONARIES FOR USE IN PSLE</td>
-    <td class="tg-4l7k"><a href="LINKPDFHERE"><span style="text-decoration:none;color:#134693">PDFNAMEHERE (not found on seab)</span></a></td>
+    <td class="tg-4l7k"><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf"><span style="text-decoration:none;color:#134693">https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o">知识网<br>eTutor</td>
