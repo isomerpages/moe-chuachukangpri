@@ -31,11 +31,8 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-lr6o">知识网<br>eTutor</td>
-    <td class="tg-4l7k"><a href="https://www.ezhishi.net/"><span style="text-decoration:none;color:#134693">https://www.ezhishi.net/</span></a></td>
+    <td class="tg-4l7k"><a href="https://www.ezhishi.net/Contents/"><span style="text-decoration:none;color:#134693">https://www.ezhishi.net/Contents/</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-lr6o">小学华文辅助读物推荐书目<br>Recommended Supplementary Chinese Language Readers for Primary School</td>
-    <td class="tg-4l7k"><a href="LINKPDFHERE"><span style="text-decoration:none;color:#134693">PDFNAMEHERE (file not found on seab)</span></a></td>
-  </tr>
+
 </tbody>
 </table>
