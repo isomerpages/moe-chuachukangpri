@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents / Guardians of Primary 1 2024 students,
+Dear Parents / Guardians of 2024 Primary 1 students,
 
 Please click on this **[link](https://forms.office.com/r/HJaeFf209F)** for the Chua Chu Kang Registration of Interest form for YMCA Student Care Service.
 
