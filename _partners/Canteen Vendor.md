@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese / Western Food Stall (halal/non-halal) | 20 September 2023 | Healthy Japanese / Western Food |
+| Japanese / Western Food Stall (halal/non-halal) | 26 September 2023 | Healthy Japanese / Western Food |
 
 ##### **Application Procedure**
 
