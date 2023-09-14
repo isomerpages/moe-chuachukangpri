@@ -6,14 +6,14 @@ third_nav_title: Service Providers
 ---
 ### YMCA
 
-**Programme Focus:**  
-* Basic Care – meals, shower and rest 
-* Homework Supervision 
-* Character Development Programme 
+**Programme Focus:**&nbsp;&nbsp;
+* Basic Care – meals, shower and rest&nbsp;
+* Homework Supervision&nbsp;
+* Character Development Programme&nbsp;
 * Enrichment Programmes
-* Outdoor Activities 
+* Outdoor Activities&nbsp;
 
-For more information on YMCA's organisation and programmes, please visit their website at  [www.ymca.org.sg/cdcscc/](http://www.ymca.org.sg/cdcscc/) or email them at [ckscc@ymca.edu.sg](mailto:ckscc@ymca.edu.sg)   
+For more information on YMCA's organisation and programmes, please visit their website at &nbsp;[www.ymca.org.sg/cdcscc/](http://www.ymca.org.sg/cdcscc/) or email them at [ckscc@ymca.edu.sg](mailto:ckscc@ymca.edu.sg)  &nbsp;
 
 Below is the contact information of our SCC operator:
 
@@ -69,10 +69,8 @@ Below is the contact information of our SCC operator:
 
 ### Student Care Centre Registration Matters
 
-(1) Please click [**here**](https://tinyurl.com/ChuaChuKang-2023-P1-ROI) to access the registration of interest form.  
+(1) Please click&nbsp;[**here**](https://forms.office.com/r/HJaeFf209F)&nbsp;to access the registration of interest form.  
   
 (2) You may also scan the QR code below to access the registration of interest form:
 
-<img src="/images/qrcode_formsofficecom.png" 
-     style="width:25%">
-
+![](/images/ymca%20link%202024.jpeg)

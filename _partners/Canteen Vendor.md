@@ -8,8 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Hot Drink Stall | 04 August 2023 | Hot Drinks and Healthy Snacks |
-| Japanese / Western Food Stall (halal/non-halal) | 04 August 2023 | Healthy Japanese / Western Food |
+| Japanese / Western Food Stall (halal/non-halal) | 26 September 2023 | Healthy Japanese / Western Food |
 
 ##### **Application Procedure**
 
