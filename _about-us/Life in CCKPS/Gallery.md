@@ -2,7 +2,7 @@
 title: Gallery
 permalink: /about-us/Life-in-CKKPS/gallery/
 description: ""
-third_nav_title: Life in CKKPS
+third_nav_title: Life in CCKPS
 ---
 ##### P1 Orientation Programme 2021
 
