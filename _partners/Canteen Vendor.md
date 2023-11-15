@@ -2,13 +2,15 @@
 title: Canteen Vendor
 permalink: /partners/canteen-vendor/
 description: ""
+variant: markdown
 ---
 #### **School Canteen Advertisement**
 
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese / Western Food Stall (halal/non-halal) | 26 September 2023 | Healthy Japanese / Western Food |
+| Japanese / Korean / Thai / Western Food Stall (halal/non-halal) | 01 December 2023 | Healthy Japanese / Korean / Thai / Western Food |
+| Malay Noodle Stall | 01 December 2023 | Healthy Noodle Stall |
 
 ##### **Application Procedure**
 
