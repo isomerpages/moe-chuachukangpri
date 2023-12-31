@@ -85,19 +85,18 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 5 Harmony 1 | Mdm Lee Lay Tin |
-| 5 Harmony 1 | Ms Alyssa Shahira Binte Sariman |
-| 5 Harmony 2 | Mdm Nur Ratna Binte Mohamed Rashid |
-| 5 Harmony 2 | Mdm Teo Guat Soon |
-| 5 Harmony 2 | Ms Chin Xin Yu |
-| 5 Harmony 3 | Mdm Ng Hui Yin |
-| 5 Harmony 3 | Mrs Tan-Chng Miang Khee |
-| 5 Harmony 4 | Ms Faith Wong Yun Jia |
-| 5 Harmony 4 | Mr Alan Yang Qidong |
-| 5 Harmony 5 | Mdm Candice Chen Peijun |
-| 5 Harmony 5 | Ms Eng Xin Di |
-| 5 Harmony 6 | Mr Timothy Chen Zeliang |
-| 5 Harmony 6 | Mdm Ang Shuyu |
+| 5 Harmony 1 | Mdm Melanie Ng Ling Ling |
+| 5 Harmony 1 | Mdm Ng Hui Yin |
+| 5 Harmony 2 | Mdm Lee Lay Tin |
+| 5 Harmony 2 | Mr Senthil s/o Veerapandian |
+| 5 Harmony 3 | Mrs Jerrine Tan |
+| 5 Harmony 3 | Mdm Nurhani Binte Idris |
+| 5 Harmony 4 | Ms Adele Yeo Shwu Yuan |
+| 5 Harmony 4 | Mdm Ang Shuyu |
+| 5 Harmony 5 | Ms Mundzirah Binte Djuanda |
+| 5 Harmony 5 | Ms Korina Shalini d/o Manogaran |
+| 5 Harmony 6 | Ms Alyssa Shahira Binte Sariman |
+| 5 Harmony 6 | Mdm R Krishnaveeni Ramiah |
 
 #### Primary 6 Form Teachers
 
