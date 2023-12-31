@@ -3,27 +3,28 @@ title: Form Teachers
 permalink: /about-us/Our-Staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 #### Primary 1 Form Teachers
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 1 Care 1 | Mrs Cheryl Tsang |
-| 1 Care 1 | Ms Siti Salmah Binte Hamid |
-| 1 Care 2 | Ms Jocelyn Guo Wen Xun |
-| 1 Care 2 | Ms Teo Siew Peng |
-| 1 Care 3 | Mdm Kiang Shu Jun Amanda |
-| 1 Care 3 | Mdm Nurhani Binte Idris |
-| 1 Care 4 | Mdm Nordiana Yanti Binte A Aziz |
-| 1 Care 4 | Mdm Zhan Ying |
-| 1 Care 5 | Mdm Sarina Binte Mohamed |
-| 1 Care 5 | Mdm Chua Geok Fan|
-| 1 Care 6 | Mr Yip Yew Wing |
-| 1 Care 6 | Ms Vethiya d/o Sutarsan (Mrs Muni)|
-| 1 Care 7 | Mdm Rohana Binte Hamid |
-| 1 Care 7 | Mdm Elaine Tan Hwee Yen|
-| 1 Care 8 | Mdm Phyllis Phoon Wei Ling |
-| 1 Care 8 | Mdm Zuraida Binte Ismawee|
+| 1 Care 1 | Mdm Tan Jia Hui |
+| 1 Care 1 | Mdm Zuraida Binte Ismawee |
+| 1 Care 2 | Mrs Tan-Chng Maggie |
+| 1 Care 2 | Mdm Nurhidayah Binte Hamdan |
+| 1 Care 3 | Ms Vethiya d/o Sutarsan (Mrs Muni) |
+| 1 Care 3 | Mdm Zarina Binte Hassan |
+| 1 Care 4 | Mrs Chen Xifang |
+| 1 Care 4 | Mrs Faith Teng |
+| 1 Care 5 | Mdm Melati Hallel |
+| 1 Care 5 | Mdm Sri Priya d/o Kisnan |
+| 1 Care 6 | Mdm Fauziah Binte Othman |
+| 1 Care 6 | Mdm Lim Wan Fong (Mrs Yong) |
+| 1 Care 7 | Mdm Nur Afiqah Binte Alias |
+| 1 Care 7 | Mdm Zhang Zhiting |
+| 1 Care 8 | Mrs Alison Ho Pei Xin |
+| 1 Care 8 | Mdm Aznizah Binte Abdul Aziz |
 
 #### Primary 2 Form Teachers
 
