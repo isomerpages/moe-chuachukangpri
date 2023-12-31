@@ -30,23 +30,22 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 2 Respect 1 | Mdm Fauziah Binte Othman |
-| 2 Respect 1 | Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed |
-| 2 Respect 2 | Mrs Alison Ho Pei Xin |
-| 2 Respect 2 | Mrs Chen Xifang |
-| 2 Respect 3 | Mdm Zhang Zhiting |
-| 2 Respect 3 | Mdm Nurhidayah Binte Hamdan |
-| 2 Respect 4 | Mdm Nurfarhana Binte Saat |
-| 2 Respect 4 | Mdm Tan Lay Jun |
-| 2 Respect 5 | Mdm Sri Priya d/o Kisnan |
-| 2 Respect 5 | Mr Mohd Hamdan Bin Mohd Mohaideen |
-| 2 Respect 6 | Mdm Zarina Binte Hassan |
-| 2 Respect 6 | Mdm Germaine Tan Zhe-Min |
-| 2 Respect 7 | Mdm Lim Wan Fong (Mrs Yong) |
-| 2 Respect 7 | Mdm Aznizah Binte Abdul Aziz |
-| 2 Respect 8 | Ms Ker Bee Leng |
-| 2 Respect 8 | Mdm Nur Afiqah Binte Alias |
-| 2 Respect 8 | Mdm Goh Keow Keow |
+| 2 Respect 1 | Mrs Cheryl Tsang |
+| 2 Respect 1 | Ms Siti Salmah Binte Hamid |
+| 2 Respect 2 | Ms Jocelyn Guo Wen Xun |
+| 2 Respect 2 | Ms Teo Siew Peng |
+| 2 Respect 3 | Mdm Kiang Shu Jun Amanda |
+| 2 Respect 3 | Mdm Nur Ramizah Binte Amzah |
+| 2 Respect 4 | Mdm Candice Chen Peijun |
+| 2 Respect 4 | Mdm Zhan Ying |
+| 2 Respect 5 | Mdm Sarina Binte Mohamed |
+| 2 Respect 5 | Mr Chin Loke Ping |
+| 2 Respect 6 | Mr Yip Yew Wing |
+| 2 Respect 6 | Mdm Nurafizah Binte Abdul Razak |
+| 2 Respect 7 | Mdm Rohana Binte Hamid |
+| 2 Respect 7 | Mdm Elaine Tan Hwee Yen |
+| 2 Respect 8 | Mdm Phyllis Phoon Wei Ling |
+| 2 Respect 8 | Mdm Tan Lay Jun |
 
 #### Primary 3 Form Teachers
 
@@ -61,7 +60,7 @@ variant: markdown
 | 3 Responsibility 4 | Mdm Wendy Tan Wen Wang |
 | 3 Responsibility 4 | Mdm Vivien Gwee Shay Nee |
 | 3 Responsibility 5 | Mrs Faith Teng |
-| 3 Responsibility 5 | Mdm Raheelah Binte Abdul Manaf |
+| 3 Responsibility 5 | Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed |
 | 3 Responsibility 6 | Mdm Nurafizah Binte Abdul Razak |
 | 3 Responsibility 6 | Ms Lim Siew Peng |
 
