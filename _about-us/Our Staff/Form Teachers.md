@@ -51,17 +51,17 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 3 Responsibility 1 | Mdm Noranisah Binte Kamis |
-| 3 Responsibility 1 | Ms Tan Jia Hui |
-| 3 Responsibility 2 | Mr Roslan Bin Yahya |
-| 3 Responsibility 2 | Mrs Jerrine Chan |
-| 3 Responsibility 3 | Mr Colin Chan Kah Kit |
-| 3 Responsibility 3 | Mdm Angela Albert |
-| 3 Responsibility 4 | Mdm Wendy Tan Wen Wang |
+| 3 Responsibility 1 | Mr Roslan Bin Yahya |
+| 3 Responsibility 1 | Mdm Teo Guat Soon |
+| 3 Responsibility 2 | Mdm Nordiana Yanti Binte A Aziz |
+| 3 Responsibility 2 | Mdm Wendy Tan Wen Wang |
+| 3 Responsibility 3 | Mdm Germaine Tan Zhe-Min |
+| 3 Responsibility 3 | Mr Benedict Tan Hock Leng |
+| 3 Responsibility 4 | Mdm Nur Farhana Binte Saat |
 | 3 Responsibility 4 | Mdm Vivien Gwee Shay Nee |
-| 3 Responsibility 5 | Mrs Faith Teng |
+| 3 Responsibility 5 | Ms Ker Bee Ling |
 | 3 Responsibility 5 | Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed |
-| 3 Responsibility 6 | Mdm Nurafizah Binte Abdul Razak |
+| 3 Responsibility 6 | Mr Soh Eng Kian |
 | 3 Responsibility 6 | Ms Lim Siew Peng |
 
 #### Primary 4 Form Teachers
