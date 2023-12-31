@@ -102,15 +102,16 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 6 Resilience 1 | Mdm Azizah Binte Abdul Latiff |
-| 6 Resilience 1 | Mdm R Krishnaveeni Ramiah |
-| 6 Resilience 2 | Mr Mark Tan Jen Ming |
-| 6 Resilience 2 | Mdm Neo Shi Rong |
-| 6 Resilience 3 | Mdm Melanie Ng Ling Ling |
-| 6 Resilience 3 | Mdm Vasanthi d/o Arumugam |
-| 6 Resilience 4 | Mdm Siti Maryam Binte Md. Amin |
-| 6 Resilience 4 | Mr Ang Guan Piew |
-| 6 Resilience 5 | Mr Logesh s/o Jayaraman |
-| 6 Resilience 5 | Mdm Melati Hallel |
-| 6 Resilience 6 | Mdm Michelle Foo Mei Fang |
-| 6 Resilience 6 | Mr Chiam Kim Yeow |
+| 6 Resilience 1 | Mr Chiam Kim Yeow |
+| 6 Resilience 1 | Mdm Michelle Foo Mei Fang |
+| 6 Resilience 2 | Mdm Nur Ratna Binte Mohamed Rashid |
+| 6 Resilience 2 | Mr Jimmy Neo |
+| 6 Resilience 2 | Mr Logesh s/o Jayaraman |
+| 6 Resilience 3 | Mr Ang Guan Piew |
+| 6 Resilience 3 | Mdm Neo Shi Rong |
+| 6 Resilience 4 | Ms Faith Wong Yun Jia |
+| 6 Resilience 4 | Mr Mark Tan Jen Ming |
+| 6 Resilience 5 | Mdm Lim Hui Hui |
+| 6 Resilience 5 | Mr Phillip Chua Kwan Chye |
+| 6 Resilience 6 | Mr Timothy Chen Zeliang |
+| 6 Resilience 6 | Mdm Wong Liyun |
