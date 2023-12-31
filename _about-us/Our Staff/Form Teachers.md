@@ -68,20 +68,18 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 4 Integrity 1 | Mr Soh Eng Kian |
-| 4 Integrity 1 | Mdm Nur Ramizah Binte Amzah |
-| 4 Integrity 1 | Mr Brandon Toh Kay Boon |
-| 4 Integrity 2 | Mdm Josephine Pang Mei Kuen |
-| 4 Integrity 2 | Mr Chin Loke Ping |
-| 4 Integrity 3 | Mr Dominic Siew Mun Cheung |
-| 4 Integrity 3 | Mdm Xi Jun |
-| 4 Integrity 4 | Ms Adele Yeo Shwu Yuan |
-| 4 Integrity 4 | Mr Philip Chua Kwan Chye |
-| 4 Integrity 5 | Ms Korina Shalini d/o Manogaran |
-| 4 Integrity 5 | Mr Benedict Tan Hock Leng |
-| 4 Integrity 5 | Mdm Nur Kamilah Binte Sumardi |
-| 4 Integrity 6 | Mrs Amy Kwan Sing Ting |
-| 4 Integrity 6 | Mr Senthil s/o Veerapandian |
+| 4 Integrity 1 | Mdm Noranisah Binte Kamis |
+| 4 Integrity 1 | Mdm Xi Jun |
+| 4 Integrity 2 | Mr Alan Yang |
+| 4 Integrity 2 | Ms Eng Xin Di |
+| 4 Integrity 3 | Mdm Angela Albert |
+| 4 Integrity 3 | Mr Colin Chan |
+| 4 Integrity 4 | Mdm Azizah Binte Abdul Latiff |
+| 4 Integrity 4 | Mdm Josephine Pang Mei Kuen |
+| 4 Integrity 5 | Ms Evelyn Lim |
+| 4 Integrity 5 | Mdm Raheelah Binte Abdul Manaf |
+| 4 Integrity 6 | Mdm Nur Kamilah Binte Sumardi |
+| 4 Integrity 6 | Mr Dominic Siew Mun Cheung |
 
 #### Primary 5 Form Teachers
 
