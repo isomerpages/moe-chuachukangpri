@@ -15,7 +15,7 @@ variant: markdown
 | 1 Care 2 | Mdm Nurhidayah Binte Hamdan |
 | 1 Care 3 | Ms Vethiya d/o Sutarsan (Mrs Muni) |
 | 1 Care 3 | Mdm Zarina Binte Hassan |
-| 1 Care 4 | Mrs Chen Xifang |
+| 1 Care 4 | Ms Chen Xifang |
 | 1 Care 4 | Mrs Faith Teng |
 | 1 Care 5 | Mdm Melati Hallel |
 | 1 Care 5 | Mdm Sri Priya d/o Kisnan |
@@ -31,10 +31,10 @@ variant: markdown
 | Class | Form Teacher |
 | -------- | -------- |
 | 2 Respect 1 | Mrs Cheryl Tsang |
-| 2 Respect 1 | Ms Siti Salmah Binte Hamid |
+| 2 Respect 1 | Ms Siti Salmah Bte Hamid |
 | 2 Respect 2 | Ms Jocelyn Guo Wen Xun |
 | 2 Respect 2 | Ms Teo Siew Peng |
-| 2 Respect 3 | Mdm Kiang Shu Jun Amanda |
+| 2 Respect 3 | Mdm Amanda Kiang Shu Jun |
 | 2 Respect 3 | Mdm Nur Ramizah Binte Amzah |
 | 2 Respect 4 | Mdm Candice Chen Peijun |
 | 2 Respect 4 | Mdm Zhan Ying |
@@ -42,7 +42,7 @@ variant: markdown
 | 2 Respect 5 | Mr Chin Loke Ping |
 | 2 Respect 6 | Mr Yip Yew Wing |
 | 2 Respect 6 | Mdm Nurafizah Binte Abdul Razak |
-| 2 Respect 7 | Mdm Rohana Binte Hamid |
+| 2 Respect 7 | Mdm Rohana Bte Hamid |
 | 2 Respect 7 | Mdm Elaine Tan Hwee Yen |
 | 2 Respect 8 | Mdm Phyllis Phoon Wei Ling |
 | 2 Respect 8 | Mdm Tan Lay Jun |
@@ -57,8 +57,9 @@ variant: markdown
 | 3 Responsibility 2 | Mdm Wendy Tan Wen Wang |
 | 3 Responsibility 3 | Mdm Germaine Tan Zhe-Min |
 | 3 Responsibility 3 | Mr Benedict Tan Hock Leng |
-| 3 Responsibility 4 | Mdm Nur Farhana Binte Saat |
+| 3 Responsibility 4 | Mdm Nur Farhana Bte Saat |
 | 3 Responsibility 4 | Mdm Vivien Gwee Shay Nee |
+| 3 Responsibility 4 | Mdm Huang Yue |
 | 3 Responsibility 5 | Ms Ker Bee Ling |
 | 3 Responsibility 5 | Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed |
 | 3 Responsibility 6 | Mr Soh Eng Kian |
