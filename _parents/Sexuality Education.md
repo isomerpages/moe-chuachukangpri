@@ -42,7 +42,7 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 * Science     
 * Character and Citizenship Education (CCE)
 
-**<u>Sexuality Education Lesson</u>**: 
+**<u>Sexuality Education Lessons</u>**: 
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty.&nbsp; With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
