@@ -34,12 +34,10 @@ variant: markdown
 
 You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Chua Chu Kang Primary School’s Sexuality Education Programme for 2023**
+**Overview of Chua Chu Kang Primary School’s Sexuality Education Programme for 2024**
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach#:~:text=The%20MOE%20Sexuality%20Education%20curriculum%20is%20organised%20around,with%20friends%20and%20family%2C%20including%20the%20opposite%20sex.)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
-
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
   
-
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:
 * Science     
 * Character and Citizenship Education (CCE)
