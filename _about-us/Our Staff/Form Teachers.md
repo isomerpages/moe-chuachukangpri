@@ -69,7 +69,7 @@ variant: markdown
 
 | Class | Form Teacher |
 | -------- | -------- |
-| 4 Integrity 1 | Mdm Noranisah Binte Kamis |
+| 4 Integrity 1 | Mdm Noranisah Bte Kamis |
 | 4 Integrity 1 | Mdm Xi Jun |
 | 4 Integrity 2 | Mr Alan Yang |
 | 4 Integrity 2 | Ms Eng Xin Di |
@@ -77,7 +77,7 @@ variant: markdown
 | 4 Integrity 3 | Mr Colin Chan |
 | 4 Integrity 4 | Mdm Azizah Binte Abdul Latiff |
 | 4 Integrity 4 | Mdm Josephine Pang Mei Kuen |
-| 4 Integrity 5 | Ms Evelyn Lim |
+| 4 Integrity 5 | Ms Evelyn Lim Siew Hsien |
 | 4 Integrity 5 | Mdm Raheelah Binte Abdul Manaf |
 | 4 Integrity 6 | Mdm Nur Kamilah Binte Sumardi |
 | 4 Integrity 6 | Mr Dominic Siew Mun Cheung |
@@ -90,7 +90,7 @@ variant: markdown
 | 5 Harmony 1 | Mdm Ng Hui Yin |
 | 5 Harmony 2 | Mdm Lee Lay Tin |
 | 5 Harmony 2 | Mr Senthil s/o Veerapandian |
-| 5 Harmony 3 | Mrs Jerrine Tan |
+| 5 Harmony 3 | Ms Jerrine Tan (Mrs Chan) |
 | 5 Harmony 3 | Mdm Nurhani Binte Idris |
 | 5 Harmony 4 | Ms Adele Yeo Shwu Yuan |
 | 5 Harmony 4 | Mdm Ang Shuyu |
@@ -106,13 +106,13 @@ variant: markdown
 | 6 Resilience 1 | Mr Chiam Kim Yeow |
 | 6 Resilience 1 | Mdm Michelle Foo Mei Fang |
 | 6 Resilience 2 | Mdm Nur Ratna Binte Mohamed Rashid |
-| 6 Resilience 2 | Mr Jimmy Neo |
+| 6 Resilience 2 | Mr Neo Teck Wei |
 | 6 Resilience 2 | Mr Logesh s/o Jayaraman |
 | 6 Resilience 3 | Mr Ang Guan Piew |
 | 6 Resilience 3 | Mdm Neo Shi Rong |
 | 6 Resilience 4 | Ms Faith Wong Yun Jia |
 | 6 Resilience 4 | Mr Mark Tan Jen Ming |
 | 6 Resilience 5 | Mdm Lim Hui Hui |
-| 6 Resilience 5 | Mr Phillip Chua Kwan Chye |
+| 6 Resilience 5 | Mr Philip Chua Kwan Chye |
 | 6 Resilience 6 | Mr Timothy Chen Zeliang |
 | 6 Resilience 6 | Mdm Wong Liyun |
