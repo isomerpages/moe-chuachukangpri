@@ -9,7 +9,7 @@ variant: markdown
 | -------- | -------- | 
 | English Language  | Mdm Melanie Ng Ling Ling |
 | English Language  | Mr Alan Yang Qidong |
-| Mathematics | Ms Adele Yeo Shwu Yuan |
+| Mathematics (Internal) | Ms Adele Yeo Shwu Yuan |
 | Science | Mdm Wong Liyun |
 | Chinese Language | Ms Teo Siew Peng |
 | Malay Language | Mdm Melati Hallel |
