@@ -16,7 +16,7 @@ variant: markdown
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
  
- [Canteen Vendor Application Form](/files/canteen%20application%20form%202023.pdf)
+ [Canteen Vendor Application Form](/files/Canteen_Application_Form_2024.pdf)
 
 2. Attach the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
