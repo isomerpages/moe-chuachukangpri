@@ -9,8 +9,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese / Korean / Thai / Western Food Stall (halal/non-halal) | 01 December 2023 | Healthy Japanese / Korean / Thai / Western Food |
-| Malay Noodle Stall | 01 December 2023 | Healthy Noodle Stall |
+| Japanese / Korean / Thai / Western Food Stall (halal/non-halal) | 25 January 2024  | Healthy Japanese / Western Food |
+| Malay Noodle Stall | 25 January 2024  | Healthy Noodle Stall |
 
 ##### **Application Procedure**
 
