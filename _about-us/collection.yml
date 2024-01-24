@@ -1,0 +1,21 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School History.md
+      - School Crest and School Song.md
+      - School Mission, Vision, Motto and Values.md
+      - Strategic Thrusts.md
+      - Our Staff/School Leaders.md
+      - Our Staff/Key Personnel.md
+      - Our Staff/Senior Teachers.md
+      - Our Staff/Form Teachers.md
+      - Our Staff/Other Teaching Staff (Non Form Teachers).md
+      - Our Staff/Executive & Administrative Staff.md
+      - Our Staff/Allied Educators & School Counsellors.md
+      - Our Staff/.keep
+      - Life in CCKPS/Gallery.md
+      - Life in CCKPS/Videos.md
+      - Life in CCKPS/Virtual Tour.md
+      - Life in CCKPS/.keep

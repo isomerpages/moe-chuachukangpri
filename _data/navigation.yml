@@ -1,0 +1,16 @@
+logo: /images/cckhome.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Holistic Development
+    collection: holistic-development
+  - title: Staff
+    collection: staff
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: Partners
+    collection: partners
+  - title: Contact Us
+    collection: contact-us
