@@ -8,4 +8,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Instructions for Application for Parent Volunteer:</strong></p><ol data-tight="true" class="tight"><li><p>Application starts on&nbsp;15 January 2024.&nbsp;The electronic application form must be received by the school&nbsp;no later than&nbsp;16 February 2024.&nbsp;All applicants will receive an auto acknowledgement email.&nbsp;Please call the school at 67661574 if you do not receive an acknowledgement.</p><p></p></li><li><p>Please register your application at the link below:&nbsp;&nbsp;&nbsp;</p></li></ol><p><a href="https://go.gov.sg/cckpsphase2b2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cckpsphase2b2025</a> or scan the QR code below.</p><p></p><div class="isomer-image-wrapper"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PV_QR.png"></div><p></p><ol start="3" data-tight="true" class="tight"><li><p>Below are the important dates to take note:</p></li></ol><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pv_table_of_dates.png"></div><p>Thank you.</p><p></p><p></p>
+<p>Attention Parents,</p>
+<p>The registration for Phase 2B Parent Volunteer (PV) programme is now closed.
+We appreciate your interest and participation. For any further inquiries,
+please contact the school office or email to <a href="fauziah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_othman@schools.gov.sg</a>.</p>
+<p>Thank you.</p>
+<p></p>
+<p>Regards,</p>
+<p>Mdm Fauziah Othman</p>
+<p>Partnership Committee</p>
+<p></p>
+<p></p>
