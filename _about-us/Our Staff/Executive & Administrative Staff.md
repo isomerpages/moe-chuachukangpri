@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/Our-Staff/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 | Designation | Name |
 | -------- | -------- |
@@ -17,6 +18,7 @@ third_nav_title: Our Staff
 | Teacher Aide | Mdm Ng Bee Hiang Winnie |
 | Librarian | Mdm Aida Bte Ibrahim |
 | Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
+| Assistant Information and Communications Technology (ICT) Administrator | Mr Jason Ye Quanyuan |
 | Desktop Engineer | Mr Kifflie Bin Abdul Maulod |
 | Desktop Engineer | Mr Suhaimi Idafi Bin Mazlan |
 | Operations Support Officer | Mr Hatbar Bin Mangis |
