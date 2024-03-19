@@ -91,12 +91,6 @@ Fridays: 7 a.m. to 5 p.m.
 
 Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.  
 
-d)&nbsp;WhatsApp&nbsp;the school's hotline at&nbsp;**8637 9952**.&nbsp;  
-
-Operating hours: Mondays to Fridays: 8 a.m. to 4 p.m.  
-\*Closed on Saturdays, Sundays and Public Holidays
-
-Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.  
 
 ##### 7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. 
 
@@ -108,4 +102,4 @@ Operating Hours:&nbsp;&nbsp;Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.
 Fridays: 7 a.m. to 5 p.m.  
 \*Closed on Saturdays, Sundays and Public Holidays&nbsp;
 
-Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class. 
+Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.
