@@ -2,6 +2,7 @@
 title: Alumni
 permalink: /partners/alumni/
 description: ""
+variant: markdown
 ---
 ##### **Welcome to CCKPS Alumni**
 The CCKPS Alumni is a volunteer team made up of ex-students who are dedicated in serving the School.
@@ -10,7 +11,7 @@ CCKPS Alumni takes the lead in role modelling positive relationship between scho
 
   
 
-##### **Junior Alumni Executive Committee 2022**
+##### **Junior Alumni Executive Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -100,9 +101,9 @@ To encourage former students to give back to the school by passing on experience
 To support in school projects and enrichment programmes to help current students realise the vision of becoming Empowered Leaders.
 
 
-To promote collaboration and positive relationship amongst former and present students of the school. 
+To promote collaboration and positive relationship amongst former and present students of the school.&nbsp;
   
 
-To enquire more about our Alumni, please contact Mr Yip Yew Weng at [yip\_yew\_wing@moe.gov.sg](mailto:yip_yew_wing@moe.gov.sg)
+To enquire more about our Alumni, please contact Mr Yip Yew Weng at&nbsp;[yip\_yew\_wing@moe.gov.sg](mailto:yip_yew_wing@moe.gov.sg)
 
-or go to [CCKPS Alumni Registration](https://go.gov.sg/cckpsalumniregistration)
+or go to&nbsp;[CCKPS Alumni Registration](https://go.gov.sg/cckpsalumniregistration)
