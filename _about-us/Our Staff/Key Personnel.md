@@ -32,5 +32,5 @@ variant: markdown
 | Level Head / English | Mdm Nur Kamilah Sumardi|
 | Level Head / Mathematics | Mdm Ng Hui Yin |
 | Level Head / Science (Internal) | Ms Faith Wong |
-| Administration Manager | Mr Steven Lin Chunshan |
+| Administration Manager | Mr Steve Lin Chunshan |
 | Operations Manager | Mr S. Rajasegaran |

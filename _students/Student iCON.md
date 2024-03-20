@@ -2,6 +2,7 @@
 title: Student iCON
 permalink: /students/student-icon/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -25,34 +26,34 @@ description: ""
 ### FREQUENTLY ASKED QUESTIONS
 
 
-##### Q1.  What is the naming convention for Student iCON email address?
+##### Q1.&nbsp;&nbsp;What is the naming convention for Student iCON email address?
 
-a.    The student’s email address will be based on < Full Name >@students.edu.sg.   
-b.    Any space in the full name will be replaced with an underscore.    
-c.    Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.   
-d.    For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
+a.&nbsp;&nbsp; &nbsp;The student’s email address will be based on &lt; Full Name &gt;@students.edu.sg.   
+b.&nbsp;&nbsp; &nbsp;Any space in the full name will be replaced with an underscore.    
+c.&nbsp;&nbsp; &nbsp;Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.   
+d.&nbsp;&nbsp; &nbsp;For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
 
 ##### Q2. How can my child log in to Student iCON?
 
 Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit  
-**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** to access Student iCON
+**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;to access Student iCON
    
 
-##### Q3.    Which Operating System or browser should my students use?
+##### Q3.&nbsp;&nbsp; &nbsp;Which Operating System or browser should my students use?
 
 You can refer to the following table for guidance on the Operating Systems/browsers which students can use to log in.
 
 ![](/images/operatingsystem.png)
 
-##### Q4.    What are the default Google applications available for each level?
+##### Q4.&nbsp;&nbsp; &nbsp;What are the default Google applications available for each level?
 
 Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.  
   
   
 
-##### Q5.    What is the password requirement?  
+##### Q5.&nbsp;&nbsp;&nbsp; What is the password requirement? &nbsp;
 
-Please follow the password requirements below:  
+Please follow the password requirements below: &nbsp;
 * Password must be at least 8 character(s) long.  
 * Password must contain at least 1 lowercase letter(s).  
 * Password must contain at least 1 numeric character(s).  
@@ -66,7 +67,7 @@ Please follow the password requirements below:  
 
   
 
-##### Q6.    I have encountered one of the following problems:
+##### Q6.&nbsp; &nbsp; I have encountered one of the following problems:
 
 1.  **Error AADSTS900561 given by the Google website.**
 2.  **Website does not load.**
@@ -75,46 +76,30 @@ Please follow the password requirements below:  
 
 **<u>What should I do?</u>**
 
-a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+a)&nbsp;Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
   
 
-b) If the above does not work, use <u>Incognito mode</u> on your browser to login. Upon activating Incognito mode, proceed to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+b) If the above does not work, use&nbsp;<u>Incognito mode</u> on your browser to login.&nbsp;Upon activating Incognito mode, proceed to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
-c) Contact the school's General Office at **6766 1574**.   
+c) Contact the school's General Office at&nbsp;**6766 1574**.   
 
-Operating Hours:     
+Operating Hours:&nbsp;&nbsp;   
 Mondays to Thursdays: 7.30 a.m. to 5.30 p.m.   
 Fridays: 7 a.m. to 5 p.m.    
-\*Closed on Saturdays, Sundays and Public Holidays 
+\*Closed on Saturdays, Sundays and Public Holidays&nbsp;
 
-Please provide your child’s full name and class.  
+Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.  
 
-d) WhatsApp the school's hotline at **8637 9952**.   
 
-Operating hours: Mondays to Fridays: 8 a.m. to 4 p.m.  
-\*Closed on Saturdays, Sundays and Public Holidays
-
-Please provide your child’s full name and class.  
-
-##### 7.  I receive the following message: Your account is temporarily locked to prevent unauthorized use. 
+##### 7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. 
 
 **<u>What should I do?</u>**
 
-a) Contact the school's General Office at 6766 1574. 
+a) Contact the school's General Office at&nbsp;6766 1574.&nbsp;
 
-Operating Hours:  Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.  
+Operating Hours:&nbsp;&nbsp;Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.  
 Fridays: 7 a.m. to 5 p.m.  
-\*Closed on Saturdays, Sundays and Public Holidays 
+\*Closed on Saturdays, Sundays and Public Holidays&nbsp;
 
-Please provide your child’s full name and class.  
-
-  
- 
-b) WhatsApp the school's hotline at **8637 9952**. 
-
-Operating hours:     
-Mondays to Fridays: 8 a.m. to 4 p.m.   
-\*Closed on Saturdays, Sundays and Public Holidays 
-
-Please provide your child’s full name and class.
+Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.
