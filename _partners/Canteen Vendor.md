@@ -23,22 +23,10 @@ variant: tiptap
 <p>Japanese / Korean / Thai / Western Food Stall (halal/non-halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 March 2024</p>
+<p>05 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Healthy Japanese / Western Food</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Rice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Healthy Chinese cooked food to include vegetable, meat, egg, tauhu and
-other dishes</p>
 </td>
 </tr>
 </tbody>
