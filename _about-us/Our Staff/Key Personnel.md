@@ -10,7 +10,7 @@ variant: markdown
 | HOD / English Language | Mdm Mehmutha Beevi d/o Kutus | 
 | HOD / Mathematics | Mdm Chng Yuan Yuan | 
 | HOD / Science | Mr Woo Wai Hoong Jerric | 
-| HOD / Mother Tongue Languages (Internal) | Mdm Siti Maryam Bte Mohd Amin |
+| HOD / Mother Tongue Languages | Mdm Siti Maryam Bte Mohd Amin |
 | HOD / Student Management | Mdm Francis Anita Chitra |
 | HOD / Character &amp; Citizenship Education (CCE) | Mdm Shama Begum d/o Muhammad Faris | 
 | HOD / Information &amp; Communications Technology (ICT) (Internal) | Mr Aloysius Loh Chun How |
