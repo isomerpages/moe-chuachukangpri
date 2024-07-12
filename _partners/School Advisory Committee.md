@@ -2,7 +2,7 @@
 title: School Advisory Committee
 permalink: /partners/school-advisory-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -16,13 +16,10 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Dr Rebekah Lim Wei Ying
 <br><strong>Chairman</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
