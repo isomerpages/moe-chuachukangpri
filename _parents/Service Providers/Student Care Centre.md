@@ -74,4 +74,4 @@ Below is the contact information of our SCC operator:
   
 (2) You may also scan the QR code below to access the registration of interest form:
 
-![](/images/ymca%20link%202024.jpeg)
+![](/images/QR_code_from_Shermaine.jpg)
