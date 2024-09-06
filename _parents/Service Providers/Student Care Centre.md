@@ -3,6 +3,7 @@ title: Student Care Centre
 permalink: /parents/Service-Providers/student-care-centre/
 description: ""
 third_nav_title: Service Providers
+variant: markdown
 ---
 ### YMCA
 
@@ -69,7 +70,7 @@ Below is the contact information of our SCC operator:
 
 ### Student Care Centre Registration Matters
 
-(1) Please click&nbsp;[**here**](https://forms.office.com/r/HJaeFf209F)&nbsp;to access the registration of interest form.  
+(1) Please click&nbsp;[**here**](https://forms.office.com/Pages/ResponsePage.aspx?id=qqd2-kriRkyOG3Jmmasem6iA8CuISjxPhhbN9UmBTOBUMDVPR0VDMDZNWFhJVTM4TEtJTVdSV0NSNC4u&amp;origin=QRCode)&nbsp;to access the registration of interest form.  
   
 (2) You may also scan the QR code below to access the registration of interest form:
 
