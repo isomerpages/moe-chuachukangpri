@@ -33,6 +33,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Chng Jit Huee Cindy
+	<br> (PBM)
 <br><strong>Vice-Chairman</strong>
 </p>
 </td>
