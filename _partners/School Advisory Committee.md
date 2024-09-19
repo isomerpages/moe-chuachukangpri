@@ -4,62 +4,41 @@ permalink: /partners/school-advisory-committee/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Dr Rebekah Lim Wei Ying
-<br><strong>Chairman</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td width="623" colspan="6">
+<p style="text-align: center;">Dr Rebekah Lim Wei Ying <br><strong>Chairman</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Mr Sethuraman Alagappan
-<br><strong>Vice-Chairman</strong>
-</p>
+<td width="312" colspan="3">
+<p style="text-align: center;">Mr Sethuraman Alagappan <br><strong>Vice-Chairman</strong></p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Ms Chng Jit Huee Cindy
-	<br> (PBM)
-<br><strong>Vice-Chairman</strong>
-</p>
+<td width="312" colspan="3">
+<p style="text-align: center;">Ms Chng Jit Huee Cindy <br>(PBM) <br><strong>Vice-Chairman</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Freddie Ng Heok Kwee
-<br><strong>Member</strong>
-</p>
+<td width="104" style="text-align: center;">
+<p>Mr Freddie Ng Heok Kwee</p>
+<strong>Member</strong>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chin Leong (PBM)
-<br><strong>Member</strong>
-</p>
+<td width="104" style="text-align: center;">
+<p>Mr Lee Chin Leong (PBM) <br><strong>Member</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Dr Zhou Changjiu, PPA(G)
-<br><strong>Member</strong>
-</p>
+<td width="104" style="text-align: center;">
+<p>Dr Zhou Changjiu, PPA(G) <br><strong>Member</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Yong Joo
-<br><strong>Member</strong>
-</p>
+<td width="104" style="text-align: center;">
+<p>Mr Soh Yong Joo <br><strong>Member</strong></p>
+</td>
+<td width="104" style="text-align: center;">
+<p>Mr Charn Ren Hui, Ron<br><strong>Member</strong></p>
+</td>
+<td width="104" style="text-align: center;">
+<p>Mr Jaryl Chng<br><strong>Member</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
