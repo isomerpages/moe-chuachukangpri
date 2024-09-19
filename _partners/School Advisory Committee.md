@@ -22,7 +22,7 @@ variant: markdown
 <tr>
 <td width="104" style="text-align: center;">
 <p>Mr Freddie Ng Heok Kwee</p>
-<p><strong>Member</strong></p>
+<strong>Member</strong>
 </td>
 <td width="104" style="text-align: center;">
 <p>Mr Lee Chin Leong (PBM) <br><strong>Member</strong></p>
