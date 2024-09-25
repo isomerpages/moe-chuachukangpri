@@ -4,38 +4,6 @@ permalink: /partners/canteen-vendor/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Canteen Advertisement</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Noodle Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Healthy Halal Noodle Stall</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h5><strong>Application Procedure</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
