@@ -4,6 +4,38 @@ permalink: /partners/canteen-vendor/
 description: ""
 variant: tiptap
 ---
+<h4><strong>School Canteen Advertisement</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Application Procedure</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
@@ -11,8 +43,7 @@ variant: tiptap
 hardcopy from the School’s General Office.</p>
 </li>
 </ol>
-<p><a href="/files/Canteen_Application_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Vendor Application Form</a>
-</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attach the following documents together with the application form:</p>
@@ -75,7 +106,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+Programme (HMSP)" guidelines (see link).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
