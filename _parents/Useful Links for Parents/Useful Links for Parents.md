@@ -3,31 +3,79 @@ title: Useful Links for Parents
 permalink: /parents/Useful-Links-for-Parents/useful-links/
 description: ""
 third_nav_title: Useful Links for Parents
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 499px">
+<table style="minWidth: 25px">
 <colgroup>
-<col style="width: 499px">
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix"><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding/">Subject-based banding for primary school</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><a href="/files/Announcement%20for%20Parent%20Volunteer%20Phase%202B.pdf">Parent Volunteer Scheme (Phase 2B of P1 Registration)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><a href="/parents/star-awards/">CCKPS Star Awards</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><a href="https://www.schoolbag.edu.sg/">MOE School Bag</a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding/" rel="noopener nofollow" target="_blank">Subject-based Banding for Primary Schools</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/parents/star-awards/" rel="noopener nofollow" target="_blank">CCKPS Star Awards</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">MOE School Bag</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P2.pdf" rel="noopener nofollow" target="_blank">2025 P2 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P3.pdf" rel="noopener nofollow" target="_blank">2025 P3 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P4.pdf" rel="noopener nofollow" target="_blank">2025 P4 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P5.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P6.pdf" rel="noopener nofollow" target="_blank">2025 P6 Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/School_Uniform_Sizing_Chart.pdf" rel="noopener nofollow" target="_blank">School Uniform Size Chart</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CCKPS_UNIFORM_PRICELIST___2024.pdf" rel="noopener nofollow" target="_blank">School Uniform Pricing</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
