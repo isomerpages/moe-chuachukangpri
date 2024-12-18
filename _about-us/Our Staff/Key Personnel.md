@@ -5,32 +5,231 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-| Appointment | Key Personnel | 
-| -------- | -------- | 
-| HOD / English Language | Mdm Mehmutha Beevi d/o Kutus | 
-| HOD / Mathematics | Mdm Chng Yuan Yuan | 
-| HOD / Science | Mr Woo Wai Hoong Jerric | 
-| HOD / Mother Tongue Languages | Mdm Siti Maryam Bte Mohd Amin |
-| HOD / Student Management | Mdm Francis Anita Chitra |
-| HOD / Character &amp; Citizenship Education (CCE) | Mdm Shama Begum d/o Muhammad Faris | 
-| HOD / Information &amp; Communications Technology (ICT) (Internal) | Mr Aloysius Loh Chun How |
-| HOD / CCA, PAL &amp; Aesthetics | Mr Muhammad Zhafran Bin Abdul Halim | 
-| HOD / PE &amp; Innovation (Internal) | Mr Yong Hanyang | 
-| HOD / Partnership &amp; <br>Year Head | Mrs Hon Tham Tsui Yee Karyn |
-| Year Head | Mdm Rasidah Bte Abdul Wahab |
-| Year Head (Internal) | Mdm Kasidah Khatoon Bte Kasim Khan Surattee |
-| Assistant Year Head | Mrs Lee Siew Fung |
-| Assistant Year Head | Mr Mohd Hamdan Bin Mohd Mohaideen |
-| Assistant Year Head | Mr Muhammad Shukur Bin Mohamad Ayub |
-| School Staff Developer | Ms Yogeswary d/o Subramaniam |
-| Subject Head / Chinese Language | Mdm Lim Hui Hui Shermaine |
-| Subject Head / Environment Education | Mdm Fauziah Bte Othman |
-| Subject Head / Character &amp; Citizenship Education (CCE) | Mrs Alison Ho Pei Xin |
-| Subject Head / Student Management | Mrs Goh Shiting |
-| Subject Head / Student Leadership &amp; SEN | Ms Evelyn Lim |
-| Subject Head / Educational Support | Mdm Zarina Bte Hassan |
-| Level Head / English | Mdm Nur Kamilah Sumardi|
-| Level Head / Mathematics | Mdm Ng Hui Yin |
-| Level Head / Science (Internal) | Ms Faith Wong |
-| Administration Manager | Mr Steve Lin Chunshan |
-| Operations Manager | Mr S. Rajasegaran |
+<table>
+<tbody>
+<tr>
+<td width="312">
+<p><strong>Appointment </strong></p>
+</td>
+<td width="312">
+<p><strong>Key Personnel</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / English Language</p>
+</td>
+<td width="312">
+<p>Mdm Mehmutha Beevi d/o Kutus</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Mathematics</p>
+</td>
+<td width="312">
+<p>Mdm Chng Yuan Yuan</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Science</p>
+</td>
+<td width="312">
+<p>Mr Woo Wai Hoong Jerric</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Mother Tongue Languages</p>
+</td>
+<td width="312">
+<p>Mdm Siti Maryam Bte Mohd Amin</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Student Management</p>
+</td>
+<td width="312">
+<p>Mdm Francis Anita Chitra</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Character &amp; Citizenship Education (CCE)</p>
+</td>
+<td width="312">
+<p>Mdm Khamilia Binte Hanapi</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Information &amp; Communications Technology (ICT)</p>
+</td>
+<td width="312">
+<p>Mr Aloysius Loh Chun How</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / CCA, PAL &amp; Aesthetics</p>
+</td>
+<td width="312">
+<p>Mr Muhammad Zhafran Bin Abdul Halim</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / PE &amp; Innovation</p>
+</td>
+<td width="312">
+<p>Mr Yong Hanyang</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / Future of Learning (Internal)</p>
+</td>
+<td width="312">
+<p>Ms Evelyn Lim Siew Hsien</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>HOD / School Staff Developer</p>
+</td>
+<td width="312">
+<p>Ms Yogeswary d/o Subramaniam</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Year Head</p>
+</td>
+<td width="312">
+<p>Mrs Hon Tham Tsui Yee Karyn</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Year Head</p>
+</td>
+<td width="312">
+<p>Mdm Rasidah Bte Abdul Wahab</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Year Head</p>
+</td>
+<td width="312">
+<p>Mdm Kasidah Khatoon Bte Kasim Khan Surattee</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Assistant Year Head (Internal)</p>
+</td>
+<td width="312">
+<p>Mdm Lim Chun Ni Junie</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Assistant Year Head</p>
+</td>
+<td width="312">
+<p>Mr Mohd Hamdan Bin Mohd Mohaideen</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Assistant Year Head</p>
+</td>
+<td width="312">
+<p>Mr Muhammad Shukur Bin Mohamad Ayub</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Subject Head / Environment Education</p>
+</td>
+<td width="312">
+<p>Mdm Fauziah Bte Othman</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Subject Head / Character &amp; Citizenship Education (CCE)</p>
+</td>
+<td width="312">
+<p>Mrs Goh Shiting</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Subject Head / Student Leadership</p>
+</td>
+<td width="312">
+<p>Mdm Nasheda Binte Hamzah</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Subject Head / Aesthetics (Internal)</p>
+</td>
+<td width="312">
+<p>Ms Tan Jia Hui</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Subject Head / Information &amp; Communications Technology (ICT)</p>
+</td>
+<td width="312">
+<p>Mdm Nur Farhanah Binte Suhairi</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Level Head / English (Internal)</p>
+</td>
+<td width="312">
+<p>Ms Alyssa Shahira Sariman</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Level Head / Mathematics</p>
+</td>
+<td width="312">
+<p>Mdm Ng Hui Yin</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Level Head / Science (Internal)</p>
+</td>
+<td width="312">
+<p>Ms Faith Wong</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Administration Manager</p>
+</td>
+<td width="312">
+<p>Mr Steve Lin Chunshan</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>Operations Manager</p>
+</td>
+<td width="312">
+<p>Mr S. Rajasegaran</p>
+</td>
+</tr>
+</tbody>
+</table>
