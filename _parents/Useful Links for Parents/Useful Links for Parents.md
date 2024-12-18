@@ -64,6 +64,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/School_Uniform_Sizing_Chart.pdf" rel="noopener nofollow" target="_blank">School Uniform Size Chart</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CCKPS_UNIFORM_PRICELIST___2024.pdf" rel="noopener nofollow" target="_blank">School Uniform Pricing</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
