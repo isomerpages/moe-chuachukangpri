@@ -2,11 +2,11 @@
 title: School Crest and School Song
 permalink: /about-us/Our-Staff/school-crest-and-school-song/
 description: ""
+variant: markdown
 ---
 #### School Crest
 
-<img src="/images/CCK-Logo-b-colour-200.png" 
-     style="width:20%">
+<img src="/images/CCK-Logo-b-colour-200.png" style="width:20%">
 		 
 * The Circular Band symbolises the school's commitment to an all-round education.
 *   The Book with its pages open signifies the school as an institution that emphasizes learning as continuous process.
@@ -18,4 +18,4 @@ description: ""
 
 #### School Song
 
-https://soundcloud.com/cckpsofficial/cck-ps-school-song?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[Click here to listen](https://soundcloud.com/cckpsofficial/cck-ps-school-song?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
