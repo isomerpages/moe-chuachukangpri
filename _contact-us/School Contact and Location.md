@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Address</strong></h3>
 <p><strong>Chua Chu Kang Primary School</strong>
-<br><strong>20, Choa Chu Kang Avenue 2,</strong>
+<br><strong>20, Choa Chu Kang Avenue 2</strong>
 <br><strong>Singapore 689905</strong>
 </p>
 <h3><strong>Bus Services</strong></h3>
