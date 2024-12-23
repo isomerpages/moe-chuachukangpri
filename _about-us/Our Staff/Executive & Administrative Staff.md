@@ -16,7 +16,7 @@ variant: markdown
 | Teacher Aide | Mdm Normalah Bte Jantan |
 | Teacher Aide | Mr Chen Wei Jian |
 | Librarian | Mdm Aida Bte Ibrahim |
-| Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
+| Information and Communications Technology (ICT) Manager | Mr Muhammad Fadzli Shah Bin Zahari |
 | Information and Communications Technology (ICT) Associate | Mr Jason Ye Quanyuan |
 | Desktop Engineer | Mr Kifflie Bin Abdul Maulod |
 | Desktop Engineer | Mr Suhaimi Idafi Bin Mazlan |
