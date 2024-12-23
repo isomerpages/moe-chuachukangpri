@@ -14,7 +14,7 @@ variant: markdown
 | Corporate Support Officer | Mdm Jean Liew Chin Hiong |
 | Adjunct Corporate Support Officer | Mdm Rajeswari Kumaran |
 | Teacher Aide | Mdm Normalah Bte Jantan |
-| Teacher Aide | Mdm Azlindah bte Azlan |
+| Teacher Aide | Mr Chen Wei Jian |
 | Librarian | Mdm Aida Bte Ibrahim |
 | Information and Communications Technology (ICT) Manager | Muhammad Fadzli Shah Bin Zahari |
 | Information and Communications Technology (ICT) Associate | Mr Jason Ye Quanyuan |
@@ -24,3 +24,4 @@ variant: markdown
 | Operations Support Officer | Mdm Jenny Liang Yoke Poh |
 | Operations Support Officer | Mdm May Go Geok Choo |
 | Operations Support Officer | Mdm Sumathi d/o S Meenatchi Sundaram |
+| Operations Support Officer | Mr Tan Kok Hiak |
