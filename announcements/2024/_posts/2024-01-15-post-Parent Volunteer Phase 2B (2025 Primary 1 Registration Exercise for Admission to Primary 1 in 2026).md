@@ -9,13 +9,9 @@ image: ""
 variant: tiptap
 ---
 <p>Attention Parents,</p>
-<p>The registration for Phase 2B Parent Volunteer (PV) programme is now closed.
-We appreciate your interest and participation. For any further inquiries,
-please contact the school office or email to <a href="fauziah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_othman@schools.gov.sg</a>.</p>
+<p>Application for Phase 2B Parent Volunteer (for children born in 2 Jan
+2020 to 1 Jan 2021) will be up by 15 January 2025.</p>
 <p>Thank you.</p>
 <p></p>
-<p>Regards,</p>
-<p>Mdm Fauziah Othman</p>
-<p>Partnership Committee</p>
 <p></p>
 <p></p>
