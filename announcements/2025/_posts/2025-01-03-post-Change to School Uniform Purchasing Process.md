@@ -11,9 +11,10 @@ variant: tiptap
 <p>Starting from February 2025, school uniforms will no longer be available
 for purchase through the school bookshop. This change is due to the supplier’s
 broader business considerations that have affected our current sale arrangement
-with them. To ensure that uniform prices remain the same and accessible,
-we have made alternative arrangements on the mode of purchase. You now
-have three options to purchase uniforms.</p>
+with them.</p>
+<p>To ensure that uniform prices remain the same and accessible, we have
+made alternative arrangements on the mode of purchase. You now have three
+options to purchase uniforms.</p>
 <p>You can purchase:</p>
 <ul data-tight="true" class="tight">
 <li>
