@@ -195,6 +195,6 @@ experience, knowledge and leadership skills to the current batch of students.</p
 students realise the vision of becoming Empowered Leaders.</p>
 <p>To promote collaboration and positive relationship amongst former and
 present students of the school.&nbsp;</p>
-<p>To enquire more about our Alumni, please contact Mr Yip Yew Weng at&nbsp;
-<a href="mailto:yip_yew_wing@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_wing@moe.gov.sg</a>or go to&nbsp;<a href="https://go.gov.sg/cckpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">CCKPS Alumni Registration</a>
+<p>To enquire more about our Alumni, please contact Mr Yip Yew Wing at&nbsp;
+<a href="mailto:yip_yew_wing@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_wing@moe.edu.sg</a>or go to&nbsp;<a href="https://go.gov.sg/cckpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">CCKPS Alumni Registration</a>
 </p>
