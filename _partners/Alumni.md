@@ -4,12 +4,12 @@ permalink: /partners/alumni/
 description: ""
 variant: tiptap
 ---
-<h5><strong>Welcome to CCKPS Alumni</strong></h5>
+<h3><strong>Welcome to CCKPS Alumni</strong></h3>
 <p>The CCKPS Alumni is a volunteer team made up of ex-students who are dedicated
 in serving the School.</p>
 <p>CCKPS Alumni takes the lead in role modelling positive relationship between
 school and her students and ex-students.</p>
-<h5><strong>Senior Alumni Executive Committee</strong></h5>
+<h4><strong>Senior Alumni Executive Committee</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -57,7 +57,7 @@ school and her students and ex-students.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Junior Alumni Executive Committee</strong></h5>
+<h4><strong>Junior Alumni Executive Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -186,7 +186,7 @@ school and her students and ex-students.</p>
 </tr>
 </tbody>
 </table>
-<h5>Vision</h5>
+<h4>Vision</h4>
 <p>To support the School in achieving its vision – “Empowered Leaders”</p>
 <h4>Mission</h4>
 <p>To encourage former students to give back to the school by passing on
@@ -196,7 +196,5 @@ students realise the vision of becoming Empowered Leaders.</p>
 <p>To promote collaboration and positive relationship amongst former and
 present students of the school.&nbsp;</p>
 <p>To enquire more about our Alumni, please contact Mr Yip Yew Weng at&nbsp;
-<a href="mailto:yip_yew_wing@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_wing@moe.gov.sg</a>
-</p>
-<p>or go to&nbsp;<a href="https://go.gov.sg/cckpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">CCKPS Alumni Registration</a>
+<a href="mailto:yip_yew_wing@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_wing@moe.gov.sg</a>or go to&nbsp;<a href="https://go.gov.sg/cckpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">CCKPS Alumni Registration</a>
 </p>
