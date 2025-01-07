@@ -3,7 +3,6 @@ title: eForms Hub
 permalink: /eforms-hub/
 variant: tiptap
 description: ""
-third_nav_title: Useful Links for Parents
 ---
 <p><strong><u>For the forms below, please fill out the forms accordingly and submit the completed form to the General Office.</u></strong>
 </p>
@@ -17,7 +16,10 @@ in the following year again.</p>
 </p>
 <hr>
 <p></p>
-<h4>Financial Assistance Application form</h4>
+<h4>Financial Assistance Application Form</h4>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
+<br>The above link requires login using Singpass.</p>
+<p></p>
 <p><a href="/files/MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 <hr>
