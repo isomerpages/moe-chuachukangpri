@@ -2,67 +2,199 @@
 title: Alumni
 permalink: /partners/alumni/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### **Welcome to CCKPS Alumni**
-The CCKPS Alumni is a volunteer team made up of ex-students who are dedicated in serving the School.
-
-CCKPS Alumni takes the lead in role modelling positive relationship between school and her students and ex-students.
-
-##### **Senior Alumni Executive Committee**
-
-| Name |
-| -------- | 
-| Nishant Balajee |
-| Charn Ren Hui, Ron |
-| Kavisha d/o Ramash |
-| Soh Yong Joo |
-| Krish Manna |
-| Chng Jit Huee, Cindy |
-| Stephanie Tan Lyn |
-
-
-  
-
-##### **Junior Alumni Executive Committee**
-
-
-
-| Name | Appointment | 
-| -------- | -------- | 
-| Murari Sai Krishna Manik | Chairperson | 
-| Hansi Mohan Poornima | Vice Chairperson |
-| Shubhroneil Paul | Secretary |
-| Zhao Ji Hui Natasha | Programmes & Events Coordinator |
-| Aathithya Jegatheesan | Programmes & Events Coordinator |
-| Darrshan Sridharan | Programmes & Events Coordinator |
-| Harshitha Srinivasan | Programmes & Events Coordinator |
-| Ganti Nandini | Programmes & Events Coordinator |
-| Koi Xin Yi Tricia | Programmes & Events Coordinator |
-| Amir Hamza | Level Representative |
-| Lim Jing | Level Representative |
-| Shah Twisha | Level Representative |
-| Gautham Subramanian | Level Representative |
-| Choo Zhe Xian | Level Representative |
-
-
-##### Vision
-
-To support the School in achieving its vision – “Empowered Leaders”
-
-  ##### Mission
-
-  
-
-To encourage former students to give back to the school by passing on experience, knowledge and leadership skills to the current batch of students.
-  
-
-To support in school projects and enrichment programmes to help current students realise the vision of becoming Empowered Leaders.
-
-
-To promote collaboration and positive relationship amongst former and present students of the school.&nbsp;
-  
-
-To enquire more about our Alumni, please contact Mr Yip Yew Weng at&nbsp;[yip\_yew\_wing@moe.gov.sg](mailto:yip_yew_wing@moe.gov.sg)
-
-or go to&nbsp;[CCKPS Alumni Registration](https://go.gov.sg/cckpsalumniregistration)
+<h3><strong>Welcome to CCKPS Alumni</strong></h3>
+<p>The CCKPS Alumni is a volunteer team made up of ex-students who are dedicated
+in serving the School.</p>
+<p>CCKPS Alumni takes the lead in role modelling positive relationship between
+school and her students and ex-students.</p>
+<h4><strong>Senior Alumni Executive Committee</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nishant Balajee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charn Ren Hui, Ron</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kavisha d/o Ramash</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Yong Joo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Krish Manna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chng Jit Huee, Cindy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stephanie Tan Lyn</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Junior Alumni Executive Committee</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Murari Sai Krishna Manik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hansi Mohan Poornima</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shubhroneil Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhao Ji Hui Natasha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aathithya Jegatheesan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Darrshan Sridharan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harshitha Srinivasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ganti Nandini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koi Xin Yi Tricia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programmes &amp; Events Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amir Hamza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Representative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Representative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shah Twisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Representative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gautham Subramanian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Representative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choo Zhe Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Representative</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Vision</h4>
+<p>To support the School in achieving its vision – “Empowered Leaders”</p>
+<h4>Mission</h4>
+<p>To encourage former students to give back to the school by passing on
+experience, knowledge and leadership skills to the current batch of students.</p>
+<p>To support in school projects and enrichment programmes to help current
+students realise the vision of becoming Empowered Leaders.</p>
+<p>To promote collaboration and positive relationship amongst former and
+present students of the school.&nbsp;</p>
+<p>To enquire more about our Alumni, please contact Mr Yip Yew Wing at&nbsp;
+<a href="mailto:yip_yew_wing@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_wing@moe.edu.sg</a>or go to&nbsp;<a href="https://go.gov.sg/cckpsalumniregistration" rel="noopener noreferrer nofollow" target="_blank">CCKPS Alumni Registration</a>
+</p>
