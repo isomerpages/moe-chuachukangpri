@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - eForms Hub.md
       - Rules and Regulations.md
       - School Safety and Security.md
       - Useful Links for Parents/Useful Links for Parents.md
