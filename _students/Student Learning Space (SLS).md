@@ -108,10 +108,10 @@ use on these devices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Information on SLS and its technical requirements</p>
+<p>3. Information Operating System and Browser Requirements to access SLS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg/student-learning-space/accessing-sls" rel="noopener noreferrer" target="_blank">Click here</a>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/technical-issues/operating-system-and-browser-requirements/" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </td>
 </tr>
@@ -129,26 +129,7 @@ use on these devices.</p>
 <p>5. Web Browser Troublehooting Tips</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6. Tips on uploading audio and video files</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files.pdf" rel="noopener noreferrer" target="_blank">Click here</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7. Guided steps to search MOE library on SLS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FHBL%20Resource%204%20-%20Search%20MOE%20Library.pdf" rel="noopener noreferrer" target="_blank">Click here</a>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </td>
 </tr>
