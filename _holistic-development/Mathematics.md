@@ -2,81 +2,155 @@
 title: Mathematics
 permalink: /holistic-development/mathematics/
 description: ""
+variant: tiptap
 ---
-### Programmes
-
-
-##### **MOE Mathematics Framework**
-
-
-![](/images/Math1.png)
-*Source: Ministry of Education, Singapore*
-
-
-##### **Department Focus**
-
-Our department programmes are aligned to the MOE Mathematics Framework. We aim to enable students to:
-*   develop positive attitudes towards mathematics
-*   use mathematics to solve problems, including real-world problems 
-
-##### **Key Programmes**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<h3>Programmes</h3>
+<h5><strong>MOE Mathematics Framework</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math1.png">
+</div>
+<p><em>Source: Ministry of Education, Singapore</em>
+</p>
+<h5><strong>Department Focus</strong></h5>
+<p>Our department programmes are aligned to the MOE Mathematics Framework.
+We aim to enable students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop positive attitudes towards mathematics</p>
+</li>
+<li>
+<p>use mathematics to solve problems, including real-world problems&nbsp;</p>
+</li>
+</ul>
+<h5><strong>Key Programmes</strong></h5>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 529px">
-<col style="width: 191px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Key Programmes</span></td>
-    <td class="tg-xwen"><span style="color:#222">Level</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8"><span style="font-weight:bold;text-decoration:underline">Heuristics</span><br>- Acquire heuristics skills for problem solving through customised and differentiated packages<br>- Enhance critical thinking skills <br>- Practise good thinking routine through a 5-step approach to problem solving (Primary 1 and 2)<br><br><img src="/images/Math2.png" 
-     style="width:65%"><br><br>- Practise good thinking routine through a 4-step approach to problem solving <span style="font-weight:bold">(Primary 3 to 6)</span><br><br><img src="/images/Math3.png" 
-     style="width:65%"></td>
-    <td class="tg-lr6o"><span style="color:#222">All</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8"><span style="font-weight:bold;text-decoration:underline">ICT Infused Lessons </span><br>- Enhance students’ conceptual understanding and spatial visualisation skills through the use of <span style="font-weight:bold">Student Learning Space (SLS)</span> and other ICT tools.<br><br>- Inject fun in learning Mathematics through practices and games in <span style="font-weight:bold">Koobits</span> (piloting phrase for Primary 1 to Primary 4). Students may log in through the link: <a href="https://problemsums.koobits.com/" target="_blank" rel="noopener noreferrer"><span style="color:#134693">https://problemsums.koobits.com/</span></a><br></td>
-    <td class="tg-lr6o"><span style="color:#222">All </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8"><span style="font-weight:bold;text-decoration:underline">Learning Support Programme for Mathematics (LSM)</span><br>- Provide learning support for selected students to build foundational numeracy skills and knowledge<br>- For more information, refer to the link: <a href="https://www.moe.gov.sg/education/programmes/learning-support" target="_blank" rel="noopener noreferrer"><span style="color:#134693">https://www.moe.gov.sg/education/programmes/learning-support</span></a></td>
-    <td class="tg-lr6o"><span style="color:#222"> P1 &amp; P2 (Selected students)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8"><span style="font-weight:bold;text-decoration:underline">Excellence 2000 (E2K) Mathematics Programme </span><br>- Develop mathematical reasoning skills and deepen conceptual understanding for selected studentsFor more information, refer to the link: <a href="https://www.moe.gov.sg/education/programmes/gifted-education-programme/enrichment-activities-and-programmes-for-learners-wth-high-ability-(lha)/excellence-2000-(e2k)-mathematics-programme)" target="_blank" rel="noopener noreferrer"><span style="color:#134693">https://www.moe.gov.sg/education/programmes/gifted-education-programme/enrichment-activities-and-programmes-for-learners-wth-high-ability-(lha)/excellence-2000-(e2k)-mathematics-programme)</span></a></td>
-    <td class="tg-lr6o"><span style="color:#222">P4 &amp; P5 (Selected students)</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Key Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Heuristics</u></strong>
+<br>- Acquire heuristics skills for problem solving through customised and
+differentiated packages
+<br>- Enhance critical thinking skills
+<br>- Practise good thinking routine through a 5-step approach to problem
+solving (Primary 1 and 2)
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/Math2.png">
+</div>
+<p>
+<br>
+<br>- Practise good thinking routine through a 4-step approach to problem
+solving <strong>(Primary 3 to 6)</strong>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/Math3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>ICT Infused Lessons </u></strong>
+<br>- Enhance students’ conceptual understanding and spatial visualisation
+skills through the use of <strong>Student Learning Space (SLS)</strong> and
+other ICT tools.
+<br>
+<br>- Inject fun in learning Mathematics through practices and games in <strong>Koobits</strong> (piloting
+phrase for Primary 1 to Primary 4). Students may log in through the link:
+<a href="https://problemsums.koobits.com/" rel="noopener noreferrer" target="_blank">https://problemsums.koobits.com/</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Learning Support Programme for Mathematics (LSM)</u></strong>
+<br>- Provide learning support for selected students to build foundational
+numeracy skills and knowledge
+<br>- For more information, refer to the link:</p>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/learning-support" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/learning-support</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P2 (Selected students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Excellence 2000 (E2K) Mathematics Programme </u></strong>
+<br>Develop mathematical reasoning skills and deepen conceptual understanding
+for selected students</p>
+<p>For more information, refer to the link:
+<br> <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners </a>
+<br>under the section Excellence 2000 (E2K) Mathematics Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 &amp; P5 (Selected students)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-##### **Partnership with Parents**
-
-* Conducted Parents’ workshops for parents to better support their child at home.
-* Tips for parents:
-	*   Use the 4-step approach (P3 to P6) and 5-step approach (P1 and P2) when solving word problems
-	*   Use proper mathematical language and everyday objects to teach mathematics 
-	*   Encourage your child to revise constantly (e.g. use of Student Learning Space (SLS) and Koobits (P1 to P4) for self-directed learning at home)
-
-  
-
-##### **Useful Resources/Links**
-
-*   Click **[here](https://problemsums.koobits.com/)** for Koobits (P1 – P4)  
-*   Click **[here](/files/mathematics_syllabus_primary_1_to_6.pdf)** for MOE Mathematics Syllabus (P1 – P6)  
-*   Click **[here](/files/guidelines_calculators.pdf)** for SEAB approved calculator list (P5 and P6 only)
-*   Click **[here](/files/PSLE%20Math%20SEAB%20Website.pdf)** for information on PSLE Mathematics SEAB
+<h5><strong>Partnership with Parents</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conducted Parents’ workshops for parents to better support their child
+at home.</p>
+</li>
+<li>
+<p>Tips for parents:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use the 4-step approach (P3 to P6) and 5-step approach (P1 and P2) when
+solving word problems</p>
+</li>
+<li>
+<p>Use proper mathematical language and everyday objects to teach mathematics&nbsp;</p>
+</li>
+<li>
+<p>Encourage your child to revise constantly (e.g. use of Student Learning
+Space (SLS) and Koobits (P1 to P4) for self-directed learning at home)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h5><strong>Useful Resources/Links</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click&nbsp;<strong><a href="https://problemsums.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+Koobits (P1 – P4)</p>
+</li>
+<li>
+<p>Click&nbsp;<strong><a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+MOE Mathematics Syllabus (P1 – P6)</p>
+</li>
+<li>
+<p>Click&nbsp;<strong><a href="/files/guidelines_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+SEAB approved calculator list (P5 and P6 only)</p>
+</li>
+<li>
+<p>Click&nbsp;<strong><a href="/files/PSLE%20Math%20SEAB%20Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+information on PSLE Mathematics SEAB</p>
+</li>
+</ul>
+<p></p>
