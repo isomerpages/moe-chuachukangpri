@@ -12,6 +12,9 @@ description: ""
 If you do not hear from us by 15 Dec of the year and you are still interested
 to place your child on the wait list, you must submit a fresh application
 in the following year again.</p>
+<p></p>
+<p><a href="https://go.gov.sg/cckpswaitinglist" rel="noopener nofollow" target="_blank">Online Waiting List Submission</a> -
+FormSG</p>
 <p><a href="/files/Waitlist_Form.pdf" rel="noopener nofollow" target="_blank">CCKPS Wait List Form</a>
 </p>
 <hr>
