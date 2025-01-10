@@ -4,7 +4,7 @@ permalink: /eforms-hub/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>For the PDF forms below, please fill out them out accordingly and submit the completed form to the General Office.</u></strong>
+<p><strong><u>For the PDF forms below, please submit the duly completed form to the General Office.</u></strong>
 </p>
 <p></p>
 <h4>CCKPS Wait List Form</h4>
