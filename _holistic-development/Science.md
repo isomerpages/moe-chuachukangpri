@@ -4,8 +4,8 @@ permalink: /holistic-development/science/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Curricular Goal</strong></h3>
-<h5><strong>Nurture a Community of Science Inquirers</strong></h5>
+<h3><strong><u>Curricular Goal</u></strong></h3>
+<h3><strong>Nurture a Community of Science Inquirers</strong></h3>
 <p>Our school adopts an inquiry-based approach to the teaching and learning
 of Science. Inquiry-based learning allows our students to make observations,
 ask questions, think creatively and critically to investigate on a problem
@@ -14,8 +14,7 @@ and make connections to science concepts.&nbsp;</p>
 experiences in the form of scientific investigations, authentic learning
 and learning journeys.</p>
 <p></p>
-<p><strong>CCKPS Science Curriculum</strong>
-</p>
+<h3><strong>CCKPS Science Curriculum</strong></h3>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -302,8 +301,7 @@ and learning journeys.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h5>Learning Journeys</h5>
+<h3><strong>Learning Journeys</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -344,7 +342,7 @@ and learning journeys.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Environment Science Club</strong></h5>
+<h3><strong>Environment Science Club</strong></h3>
 <p>Members of the Environmental Science Club actively participate in a range
 of experiments and activities centered around sustainability. They also
 champion the cultivation of positive sustainable habits, particularly on
@@ -354,7 +352,7 @@ materials into new, usable products.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Combined_Science_Photos.jpg">
 </div>
 <p></p>
-<h5><strong>Science Week</strong></h5>
+<h3><strong>Science Week</strong></h3>
 <p>Science Week was organised to allow the learning of Science to take place
 outside of their usual curriculum. Students got a chance to explore different
 areas of Science using simple, everyday materials that they are normally
@@ -366,7 +364,7 @@ learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Combined_Science_Photos_2.jpg">
 </div>
-<h5><strong>Hydroponics</strong></h5>
+<h3><strong>Hydroponics</strong></h3>
 <p>Our Primary 3 students will have the opportunity to transplant and harvest
 local vegetables such as Milk Cabbage and Chye Sim. This hands-on experience
 allows students to witness the practical application of their classroom
