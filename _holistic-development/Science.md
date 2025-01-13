@@ -173,16 +173,41 @@ and learning journeys.</p>
 <p>Primary 5 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reproduction in Animals</p>
+<p>and Plants</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cycles in Water</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Transport System</p>
+</li>
+<li>
+<p>Human Respiratory and</p>
+<p>Circulatory System</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Electrical System</p>
+</li>
+<li>
+<p>Simple Series and</p>
+<p>Parallel Electric Circuits</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -190,16 +215,47 @@ and learning journeys.</p>
 <p>Primary 6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy in food</p>
+</li>
+<li>
+<p>Forms and uses of energy</p>
+</li>
+<li>
+<p>Sources of Energy</p>
+</li>
+<li>
+<p>Forces</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food chains &amp; food webs</p>
+</li>
+<li>
+<p>Living together</p>
+</li>
+<li>
+<p>Adaptations</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Man’s Impact on</p>
+<p>Environment</p>
+</li>
+<li>
+<p>PSLE Revision</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PSLE Final Revision</p>
 </td>
 </tr>
 <tr>
@@ -207,16 +263,41 @@ and learning journeys.</p>
 <p>Primary 6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy in food</p>
+</li>
+<li>
+<p>Forces</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Food chains</p>
+</li>
+<li>
+<p>Living together</p>
+</li>
+<li>
+<p>Adaptations</p>
 <p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Man’s Impact on Environment</p>
+</li>
+<li>
+<p>PSLE Revision</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PSLE Final Revision</p>
 </td>
 </tr>
 </tbody>
