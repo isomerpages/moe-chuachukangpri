@@ -240,14 +240,13 @@ and learning journeys.</p>
 <li>
 <p>Adaptations</p>
 </li>
+<li>
+<p>Man's Impact on the Environment</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Man’s Impact on</p>
-<p>Environment</p>
-</li>
 <li>
 <p>PSLE Revision</p>
 </li>
@@ -281,15 +280,15 @@ and learning journeys.</p>
 </li>
 <li>
 <p>Adaptations</p>
+</li>
+<li>
+<p>Man's Impact on Environment</p>
 <p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Man’s Impact on Environment</p>
-</li>
 <li>
 <p>PSLE Revision</p>
 </li>
