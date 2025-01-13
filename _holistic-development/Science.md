@@ -27,83 +27,159 @@ and learning journeys.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Themes</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 4</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Diversity of Living &amp; Non-Living Things</p>
+</li>
+<li>
+<p>Classification of Living Things:
+<br>- Plants
+<br>- Animals
+<br>- Fungi &amp; Bacteria (Test in Term 3)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Diversity of Materials (Only on Strength &amp; Flexibility)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Life Cycles of Plants</p>
+</li>
+<li>
+<p>Life Cycles of Animals</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Properties of Magnets</p>
+</li>
+<li>
+<p>Making and Using Magnets</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Systems</p>
+</li>
+<li>
+<p>Human Systems</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 6
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Diversity</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matter</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Diversity of Living and Non-living things
-<br>
-<br>-Diversity of Materials</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Light &amp; Shadow</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cycles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Cycles in plants and animals (Life Cycles)
-<br>-Cycles in matter</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Cycles in plants and animals (Reproduction)
-<br>
-<br>-Cycles in water (changes of states and Water Cycle)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Heat</p>
+</li>
+<li>
+<p>Effects of Heat</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Systems</p>
+<p>Primary 5 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Plant System (Plant parts and functions)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reproduction in Animals &amp; Plants</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Human System (Digestive System)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cycles in Water</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Plant System (Plant Transport system)
-<br>
-<br>- Human System (Respiratory and Circulatory systems)
-<br>
-<br>-Cell System
-<br>
-<br>-Electrical System</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Transport System</p>
+</li>
+<li>
+<p>Human Respiratory and</p>
+<p>Circulatory System</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Electrical System</p>
+</li>
+<li>
+<p>Simple Series and</p>
+<p>Parallel Electric Circuits</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 Foundation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,31 +187,27 @@ and learning journeys.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Energy</p>
+<p>Primary 6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Energy form and uses (Light and Heat)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Energy form and uses (Photosynthesis)
-<br>- Energy conversion</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Interaction of forces (Frictional force, Gravitational force, force
-in springs, Magnetic force)
-<br>
-<br>-Interaction within the environment</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Interactions</p>
+<p>Primary 6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Interaction of forces (Magnets)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -149,6 +221,7 @@ in springs, Magnetic force)
 </tr>
 </tbody>
 </table>
+<p></p>
 <h5>Learning Journeys</h5>
 <table style="minWidth: 50px">
 <colgroup>
