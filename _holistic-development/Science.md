@@ -2,146 +2,376 @@
 title: Science
 permalink: /holistic-development/science/
 description: ""
+variant: tiptap
 ---
-### **Curricular Goal**
-
-
-##### **Nurture a Community of Science Inquirers**
-
-Our school adopts an inquiry-based approach to the teaching and learning of Science. Inquiry-based learning allows our students to make observations, ask questions, think creatively and critically to investigate on a problem and make connections to science concepts. 
-
-Our science curriculum provides our students with a range of learning experiences in the form of scientific investigations, authentic learning and learning journeys.
-
-<strong><center>CCKPS Science Curriculum</center></strong>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<h3><strong><u>Curricular Goal</u></strong></h3>
+<h3><strong>Nurture a Community of Science Inquirers</strong></h3>
+<p>Our school adopts an inquiry-based approach to the teaching and learning
+of Science. Inquiry-based learning allows our students to make observations,
+ask questions, think creatively and critically to investigate on a problem
+and make connections to science concepts.&nbsp;</p>
+<p>Our science curriculum provides our students with a range of learning
+experiences in the form of scientific investigations, authentic learning
+and learning journeys.</p>
+<p></p>
+<h3><strong>CCKPS Science Curriculum</strong></h3>
+<p></p>
+<table style="minWidth: 125px">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 175px">
-<col style="width: 175px">
-<col style="width: 175px">
-<col style="width: 175px">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Themes</span></td>
-    <td class="tg-xwen"><span style="color:#222">Primary 3</span></td>
-    <td class="tg-xwen"><span style="color:#222">Primary 4</span></td>
-    <td class="tg-xwen"><span style="color:#222">Primary 5</span><br></td>
-    <td class="tg-xwen"><span style="color:#222">Primary 6</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="font-weight:normal">Diversity</span></td>
-    <td class="tg-lr6o"><span style="font-weight:400">-Diversity of Living and Non-living things </span><br><br><span style="font-weight:400">-Diversity of Materials </span></td>
-    <td class="tg-xwen"></td>
-    <td class="tg-xwen"></td>
-    <td class="tg-xwen"></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="font-weight:normal"> Cycles </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">- Cycles in plants and animals (Life Cycles)</span><br>-Cycles in matter </td>
-    <td class="tg-lr6o"><span style="font-weight:normal">- Cycles in plants and animals (Reproduction)</span><br><br>-Cycles in water (changes of states and Water Cycle)</td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="font-weight:normal"> Systems </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">-Plant System (Plant parts and functions) </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">-Human System (Digestive System) </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">-Plant System (Plant Transport system) </span><br><br><span style="font-weight:normal">- Human System (Respiratory and Circulatory systems)</span><br><br><span style="font-weight:normal">-Cell System</span><br><br><span style="font-weight:normal">-Electrical System</span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="font-weight:normal"> Energy</span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">- Energy form and uses (Light and Heat) </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal;background-color:transparent">-Energy form and uses (Photosynthesis)</span><br>- Energy conversion </td>
-    <td class="tg-lr6o"><span style="font-weight:normal">- Interaction of forces (Frictional force, Gravitational force, force in springs, Magnetic force) </span><br><br><span style="font-weight:normal">-Interaction within the environment </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="font-weight:normal"> Interactions</span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal">-Interaction of forces (Magnets) </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-    <td class="tg-lr6o"><span style="font-weight:normal"> </span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Diversity of Living &amp; Non-Living Things</p>
+</li>
+<li>
+<p>Classification of Living Things:
+<br>- Plants
+<br>- Animals
+<br>- Fungi &amp; Bacteria (Test in Term 3)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Diversity of Materials (Only on Strength &amp; Flexibility)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Life Cycles of Plants</p>
+</li>
+<li>
+<p>Life Cycles of Animals</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Properties of Magnets</p>
+</li>
+<li>
+<p>Making and Using Magnets</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Systems</p>
+</li>
+<li>
+<p>Human Systems</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Matter</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Light &amp; Shadow</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Heat</p>
+</li>
+<li>
+<p>Effects of Heat</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 Standard</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Reproduction in Animals &amp; Plants</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Cycles in Water</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Transport System</p>
+</li>
+<li>
+<p>Human Respiratory and</p>
+<p>Circulatory System</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Electrical System</p>
+</li>
+<li>
+<p>Simple Series and</p>
+<p>Parallel Electric Circuits</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 Foundation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Reproduction in Animals</p>
+<p>and Plants</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Cycles in Water</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Plant Transport System</p>
+</li>
+<li>
+<p>Human Respiratory and</p>
+<p>Circulatory System</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Electrical System</p>
+</li>
+<li>
+<p>Simple Series and</p>
+<p>Parallel Electric Circuits</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 Standard</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy in food</p>
+</li>
+<li>
+<p>Forms and uses of energy</p>
+</li>
+<li>
+<p>Sources of Energy</p>
+</li>
+<li>
+<p>Forces</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Food chains &amp; food webs</p>
+</li>
+<li>
+<p>Living together</p>
+</li>
+<li>
+<p>Adaptations</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Man’s Impact on</p>
+<p>Environment</p>
+</li>
+<li>
+<p>PSLE Revision</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Final Revision</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 Foundation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy in food</p>
+</li>
+<li>
+<p>Forces</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Food chains</p>
+</li>
+<li>
+<p>Living together</p>
+</li>
+<li>
+<p>Adaptations</p>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Man’s Impact on Environment</p>
+</li>
+<li>
+<p>PSLE Revision</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Final Revision</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-##### Learning Journey
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<h3><strong>Learning Journeys</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-u05r">Primary 3</td>
-    <td class="tg-u05r">Gardens By the Bay (Plants)</td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">Primary 4</td>
-    <td class="tg-u05r">Dengue Mobster (Life Cycle of Animals)</td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">Primary 5</td>
-    <td class="tg-u05r">Science Centre (Unit of Life)</td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">Primary 6</td>
-    <td class="tg-u05r">Sungei Buloh Wetland Reserve (Adaptations)</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainable Singapore Gallery @ Marina Barrage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sungei Buloh Wetland Reserve</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-##### **Environment Science Club**
-
-Members immerse themselves in the world of environmental science where exciting and interesting experiments and activities are conducted.
-
-![](/images/sci1.png)
-
-##### **Science Reading Programme**  
-
-Enriching students’ learning of Science through the reading of the Young Scientists magazines. This comic-based magazine aims to deliver syllabus-based science content that resonates with the young children of today.
-
-##### **Environment Recess Activities**
-
-During some recesses, booths are set up in the canteen by external organisations such as PUB, Food for the Heart, etc., where students learn about environmental issues. Students will also get to participate in hands-on activities where they will better understand how they can play a more active role in saving the environment.
-
-![](/images/sci2.png)
-
-##### **Science Buskers Competition**
-
-Every year, the Science Centre organises this interesting competition for students to showcase their science experiments in the form of busking. Our school organises our own internal Science Busking Fair to provide a platform for students to share interesting science concepts and phenomenon with their fellow schoolmates. Promising groups will be selected to represent the school in the external competition.
-
-![](/images/sci4.png)
-![](/images/sci3.png)
-![](/images/sci5.png)
-
-
-##### **Dengue Mobster (P4)**
-
-Primary 4 students will be spreading dengue prevention messages to their fellow schoolmates as well as the residents in the nearby residential blocks using their wonderfully prepared posters and charts!
-
-![](/images/sci6.png)
-![](/images/sci7.png)
-
-### **Hydroponics (P4)**
-
-The Primary 4 students will get to grow and harvest some local vegetables like Bayam and Kangkong. The students will have a much deeper understanding of the life cycle of plants as they observe and monitor the growth of the vegetables.
-
-![](/images/sci8.png)
+<h3><strong>Environment Science Club</strong></h3>
+<p>Members of the Environmental Science Club actively participate in a range
+of experiments and activities centered around sustainability. They also
+champion the cultivation of positive sustainable habits, particularly on
+upcycling — an innovative practice that involves transforming old and used
+materials into new, usable products.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Combined_Science_Photos.jpg">
+</div>
+<p></p>
+<h3><strong>Science Week</strong></h3>
+<p>Science Week was organised to allow the learning of Science to take place
+outside of their usual curriculum. Students got a chance to explore different
+areas of Science using simple, everyday materials that they are normally
+exposed to, like plasticine, toothpicks, aluminium foil, batteries, and
+more! The activities are designed to show that even without prior knowledge
+of Science, students can still find joy in Science through experimental
+learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Combined_Science_Photos_2.jpg">
+</div>
+<h3><strong>Hydroponics</strong></h3>
+<p>Our Primary 3 students will have the opportunity to transplant and harvest
+local vegetables such as Milk Cabbage and Chye Sim. This hands-on experience
+allows students to witness the practical application of their classroom
+knowledge as they observe the life cycle of the plants through the growth
+of these vegetables.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Combined_Science_Photos_3.jpg">
+</div>
+<p></p>
