@@ -140,11 +140,15 @@ Space (SLS) and Koobits (P1 to P6) for self-directed learning at home)</p>
 Koobits (P1 – P6)</p>
 </li>
 <li>
-<p>Click&nbsp;<strong><a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
-MOE Mathematics Syllabus (P1 – P6)</p>
+<p>Click&nbsp;<strong><a href="/files/2021_Primary_Mathematics_Syllabus_P1_to_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+MOE Mathematics 2021 Syllabus (Applicable for 2025 P1 – P5 students)</p>
 </li>
 <li>
-<p>Click&nbsp;<strong><a href="/files/guidelines_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+<p>Click <a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+MOE Mathematics 2013 Syllabus (Applicable for 2025 P6 Students)</p>
+</li>
+<li>
+<p>Click&nbsp;<strong><a href="/files/seab_approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 SEAB approved calculator list (P5 and P6 only)</p>
 </li>
 <li>
