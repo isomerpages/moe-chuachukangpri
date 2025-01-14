@@ -73,9 +73,8 @@ solving <strong>(Primary 3 to 6)</strong>
 skills through the use of <strong>Student Learning Space (SLS)</strong> and
 other ICT tools.
 <br>
-<br>- Inject fun in learning Mathematics through practices and games in <strong>Koobits</strong> (piloting
-phrase for Primary 1 to Primary 4). Students may log in through the link:
-<a href="https://problemsums.koobits.com/" rel="noopener noreferrer" target="_blank">https://problemsums.koobits.com/</a>
+<br>- Inject fun in learning Mathematics through practices and games in <strong>Koobits</strong>.
+Students may log in through the link: <a href="https://problemsums.koobits.com/" rel="noopener noreferrer" target="_blank">https://problemsums.koobits.com/</a>
 <br>
 </p>
 </td>
@@ -102,7 +101,7 @@ numeracy skills and knowledge
 <br>Develop mathematical reasoning skills and deepen conceptual understanding
 for selected students</p>
 <p>For more information, refer to the link:
-<br> <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners </a>
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners </a>
 <br>under the section Excellence 2000 (E2K) Mathematics Programme.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +128,7 @@ solving word problems</p>
 </li>
 <li>
 <p>Encourage your child to revise constantly (e.g. use of Student Learning
-Space (SLS) and Koobits (P1 to P4) for self-directed learning at home)</p>
+Space (SLS) and Koobits (P1 to P6) for self-directed learning at home)</p>
 </li>
 </ul>
 </li>
@@ -138,7 +137,7 @@ Space (SLS) and Koobits (P1 to P4) for self-directed learning at home)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click&nbsp;<strong><a href="https://problemsums.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
-Koobits (P1 – P4)</p>
+Koobits (P1 – P6)</p>
 </li>
 <li>
 <p>Click&nbsp;<strong><a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
