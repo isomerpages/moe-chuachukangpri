@@ -10,7 +10,7 @@ variant: tiptap
 <p>Dear Parents,</p>
 <p></p>
 <p>Application for Phase 2B Parent Volunteer (for children born in 2 Jan
-2020 to 1 Jan 2021) can be found <a href="form.gov.sg/6761030402dffc055ab94cde" rel="noopener nofollow" target="_blank">here</a>.</p>
+2020 to 1 Jan 2021) can be found <a href="https://form.gov.sg/6761030402dffc055ab94cde" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>You may also scan the following QR code to access the form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
