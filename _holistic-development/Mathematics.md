@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Programmes</h3>
 <h5><strong>MOE Mathematics Framework</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_Curri_Framework.jpg">
 </div>
 <p><em>Source: Ministry of Education, Singapore</em>
 </p>
