@@ -128,7 +128,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-32j0">2023</td>
-    <td class="tg-zybv">Second Minister of Education, Dr Maliki Osman, visted the school. </td>
+    <td class="tg-zybv">Second Minister of Education, Dr Maliki Osman, visited the school. </td>
   </tr>
 	<tr>
     <td class="tg-488e">2024</td>
