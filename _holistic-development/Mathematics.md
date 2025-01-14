@@ -144,7 +144,7 @@ Koobits (P1 – P6)</p>
 MOE Mathematics 2021 Syllabus (Applicable for 2025 P1 – P5 students)</p>
 </li>
 <li>
-<p>Click <a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <strong><a href="/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 MOE Mathematics 2013 Syllabus (Applicable for 2025 P6 Students)</p>
 </li>
 <li>
