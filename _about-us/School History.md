@@ -2,6 +2,7 @@
 title: School History
 permalink: /about-us/school-history/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -122,7 +123,16 @@ description: ""
   </tr>
   <tr>
     <td class="tg-488e">2021</td>
-    <td class="tg-ykq9">The school was credited in the time capsule at the National Museum of Singapore and on NDP's website for participating in "Our Heart for Singapore’ event. The school achieved a Certificate of Recognition in 'Our Heart for Singapore NDP 2020 Together, A Stronger Singapore' and a Certificate of Appreciation in 'Our Heart for Singapore NDP 2021, Together, Our Singapore Spirit'. </td>
+    <td class="tg-ykq9">The school was credited in the time capsule at the National Museum of Singapore and on NDP's website for participating in "Our Heart for Singapore’ event. The school achieved a Certificate of Recognition in 'Our Heart for Singapore NDP 2020 Together, A Stronger Singapore' and a Certificate of Appreciation in 'Our Heart for Singapore NDP 2021, Together, Our Singapore Spirit'. <br><br>
+		President Halimah Yacob visited the school to observe a digital literacy workshop by Digital Inclusion Programme (Project D.I.P).</td>
+  </tr>
+	<tr>
+    <td class="tg-32j0">2023</td>
+    <td class="tg-zybv">Second Minister of Education, Dr Maliki Osman, visted the school. </td>
+  </tr>
+	<tr>
+    <td class="tg-488e">2024</td>
+    <td class="tg-ykq9">The school celebrated its 30th Anniversary. <br><br> Mdm Puspalathaa Ayavoo joined the school as Vice Principal.</td>
   </tr>
 </tbody>
 </table>
