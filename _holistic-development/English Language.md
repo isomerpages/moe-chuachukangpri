@@ -62,9 +62,10 @@ share their views with their teachers and peers</p>
 </ul>
 <p>Our curriculum incorporates interesting programmes to enhance our students’
 learning of the language.</p>
+<hr>
+<h3><strong><u>Reading Programmes</u></strong></h3>
 <p></p>
-<h3><strong><u>Reading Programme</u></strong></h3>
-<p><strong><u>Vision: Every student in CCKPS is a conscientious and engaged reader</u></strong>
+<p><strong><em><u>Vision: Every student in CCKPS is a conscientious and engaged reader</u></em></strong>
 </p>
 <p>At CCKPS, we hope to develop every student into a conscientious and engaged
 reader. Our Reading Programme is conducted through various platforms to
@@ -121,3 +122,106 @@ of their characters’ personalities, challenges and triumphs. Our Book Characte
 Parade foster imagination, encourage reading and spark conversations about
 the books that inspire our students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_5_jpg.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_6.jpg">
+</div>
+<p></p>
+<p><strong><u>On the Write Journey</u></strong>
+</p>
+<p>This is a creative writing programme that we have introduced during our
+English lessons which aims to inspire and develop students’ imagination,
+language skills and self-expression. Through engaging activities, students
+learn to articulate their thoughts creatively while building vocabulary,
+grammar and sentence structure. The programme fosters a love for writing
+and provide opportunities for students to share their work and learn from
+one another.
+<br>
+<br>
+</p>
+<p><strong><u>Young Journalist Programme</u></strong>
+</p>
+<p>The Young Journalist Programme (YJP) aims to empower participants with
+essential 21st-century competencies by cultivating their listening, speaking,
+reading, and writing skills. Through immersive experiences, participants
+will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>conduct interviews</p>
+</li>
+<li>
+<p>curate and edit news articles adhering to journalistic standards</p>
+</li>
+<li>
+<p>develop foundational skills in photography and videography</p>
+</li>
+<li>
+<p>edit video content for school events</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_7.png">
+</div>
+<p>By engaging in these authentic experiences, participants will cultivate
+critical thinking and effective communication skills, learn how to collaborate
+effectively in a team while developing digital literacy.</p>
+<p></p>
+<p><strong><u>Poetry Appreciation</u></strong>
+</p>
+<p>During Enrichment &amp; Innovation Week, our students participate in a
+Poetry Appreciation Module. The module aims to encourage students to explore
+and enjoy language use in the form of poetry. It also serves to develop
+students’ confidence in self-expression.</p>
+<p>Our Primary 1 students explore the art of reciting and performing poems,
+bringing verses to life with their creativity and enthusiasm. Primary 2
+students discover their creative flair by crafting their own stanza poems
+using their imagination.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_8.png">
+</div>
+<p>For our Primary 3 and Primary 4 students, they dive deeper into shape
+or concrete poems, honing both their writing and representing skills as
+they integrate text and visual elements into their final masterpiece.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_9.png">
+</div>
+<p></p>
+<p><strong><u>Enhancing Teaching &amp; Learning with EdTech</u></strong>
+</p>
+<p>As part of the ministry’s EdTech Masterplan 2030, our English teachers
+are increasingly embracing technology as a tool to transform the learning
+experience in the classroom.<sup> </sup>We are exploring innovative ways
+to integrate technology into the classrooms, from gamifying grammar lessons
+to using AI-powered tools to assess students’ learning. By continuously
+developing our technological competencies, we aim to cater to diverse learning
+styles and increase effective engagement in the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_10.png">
+</div>
+<p></p>
+<p><strong><u>Targeted Literacy Support Programmes for students</u></strong>
+</p>
+<p><strong>Learning Support Programme (LSP) (P1 and P2)</strong>
+</p>
+<p>LSP is a specialised early intervention programme that aims to provide
+learning support to pupils who need additional help to improve their English
+Language and Literacy skills. The LSP programme is conducted by trained
+teachers.</p>
+<p><strong>School- based Dyslexia Remediation Programmes (SDR) (P3 – P4)</strong>
+</p>
+<p>SDR is a two-year intervention programme that caters to the needs of pupils
+with difficulties associated with dyslexia. It is an after-school programme
+conducted in class sizes of four to six by specially trained teachers.
+This programme helps students to level up their literacy skills so that
+they can cope with the demands of the mainstream curriculum.</p>
+<p><strong>Reading Remediation Programme (RRP) (P3 – P5)</strong>
+</p>
+<p>RRP supports Primary 3 to 5 students with literacy difficulties who are
+not diagnosed with dyslexia. RRP aims to help these students read with
+fluency and understanding. Students who were previously not on LSP and
+assessed to be able to benefit from additional support at the end of Primary
+2 can also be supported in RRP.</p>
