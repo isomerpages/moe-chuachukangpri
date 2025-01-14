@@ -152,7 +152,7 @@ MOE Mathematics 2013 Syllabus (Applicable for 2025 P6 Students)</p>
 SEAB approved calculator list (P5 and P6 only)</p>
 </li>
 <li>
-<p>Click&nbsp;<strong><a href="/files/PSLE%20Math%20SEAB%20Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+<p>Click&nbsp;<strong><a href="/files/PSLE_Mathematics__0008_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 information on PSLE Mathematics SEAB</p>
 </li>
 </ul>
