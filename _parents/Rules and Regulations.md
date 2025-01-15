@@ -2,8 +2,9 @@
 title: Rules and Regulations
 permalink: /parents/rules-and-regulations/
 description: ""
+variant: markdown
 ---
-The school firmly believes that Discipline and Diligence are two key success factors  in achieving Excellence as expounded in the School Motto.  
+The school firmly believes that Discipline and Diligence are two key success factors&nbsp; in achieving Excellence as expounded in the School Motto.  
 
 All CCKPS students are expected to adhere to the School Rules and Regulations.  
 
@@ -34,12 +35,10 @@ Students are to wear the prescribed school uniform and modification to the unifo
     <td class="tg-2705" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">School Uniform</span></td>
   </tr>
   <tr>
-    <td class="tg-tlx9"><span style="background-color:initial">Boys</span><br><img src="/images/boyuni.jpeg" 
-     style="width:65%">
+    <td class="tg-tlx9"><span style="background-color:initial">Boys</span><br><img src="/images/Uniform/Uniboy2.jpg" style="width:65%">
 <br>• Shirt/ PE T-shirt, shorts should not be oversized.<br>• Shorts should not fall below the knee.<br>•
  A name tag should be worn on the shirt / PE T-shirt at all times.</td>
-    <td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/girluni.jpeg" 
-     style="width:50%">
+    <td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/Uniform/Unigirl2.jpg" style="width:70%">
 <br><span style="background-color:initial">• Skirt should be of knee length.</span><br><span style="background-color:initial">• Blouse / PE T-shirt should not be oversized.</span><br><span style="background-color:initial">• A name tag should be worn on the blouse / PE T-shirt at all times.</span></td>
   </tr>
 </tbody>
@@ -47,12 +46,12 @@ Students are to wear the prescribed school uniform and modification to the unifo
 
 ##### PE Attire (Old Uniform)
 
-On days when students have PE lessons, they are allowed to wear their PE attire throughout the day.  Girls\* can wear their PE T-shirt with their school skirt and boys with their school shorts when there are no PE lessons. 
+On days when students have PE lessons, they are allowed to wear their PE attire throughout the day.&nbsp; Girls\* can wear their PE T-shirt with their school skirt and boys with their school shorts when there are no PE lessons.&nbsp;
 
 \*Girls should tuck in their PE T-shirts.
 
 
-##### Attire on CCA days  
+##### Attire on CCA days&nbsp;&nbsp;
 
 Students can wear their PE attire and sports shoes on their CCA days. Special permission will be given by the Principal for students to come in their PE attire and sports shoes on days when students participate in competitions. Scouts are allowed to wear their Scouts uniform and shoes throughout the day on CCA days.
 
@@ -78,15 +77,15 @@ Students can wear their PE attire and sports shoes on their CCA days. Special pe
 
 ##### Others
 
-*   Outlandish / flamboyant / over-sized spectacle frames are not allowed. 
-*   Use of coloured contact lenses is not allowed. 
+*   Outlandish / flamboyant / over-sized spectacle frames are not allowed.&nbsp;
+*   Use of coloured contact lenses is not allowed.&nbsp;
 
   
 
 ##### Mobile Phones and Gadgets
 
-The school prohibits students from bringing all expensive items such as smart watches, MP3 players, hand-held computer games etc. **Mobile phones are not allowed in school.**  Every case will be examined on its own merit. Approval will be given by the Principal / Vice-Principal. The school cannot be held responsible in case of theft or loss of mobile phones / smart watches.  
+The school prohibits students from bringing all expensive items such as smart watches, MP3 players, hand-held computer games etc.&nbsp;**Mobile phones are not allowed in school.**&nbsp; Every case will be examined on its own merit. Approval will be given by the Principal / Vice-Principal. The school cannot be held responsible in case of theft or loss of mobile phones / smart watches.  
 
 ##### Weapons
 
-**All students are not allowed to have in their possession any weapon.  They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.**
+**All students are not allowed to have in their possession any weapon.&nbsp; They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.**
