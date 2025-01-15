@@ -2,22 +2,19 @@
 title: Learning for Life Programme (Student Leadership)
 permalink: /holistic-development/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 The school’s student leadership programme is anchored on Stephen Covey’s 7 Habits of Highly Effective People. With its focus on intrapersonal and interpersonal skills, the 7 habits programme believes that every student in the school is a leader and aims to mould each student to become personally and socially effective for life. The school’s student leadership programme provides its students with a structured curriculum that teach social effectiveness. Opportunities are also given to students through their Values in Action (VIA) activities for the application of inter-personal values and skills.
 
-<img src="/images/llp1.jpeg" 
-     style="width:55%">
+<img src="/images/llp1.jpeg" style="width:55%">
 		 
-<img src="/images/llp2.jpeg" 
-     style="width:55%">
+<img src="/images/llp2.jpeg" style="width:55%">
 
-The school adopts **Leading through C.A.R.E** to mould and nurture all students to become personally and socially effective for life. CCKPS Leaders are anchored on **C**haracter, demonstrate leadership through exemplary **Attitude,** internalise through **R**eflection and exemplify leadership through Values in Action (V.I.A) **E**ngagement.
+The school adopts&nbsp;**Leading through C.A.R.E**&nbsp;to mould and nurture all students to become personally and socially effective for life. CCKPS Leaders are anchored on&nbsp;**C**haracter, demonstrate leadership through exemplary&nbsp;**Attitude,**&nbsp;internalise through&nbsp;**R**eflection and exemplify leadership through Values in Action (V.I.A)&nbsp;**E**ngagement.
 
-<img src="/images/llp3.jpeg" 
-     style="width:55%">
+<img src="/images/llp3.jpeg" style="width:55%">
 		 
-<img src="/images/llp4.jpeg" 
-     style="width:55%">
+<img src="/images/llp4.jpeg" style="width:55%">
 
 The school has customised V.I.A activities for the different levels. These activities are aligned to the six domains of self, family, school, community, nation and world. The table below lists the V.I.A activities for the six levels.
 
@@ -42,23 +39,23 @@ The school has customised V.I.A activities for the different levels. These activ
   </tr>
   <tr>
     <td class="tg-lr6o">Primary 2<br>Focus: Family</td>
-    <td class="tg-lr6o">Family Card</td>
+    <td class="tg-lr6o">Caring at Home</td>
   </tr>
   <tr>
     <td class="tg-lr6o">Primary 3<br>Focus: School</td>
-    <td class="tg-lr6o">A litter-free school!</td>
+    <td class="tg-lr6o">Caring in School</td>
   </tr>
   <tr>
-    <td class="tg-lr6o">Primary 4<br>Focus: Community</td>
-    <td class="tg-lr6o">Community Projects</td>
+    <td class="tg-lr6o">Primary 4<br>Focus: School</td>
+		<td class="tg-lr6o">P1 Buddy System<br>Designing Spaces in the School </td>
   </tr>
   <tr>
-    <td class="tg-lr6o">Primary 5<br>Focus: Nation</td>
-    <td class="tg-lr6o">Pack a Hamper - Food from the Heart </td>
+    <td class="tg-lr6o">Primary 5<br>Focus: Community</td>
+    <td class="tg-lr6o">Active Ageing with Seniors </td>
   </tr>
   <tr>
-    <td class="tg-lr6o">Primary 6<br>Focus: World</td>
-    <td class="tg-lr6o">Book Donation Drive for South Africa</td>
+    <td class="tg-lr6o">Primary 6<br>Focus: Community</td>
+    <td class="tg-lr6o">Project: Excellence</td>
   </tr>
 </tbody>
 </table>
