@@ -2,112 +2,140 @@
 title: Applied Learning Programme (Robotics)
 permalink: /holistic-development/applied-learning-programme/
 description: ""
+variant: tiptap
 ---
-Our Applied Learning Programme which revolves around the theme, _A Sustainable Environment with Robotics_, aims to encourage innovation in the curriculum by getting students to explore how robotics work and how it is useful in our everyday life. Through the incorporation of elements of STEM (Science, Technology, Engineering and Mathematics) Education, students make innovative projects, exciting discoveries and make learning come alive.
-
-
-<center><strong>Framework</strong></center>
-
-
-<img src="/images/ALP.png" 
-     style="width:55%">
-
-#### **Vision**
-
-Empowering Students, Enabling Change 
-
-#### **Outcomes**
-
-Students will learn basic programming skills that will form the foundation of understanding programming language. They will focus on screenless coding and block-based coding to understand the logic that goes into building codes.
-
-Students will learn to be creative in solving problems. Through different problems and scenarios that our students will go through, they will learn to be creative in solving unknown problems that can be translated to different aspects of their lives.
-
-#### **Approach**
-
-Our ALP is structured in three tiers as follows:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h3><strong><u>Applied Learning Programme (ALP) @ CCKPS - Sustainabots</u></strong></h3>
+<p></p>
+<p><strong><u>Approach:</u></strong>
+<br>The ALP at CCKPS focuses on teaching students computational thinking through
+robotics to develop essential problem-solving skills, foster a deeper understanding
+of how technology can be applied to real-world scenarios, and cultivate
+future-ready competencies. Robotics serves as a hands-on, engaging way
+for students to explore coding, automation, and technology through iterative
+problem-solving and design thinking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download (1).png">
+</div>
+<p></p>
+<p>The Ask → Plan → Create → Improve framework is used to guide students
+in critical thinking, creativity, and innovation. This structured approach
+ensures that students learn to identify problems, plan solutions, prototype
+ideas, and refine their designs through feedback and iteration.</p>
+<p></p>
+<p>Aligned with the theme of environmental sustainability, students will
+apply robotics to tackle contemporary challenges. This integration encourages
+innovation and ethical responsibility, empowering students to develop technological
+solutions that contribute to a more sustainable future.</p>
+<p></p>
+<p><strong><u>Framework:</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
+</div>
+<p></p>
+<p>The ALP is structured in <u>three tiers</u>, customized and diversified
+based on student interest, ability, and progression through the program.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen">Tier</td>
-    <td class="tg-xwen">Student Population</td>
-  </tr>
-  <tr>
-    <td class="tg-22b2">1<br></td>
-    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Experience</span><br>All Primary 1 to Primary 6 students<br>(Refer to Table 1)</td>
-  </tr>
-  <tr>
-    <td class="tg-22b2">2<br></td>
-    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Extension</span><br>Primary 1 and Primary 2 students in the enrichment programme<br>Primary 3 to 6 Robotics Club students<br>Primary 3 to 6 non-Robotics Club students who show aptitude</td>
-  </tr>
-  <tr>
-    <td class="tg-22b2">3<br></td>
-    <td class="tg-lr6o"><span style="font-weight:bold;text-decoration:underline">Expertise</span><br>Primary 3 to 6 Robotics Club students who show aptitude</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Population</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tier 1 (Experience)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Primary 1 to Primary 6 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides exposure to robotics and computational thinking concepts through
+school-wide programs and introductory activities. Focus is on engagement,
+hands-on exploration, and foundational skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tier 2 (Extension)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 to Primary 6 students in Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with demonstrated interest and aptitude engage in more complex
+projects and challenges, building upon foundational knowledge from Tier
+1. Emphasis is on skill development, collaboration, and problem-solving.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tier 3 (Expertise)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 to Primary 6 students in Robotics Club who show aptitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides advanced training and mentorship for students with high aptitude.
+These students work on specialized projects, participate in competitions,
+and develop leadership and mentoring skills.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<center><strong><u>Table 1</u></strong></center>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-xwen">Level</td>
-    <td class="tg-xwen">Module</td>
-    <td class="tg-xwen">Objective</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 1</td>
-    <td class="tg-lr6o">Basic logic of coding</td>
-    <td class="tg-lr6o" rowspan="2">To learn the fundamental concepts of coding in simple, logical steps</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 2</td>
-    <td class="tg-lr6o">Advance logic of coding</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 3</td>
-    <td class="tg-lr6o">Fundamentals of robot construction</td>
-    <td class="tg-lr6o" rowspan="2">To apply basics of creating and programming autonomous robots</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 4</td>
-    <td class="tg-lr6o">Fundamentals of autonomous robots</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 5</td>
-    <td class="tg-lr6o">Robots in real-world context</td>
-    <td class="tg-lr6o" rowspan="2">To build a robot to solve a real-world problem</td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">Primary 6</td>
-    <td class="tg-lr6o">Code For Fun</td>
-  </tr>
-</tbody>
-</table>
-
-#### **Process**
-
-In every ALP lesson, we use the following process to provide structures for learning in order to scaffold our students’ thinking.
-
-<img src="/images/download%20(1).png" 
-     style="width:65%">
+<p></p>
+<p><strong><u>Student Outcomes and Competencies</u></strong>
+</p>
+<p>The ALP aims to equip students with future-ready skills aligned with the
+demands of the 21st-century workforce, while also fostering lifelong learning
+and social-emotional competencies.</p>
+<p><u>Fostering Future-Ready Skills</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Inventive Thinking</strong> – Encouraging creativity, innovation,
+and the ability to develop novel solutions to challenges.</p>
+</li>
+<li>
+<p><strong>Communication &amp; Collaboration</strong> – Developing teamwork,
+empathy, and the ability to articulate ideas effectively.</p>
+</li>
+<li>
+<p><strong>Digital Literacy</strong> – Building proficiency in computational
+thinking, coding, and the use of digital tools for problem-solving.</p>
+</li>
+</ul>
+<p><u>Enhancing Engagement and Motivation</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Creating opportunities for students to apply theoretical concepts in engaging,
+real-world contexts that inspire curiosity and sustain motivation.</p>
+</li>
+</ul>
+<p><u>Developing Lifelong Learners</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Instilling a growth mindset, where students become resilient problem-solvers
+who continuously seek to expand their knowledge and skills.</p>
+</li>
+</ul>
+<p></p>
