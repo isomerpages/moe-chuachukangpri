@@ -2,6 +2,7 @@
 title: School Operating Hours
 permalink: /contact-us/school-operating-hours/
 description: ""
+variant: markdown
 ---
 ##### **For All Students**
 
@@ -26,33 +27,28 @@ description: ""
   </tr>
   <tr>
     <td class="tg-22b2">Primary 1</td>
-    <td class="tg-22b2" rowspan="6">7.25 a.m.</td>
-    <td class="tg-22b2">1.20 p.m.</td>
+    <td class="tg-22b2" rowspan="6">7:30 a.m.</td>
+		<td class="tg-22b2" rowspan="6">1:30 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 2</td>
-    <td class="tg-22b2">1.20 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 3</td>
-    <td class="tg-22b2">1.25 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 4</td>
-    <td class="tg-22b2">1.25 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 5</td>
-    <td class="tg-22b2">1.30 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 6</td>
-    <td class="tg-22b2">1.30 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
