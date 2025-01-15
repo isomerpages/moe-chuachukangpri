@@ -135,7 +135,7 @@ affected, even when one's body is experiencing changes due to puberty.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Weeks 9-10</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ own responses when they encounter pornography by applying the strategy <strong>'
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Weeks 9-10</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Weeks 9-10</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -224,7 +224,7 @@ Instead, they should focus on building strong and healthy friendships with
 their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
