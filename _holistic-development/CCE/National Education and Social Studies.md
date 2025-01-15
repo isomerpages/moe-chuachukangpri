@@ -315,19 +315,20 @@ to impart to them the significance of National Day.</p>
 </table>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Learning Journeys (2025)</p>
+<p>Learning Journeys (For 2025)</p>
 </li>
 </ol>
 <p><strong>Primary 1</strong>&nbsp;– Singapore Zoological Gardens Leaning
 Journey&nbsp;
 <br><strong>Primary 2</strong>&nbsp;– Jacob Ballas Children's Garden&nbsp;
 <br><strong>Primary 3</strong>&nbsp; -&nbsp;Geylang Serai Learning Journey
+/ Sustainable Gallery
 <br><strong>Primary 4</strong>&nbsp;– Ayer Kreta Heritage Gallery Learning
-Journey
-<br><strong>Primary 5</strong>&nbsp;– Indian Heritage Gallery and National
+Journey / Art Museum
+<br><strong>Primary 5</strong>&nbsp;– Indian Heritage Gallery / P5 National
 Education Show
 <br><strong>Primary 6</strong>&nbsp;– Asian Civilisation Museum and Sungei
-Buloh Wetland</p>
+Buloh Wetland Reserve</p>
 <h3><strong>Reflection</strong></h3>
 <p>Students will internalize what they have learnt through reflections done
 from NE core events and SS learning journeys. Primary 6 students will participate
