@@ -2,6 +2,7 @@
 title: School Operating Hours
 permalink: /contact-us/school-operating-hours/
 description: ""
+variant: markdown
 ---
 ##### **For All Students**
 
@@ -26,33 +27,28 @@ description: ""
   </tr>
   <tr>
     <td class="tg-22b2">Primary 1</td>
-    <td class="tg-22b2" rowspan="6">7.25 a.m.</td>
-    <td class="tg-22b2">1.20 p.m.</td>
+    <td class="tg-22b2" rowspan="6">7:30 a.m.</td>
+		<td class="tg-22b2" rowspan="6">1:30 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 2</td>
-    <td class="tg-22b2">1.20 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 3</td>
-    <td class="tg-22b2">1.25 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 4</td>
-    <td class="tg-22b2">1.25 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 5</td>
-    <td class="tg-22b2">1.30 p.m.</td>
     <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 6</td>
-    <td class="tg-22b2">1.30 p.m.</td>
     <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
@@ -74,8 +70,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
@@ -102,9 +98,9 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:top}
 .tg .tg-22b2{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>

@@ -2,6 +2,7 @@
 title: Star Awards
 permalink: /parents/star-awards/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -54,7 +55,7 @@ description: ""
     <td class="tg-y9mj">If you would like, you can send in an appreciation message for a particular staff through our school website. We are certain your message will go a long way in encouraging our staff. Thank you.</td>
   </tr>
   <tr>
-    <td class="tg-qzx0"><span style="background-color:initial">*Alternatively, you can email your appreciation message/messages to Mdm Tan Lay Jun at</span> <a href="mailto:tan_lay_jun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#134693">tan_lay_jun@schools.gov.sg</span></a> <span style="background-color:initial">. Thank you for taking the time to show appreciation for our staff!</span></td>
+    <td class="tg-qzx0"><span style="background-color:initial">*Alternatively, you can email your appreciation message/messages to Mdm Xi Jun at</span> <a href="mailto:xi_jun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#134693">xi_jun@schools.gov.sg</span></a> <span style="background-color:initial"> Thank you for taking the time to show appreciation for our staff!</span></td>
   </tr>
 </tbody>
 </table>
