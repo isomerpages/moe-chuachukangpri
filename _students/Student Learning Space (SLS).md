@@ -32,11 +32,7 @@ is first five characters of your official name and last four numerical
 digits and the last alphabet of your BC.&nbsp;</p>
 <p>For eg. Student's name is JOHN TAN and BC number is T1002345A, then your
 SLS username will be JOHNT2345A</p>
-<p>For first time login, use the following default password: (Class + cckps2019)</p>
-<p>E.g, if your child is from 4IN2, the default password is 42cckps2019 or
-42Cckps2019.</p>
-<p>Do ask your child to see if they changed their password. They have been
-instructed to write it down into their Pupil’s Companion.</p>
+<p></p>
 <h3><strong>FREQUENTLY ASKED QUESTIONS</strong></h3>
 <p><strong>Q1 : I have forgotten my password. What should I do?</strong>
 </p>
