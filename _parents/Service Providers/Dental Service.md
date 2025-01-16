@@ -8,9 +8,7 @@ variant: markdown
 Operating hours:
 
 Mon, Wed, Fri – 0800 to 1700hrs<br>
-Tue &amp; Thu – 0800 to 1730hrs<br>
+Tue &amp; Thu – 0800 to 1730hrs<br><br>
 Lunch break – 1300 to 1400hrs
  
-Lunch Time: 1.00pm to 2.00pm 
-
 Tel: 9822 8628
