@@ -338,14 +338,13 @@ Quiz at the end of the year.</p>
 <p>Students engage in V.I.A activities that are appropriate to their level.
 We want our students to be active citizens who have a collective resolve
 and a sense of shared mission towards building a Singapore for all.&nbsp;</p>
-<p><strong>Primary 1</strong>&nbsp;– Sharing examples of being proactive
-in their daily life (self)
-<br><strong>Primary 2</strong>&nbsp;– Helping with household chores (home)
-<br><strong>Primary 3</strong>&nbsp;– Keeping school compound clean (school)
-<br><strong>Primary 4</strong>&nbsp;– Dengue Mobster (community)
-<br><strong>Primary 5</strong>&nbsp;– Food from the Heart (nation)
-<br><strong>Primary 6</strong>&nbsp;- Book Donation Drive for Mobile Library
-in Africa (world)</p>
+<p><strong>Primary 1</strong>&nbsp;– Project Self! (self)
+<br><strong>Primary 2</strong>&nbsp;– Caring at Home (home)
+<br><strong>Primary 3</strong>&nbsp;– Caring in School (school)
+<br><strong>Primary 4</strong>&nbsp;– P1 Buddy System &amp; Designing Space
+in the School (school)
+<br><strong>Primary 5</strong>&nbsp;– Active Ageing with Seniors (community)
+<br><strong>Primary 6</strong> – Project: Excellence (community)</p>
 <h5><strong>NE Dispositions in CCKPS</strong></h5>
 <p><strong>Sense of Belonging</strong>
 <br>To develop a deeper understanding of who we are and what values are important
