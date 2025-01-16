@@ -1,5 +1,5 @@
 ---
-title: Applied Learning Programme (Robotics)
+title: Applied Learning Programme (Sustainabots)
 permalink: /holistic-development/applied-learning-programme/
 description: ""
 variant: tiptap
