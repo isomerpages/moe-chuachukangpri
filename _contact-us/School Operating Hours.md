@@ -45,11 +45,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-22b2">Primary 5</td>
-    <td class="tg-22b2">Gate 1</td>
+    <td class="tg-22b2">Gate 4</td>
   </tr>
   <tr>
     <td class="tg-22b2">Primary 6</td>
-    <td class="tg-22b2">Gate 4</td>
+    <td class="tg-22b2">Gate 1</td>
   </tr>
   <tr>
     <td class="tg-22b2"><span style="color:#222"> Siblings</span></td>
