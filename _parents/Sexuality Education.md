@@ -257,7 +257,7 @@ education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents&nbsp;who wish to opt their
 children out of the&nbsp;Sexuality Education lessons&nbsp;need to&nbsp;complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable <a href="/files/Annex_A_SEP_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;<strong>The completed opt-out form is to be submitted by 31st January 2025.</strong>
+of the year and is also downloadable <a href="/files/CCKPS_SEd_Opt_out_form__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;<strong>The completed opt-out form is to be submitted by 31st January 2025.</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;67661574
 or email us at <a href="mailto:cckps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cckps@moe.edu.sg</a>&nbsp;for
