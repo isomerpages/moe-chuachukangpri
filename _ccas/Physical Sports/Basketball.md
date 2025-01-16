@@ -3,6 +3,7 @@ title: Basketball
 permalink: /ccas/Physical-Sports/basketball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 #### E-Showcase
 
@@ -22,17 +23,22 @@ third_nav_title: Physical Sports
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "https://vimeo.com/588123217/864ec9bee5" target = "_self"> 
+    <td class="tg-nrix"><a href="https://vimeo.com/588123217/864ec9bee5" target="_self"> 
 			<img src="/images/bbb.png"></a></td>
-    <td class="tg-nrix"><a href = "https://vimeo.com/588125180/3293adba41" target = "_self"> 
+    <td class="tg-nrix"><a href="https://vimeo.com/588125180/3293adba41" target="_self"> 
 			<img src="/images/bbg.png"></a></td>
   </tr>
 </tbody>
 </table>
 
 ![](/images/bb1.png)
-
+<br>
 ![](/images/bb2.png)
+<br>
+<img src="/images/CCAs/BB1.jpg" style="width:70%">
+<br>
+<img src="/images/CCAs/BB2.jpg" style="width:70%">
+<br>
 
 #### Achievements
 
@@ -48,8 +54,104 @@ third_nav_title: Physical Sports
 .tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-<tbody>
+	<tbody>
   <tr>
+    <td class="tg-xwen"><span style="color:#222">Year</span></td>
+    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">2024</td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Girls League 1 3rd Runner Up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Girls Tier 1 Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Boys Tier 1 2nd Runner Up </span></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<table class="tg">
+	<tbody>
+  <tr>
+    <td class="tg-xwen"><span style="color:#222">Year</span></td>
+    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">2023</td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Boys West Zone 3rd Runner Up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Boys Tier 1 Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Girls National Champions </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Girls Tier 1 Champions </span></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<table class="tg">
+	<tbody>
+  <tr>
+    <td class="tg-xwen"><span style="color:#222">Year</span></td>
+    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">2022</td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Boys 3-v-3 Tier 1 Champions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"></td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Boys National Champions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Girls Zone 4th Junior Girls Regional Tier 1 Champions </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Girls Regional Tier 1 Champions </span></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<table class="tg">
+	<tbody>
+  <tr>
+    <td class="tg-xwen"><span style="color:#222">Year</span></td>
+    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">2021</td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Boys 3-v-3 Tier 1 Champions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"></td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Boys National Champions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Senior Girls Zone 4th Junior Girls Regional Tier 1 Champions </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Junior Girls Regional Tier 1 Champions </span></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<table class="tg">
+<tbody>
+ <tr>
     <td class="tg-xwen"><span style="color:#222">Year</span></td>
     <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
   </tr>
@@ -74,16 +176,6 @@ third_nav_title: Physical Sports
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
 <table class="tg">
 <tbody>
   <tr>
@@ -111,15 +203,6 @@ third_nav_title: Physical Sports
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
   <tr>
