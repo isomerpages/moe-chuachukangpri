@@ -62,9 +62,8 @@ and abilities.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Art
-<br>Expressing themselves through lines, shapes and colours inspired by Wassily
-Kandinsky.</p>
+<p>Clay Exploration
+<br>Creating 3-dimensional forms and textures through playing with clay.</p>
 </td>
 </tr>
 <tr>
