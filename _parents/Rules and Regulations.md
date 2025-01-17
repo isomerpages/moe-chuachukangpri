@@ -36,11 +36,10 @@ Students are to wear the prescribed school uniform and modification to the unifo
   </tr>
   <tr>
     <td class="tg-tlx9"><span style="background-color:initial">Boys</span><br><img src="/images/Uniform/Uniboy2.jpg" style="width:65%">
-<br>• Shirt/ PE T-shirt, shorts should not be oversized.<br>• Shorts should not fall below the knee.<br>•
- A name tag should be worn on the shirt / PE T-shirt at all times.</td>
-    <td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/Uniform/Unigirl2.jpg" style="width:70%">
-<br><span style="background-color:initial">• Skirt should be of knee length.</span><br><span style="background-color:initial">• Blouse / PE T-shirt should not be oversized.</span><br><span style="background-color:initial">• A name tag should be worn on the blouse / PE T-shirt at all times.</span></td>
-  </tr>
+<br>• Polo T-shirt to be worn with shorts on non-PE days.<br>• Shorts should not fall below the knee.<br>• Polo T-shirt, shorts and PE shorts should not be oversized.<br>• Polo T-shirt should be untucked when worn with shorts or PE shorts.</td>
+<td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/Uniform/Unigirl2.jpg" style="width:73%">
+<br><span style="background-color:initial">• Polo T-shirt to be worn with culottes on non-PE days.</span><br><span style="background-color:initial">• Culottes should be of knee length.</span><br><span style="background-color:initial">• Polo T-shirt, culottes and PE shorts should not be oversized.<br>• Polo T-shirt should be untucked when worn with shorts or PE shorts.</span></td>
+</tr>
 </tbody>
 </table>
 
