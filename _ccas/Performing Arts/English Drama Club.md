@@ -3,16 +3,17 @@ title: English Drama Club
 permalink: /ccas/Performing-Arts/english-drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### E Showcase
 
-<a href = "https://vimeo.com/588129115/e6bc681381" target = "_self"> 
+<a href="https://vimeo.com/588129115/e6bc681381" target="_self"> 
           <img src="/images/english-drama-club-link.png"></a>
 
 
 ![](/images/edc1.png)
 
-The English Drama Club aims to provide our students an opportunity to participate in supervised creative dramatic activities which will lead to a final production. The club works on developing creative thinking skills, teamwork and improving communication and interpersonal skills.   Most importantly, students will see themselves as capable of setting and achieving goals. By working individually, in pairs, or small groups, students will develop community-building skills including cooperation and patience.  They will also gain public speaking skills, confidence and the capacity to trust their own creative instincts.
+The English Drama Club aims to provide our students an opportunity to participate in supervised creative dramatic activities which will lead to a final production. The club works on developing creative thinking skills, teamwork and improving communication and interpersonal skills. &nbsp; Most importantly, students will see themselves as capable of setting and achieving goals. By working individually, in pairs, or small groups, students will develop community-building skills including cooperation and patience.&nbsp; They will also gain public speaking skills, confidence and the capacity to trust their own creative instincts.
 
 #### Achievements 
 
