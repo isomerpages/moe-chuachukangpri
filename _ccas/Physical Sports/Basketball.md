@@ -59,10 +59,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,10 +104,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,10 +157,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -188,10 +194,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -215,10 +223,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,10 +276,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -317,10 +329,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 </td>
 </tr>
 <tr>
