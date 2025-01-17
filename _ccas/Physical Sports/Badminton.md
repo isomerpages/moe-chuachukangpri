@@ -73,7 +73,7 @@ themselves throughout the tournament.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Selected Students)</p>
+<p>Tuesdays (Selected Students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm - 5.30pm</p>
@@ -81,7 +81,7 @@ themselves throughout the tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15pm - 4.15pm</p>
@@ -89,7 +89,7 @@ themselves throughout the tournament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (Selected Students)</p>
+<p>Fridays (Selected Students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 4:30pm</p>
