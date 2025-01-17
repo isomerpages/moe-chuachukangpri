@@ -377,7 +377,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Tier 3)</p>
+<p>Tuesdays (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:30pm - 5:30pm</p>
@@ -385,7 +385,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Tier 3)</p>
+<p>Tuesdays (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:30pm - 5:30pm</p>
@@ -393,7 +393,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday (Tier 1)</p>
+<p>Wednesdays (Tier 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm - 5:00pm</p>
@@ -401,7 +401,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday (Tier 2)</p>
+<p>Thursdays (Tier 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:15pm - 4:15pm</p>
@@ -421,7 +421,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday (Tier 2 &amp; 3)</p>
+<p>Mondays (Tier 2 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:30pm - 5:30pm</p>
@@ -429,7 +429,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday (Tier 1)</p>
+<p>Thursdays (Tier 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:15pm - 4:15pm</p>
@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (Tier 3)</p>
+<p>Fridays (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:00pm</p>
