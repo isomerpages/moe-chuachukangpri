@@ -63,7 +63,7 @@ behaviour.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday (Tier 3)</p>
+<p>Mondays (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm – 5.30pm</p>
@@ -71,7 +71,7 @@ behaviour.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday (All)</p>
+<p>Thursdays (All)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15pm – 4.15pm</p>
@@ -79,7 +79,7 @@ behaviour.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (Tier 3)</p>
+<p>Fridays (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 4:30pm</p>
