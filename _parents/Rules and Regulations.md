@@ -43,11 +43,13 @@ Students are to wear the prescribed school uniform and modification to the unifo
 </tbody>
 </table>
 
-##### PE Attire (Old Uniform)
+##### Days with PE / PAL Lessons
 
-On days when students have PE lessons, they are allowed to wear their PE attire throughout the day.&nbsp; Girls\* can wear their PE T-shirt with their school skirt and boys with their school shorts when there are no PE lessons.&nbsp;
+PE attire i.e Polo T-shirt and PE shorts can be work throughout the day.
 
-\*Girls should tuck in their PE T-shirts.
+##### Name Tags
+
+A name tag should be worn on the Polo T-shirt at all times.
 
 
 ##### Attire on CCA days&nbsp;&nbsp;
