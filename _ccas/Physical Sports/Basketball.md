@@ -352,6 +352,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Schedule</h4>
+<p></p>
+<p><strong><u>Basketball Girls</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -360,18 +363,70 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Tuesday (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. – 4.15 p.m.</p>
+<p>3:30pm - 5:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday (Tier 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 p.m. - 5.15 p.m.</p>
+<p>3:30pm - 5:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm - 5:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday (Tier 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:15pm - 4:15pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong><u>Basketball Boys</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday (Tier 2 &amp; 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:30pm - 5:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday (Tier 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:15pm - 4:15pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday (Tier 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 5:00pm</p>
 </td>
 </tr>
 </tbody>
