@@ -3,13 +3,70 @@ title: Allied Educators & School Counsellors
 permalink: /about-us/Our-Staff/allied-educators-and-school-counsellors/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-| Designation | Name |
-| -------- | -------- |
-| Senior SEN Officer (LBS) | Ms Sim Wee Li |
-| SEN Officer (LBS) | Mdm Florence Ong Hwee Ming |
-| SEN Officer (LBS) | Mdm Eunice Lim Chin Bee |
-| Senior School Counsellor | Mdm Suriana Bte Othman |
-| School Counsellor | Mr Lionel Ong Yue Jin |
-| Student Welfare Officer | Mdm Salina Binte Samsu |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior SEN Officer (LBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Wee Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer (LBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Florence Ong Hwee Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer (LBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eunice Lim Chin Bee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriana Bte Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lionel Ong Yue Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Salina Binte Samsu</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
