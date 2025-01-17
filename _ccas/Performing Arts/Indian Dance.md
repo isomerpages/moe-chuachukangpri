@@ -68,7 +68,7 @@ Arts Presentation as well as performing during community events.</p>
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15pm to 4.15pm</p>
+<p>2:15pm - 4:15pm</p>
 </td>
 </tr>
 </tbody>
