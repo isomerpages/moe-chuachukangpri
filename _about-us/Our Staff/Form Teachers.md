@@ -274,7 +274,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,14 +283,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility 1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Wendy Tan Wen Wang</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,14 +296,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ker Bee Ling</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,14 +309,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Vivien Gwee Shay Nee</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -331,14 +322,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility 4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Siew Peng</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,14 +335,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility 5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Siti Aisyah Bte Mamin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,9 +347,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3 Responsibility 6</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Siew Peng</p>
 </td>
@@ -390,7 +372,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,14 +381,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity 1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nur Kamilah Binte Sumardi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,14 +394,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nordiana Yanti Binte A Aziz</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -431,14 +407,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chen Shiting (Mrs Goh)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -447,14 +420,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity 4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Siti Zubaidah Begum Bte Abd Aziz</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,14 +433,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity 5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Raihanaa Firdaus d/o Mohamed Elyas Majeed</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -478,9 +445,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>4 Integrity 6</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Eng Kian</p>
 </td>
@@ -506,7 +470,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -515,14 +479,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony 1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Raheelah Binte Abdul Manaf</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -531,14 +492,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Mundzirah Binte Djuanda</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -547,14 +505,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Timothy Chen Zeliang</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -563,14 +518,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony 4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Wong Liyun</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -579,14 +531,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony 5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Salmah Bte Hamid</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Harmony 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,9 +543,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5 Harmony 6</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhan Ying</p>
 </td>
@@ -621,7 +567,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -630,14 +576,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Logesh s/o Jayaraman</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -646,14 +589,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Senthil s/o Veerapandian</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -662,14 +602,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm R Krishnaveeni Ramiah</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -678,14 +615,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang Shuyu</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -694,14 +628,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Philip Chua Kwan Chye</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience 6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -709,9 +640,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>6 Resilience 6</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Tan Jen Ming</p>
 </td>
