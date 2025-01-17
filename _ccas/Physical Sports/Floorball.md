@@ -3,65 +3,102 @@ title: Floorball
 permalink: /ccas/Physical-Sports/floorball/
 description: ""
 third_nav_title: Physical Sports
+variant: tiptap
 ---
-#### E-Showcase
-
-<a href = "https://vimeo.com/588130840/19d35fe141" target = "_self"> 
-          <img src="/images/flb1.png"></a>
-					
-![](/images/flb2.png)
-
-
-Floorball CCA allows students to learn the skills and techniques required in a floorball game.  We participate in the National School Games – Floorball, where students learn to build teamwork, resilience and skills to showcase themselves throughout the tournament.
-
-#### Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h4>E-Showcase</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/flb1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/fb1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/fb2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/fb3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/fb4.jpg">
+</div>
+<p></p>
+<p>Floorball CCA allows students to learn the skills and techniques required
+in a floorball game. &nbsp;We participate in the National School Games
+– Floorball, where students learn to build teamwork, resilience and skills
+to showcase themselves throughout the tournament.</p>
+<h4>Achievements</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Year</span></td>
-    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">2019</td>
-    <td class="tg-lr6o"><span style="color:#222">National School Games (Juniors Boys) – Tier 3 Champions </span></td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">2016</td>
-    <td class="tg-lr6o"><span style="color:#222">National School Games (Senior Girls) – National Champions</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Junior Boys) - Tier 2 Champions</p>
+<p>National School Games (Junior Girls) - Tier 2 Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Juniors Boys) – Tier 3 Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Senior Girls) – National Champions</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-#### Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h4>Schedule</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mondays</span></td>
-    <td class="tg-lr6o"><span style="color:#222">3.30pm – 5.30pm </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Fridays</span></td>
-    <td class="tg-lr6o"><span style="color:#222">2.15pm – 4.15pm</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm – 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm – 4.15pm</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
