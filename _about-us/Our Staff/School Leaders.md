@@ -3,47 +3,53 @@ title: School Leaders
 permalink: /about-us/Our-Staff/school-leaders/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 129px;">
-<p><strong>Designation</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
 </td>
-<td style="width: 316px;">
-<p><strong>Name</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td style="width: 129px;">
+<td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
-<td style="width: 316px;">
+<td rowspan="1" colspan="1">
 <p>Mrs Sheree Chong</p>
 </td>
 </tr>
 <tr>
-<td style="width: 129px;">
+<td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
-<td style="width: 316px;">
+<td rowspan="1" colspan="1">
 <p>Mrs Low Boon Hwee</p>
 </td>
 </tr>
 <tr>
-<td style="width: 129px;">
+<td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
-<td style="width: 316px;">
+<td rowspan="1" colspan="1">
 <p>Ms Lim Chwee Eng</p>
 </td>
 </tr>
 <tr>
-<td style="width: 129px;">
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)&nbsp;</p>
 </td>
-<td style="width: 316px;">
+<td rowspan="1" colspan="1">
 <p>Ms Pusphaalatha Ayavoo</p>
 </td>
 </tr>
