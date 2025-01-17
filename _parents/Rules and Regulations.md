@@ -52,7 +52,7 @@ PE attire i.e Polo T-shirt and PE shorts can be work throughout the day.
 A name tag should be worn on the Polo T-shirt at all times.
 
 
-##### Attire on CCA days&nbsp;&nbsp;
+##### Attire on CCA days
 
 Students can wear their PE attire and sports shoes on their CCA days. Special permission will be given by the Principal for students to come in their PE attire and sports shoes on days when students participate in competitions. Scouts are allowed to wear their Scouts uniform and shoes throughout the day on CCA days.
 
