@@ -3,62 +3,68 @@ title: Environmental Science Club
 permalink: /ccas/Clubs-and-Uniformed-Groups/environmental-science-club/
 description: ""
 third_nav_title: Clubs and Uniformed Groups
+variant: tiptap
 ---
-#### E-Showcase
-
-<a href = "https://vimeo.com/588129872/edbda67278" target = "_self"> 
-          <img src="/images/esc1.png"></a>
-
-![](/images/esc2.png)
-
-The Environmental Science Club aims to spread an awareness and cultivate a pro-environment mindset amongst our students. Students are engaged in gardening, dengue prevention, hydroponics, reducing and recycling activities. Students learn to work in teams as they learn more about nature and its wonder.
-
-#### Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h4>E-Showcase</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/esc1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/esc2.png">
+</div>
+<p>The Environmental Science Club aims to spread an awareness and cultivate
+a pro-environment mindset amongst our students. Students are engaged in
+gardening, dengue prevention, hydroponics, reducing and recycling activities.
+Students learn to work in teams as they learn more about nature and its
+wonder.</p>
+<h4>Achievements</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Year</span></td>
-    <td class="tg-xwen"><span style="color:#222">Achievements</span></td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">2019</td>
-    <td class="tg-lr6o"><span style="color:#222">National Environment Quiz ( 4th place – Team)   </span></td>
-  </tr>
-  <tr>
-    <td class="tg-u05r">2018</td>
-    <td class="tg-lr6o"><span style="color:#222">Green Schools at South West ( Gold award)</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievements</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Environment Quiz ( 4th place – Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Schools at South West ( Gold award)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-#### Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h4>Schedule</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Thursdays</span></td>
-    <td class="tg-lr6o"><span style="color:#222">2.15pm to 4.15pm</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm to 4.15pm</p>
+</td>
+</tr>
 </tbody>
 </table>
-
+<p></p>
