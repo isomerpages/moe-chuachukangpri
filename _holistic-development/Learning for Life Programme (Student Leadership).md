@@ -5,6 +5,11 @@ description: ""
 variant: markdown
 ---
 The school’s student leadership programme is anchored on Stephen Covey’s 7 Habits of Highly Effective People. With its focus on intrapersonal and interpersonal skills, the 7 habits programme believes that every student in the school is a leader and aims to mould each student to become personally and socially effective for life. The school’s student leadership programme provides its students with a structured curriculum that teach social effectiveness. Opportunities are also given to students through their Values in Action (VIA) activities for the application of inter-personal values and skills.
+<br>
+<br>
+The table below shows the Leadership Framework and lists the three tiers of Student Leadership across the six levels. 
+
+
 
 <img src="/images/2025LLP/NewLLP1.jpg" style="width:100%">
 		 
