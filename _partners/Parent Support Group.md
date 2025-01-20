@@ -40,10 +40,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shu Wenjie</p>
+<p>Mdm Chelsea Lee Poh Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson
+<p>1st Secretary
 <br>
 </p>
 </td>
@@ -53,16 +53,6 @@ variant: tiptap
 <p>Mdm Chelsea Lee Poh Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secretary
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Arunkumar Poornima Devasena</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>P1 Level Coordinator
 <br>
 </p>
@@ -70,41 +60,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hanisah</p>
+<p>Mdm Wendy Tan
+<br>Mr Kelvin Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Level Coordinator
+<p>P2 Level Coordinators
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Felicia Woon Shu Chao
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2 Level Coordinator
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tay Pek Hoon
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2 Level Coordinator
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Meiji
+<p>Mdm Tharani
 <br>
 </p>
 </td>
@@ -116,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To be confirmed
+<p>Mdm Siti Nurhawa Abu Bakar
 <br>
 </p>
 </td>
@@ -128,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chelsea Lee Poh Wan</p>
+<p>Mdm Farhana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Level Coordinator
@@ -138,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Carine Lay Wai Pui</p>
+<p>Mdm Sathyarasi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Level Coordinator
@@ -153,17 +120,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Projects Manager / Events Coordinator
+<p>Events Coordinator
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Connie Wong Yoke Mui</p>
+<p>Mdm Hamidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Events Coordinator
+<p>Events Coordinator / 2nd Secretary
 <br>
 </p>
 </td>
