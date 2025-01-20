@@ -16,8 +16,6 @@ Opportunities are also given to students through their Values in Action
 <br>The table below shows the Leadership Framework and lists the three tiers
 of Student Leadership across the six levels.</p>
 <p></p>
-<p><strong><u>Framework</u></strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCKPS_Leadership_Framework_2025.jpg">
 </div>
