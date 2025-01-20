@@ -36,22 +36,23 @@ Students are to wear the prescribed school uniform and modification to the unifo
   </tr>
   <tr>
     <td class="tg-tlx9"><span style="background-color:initial">Boys</span><br><img src="/images/Uniform/Uniboy2.jpg" style="width:65%">
-<br>• Shirt/ PE T-shirt, shorts should not be oversized.<br>• Shorts should not fall below the knee.<br>•
- A name tag should be worn on the shirt / PE T-shirt at all times.</td>
-    <td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/Uniform/Unigirl2.jpg" style="width:70%">
-<br><span style="background-color:initial">• Skirt should be of knee length.</span><br><span style="background-color:initial">• Blouse / PE T-shirt should not be oversized.</span><br><span style="background-color:initial">• A name tag should be worn on the blouse / PE T-shirt at all times.</span></td>
-  </tr>
+<br>• Polo T-shirt to be worn with shorts on non-PE days.<br>• Shorts should not fall below the knee.<br>• Polo T-shirt, shorts and PE shorts should not be oversized.<br>• Polo T-shirt should be untucked when worn with shorts or PE shorts.</td>
+<td class="tg-tlx9"><span style="background-color:initial">Girls</span><br><img src="/images/Uniform/Unigirl2.jpg" style="width:73%">
+<br><span style="background-color:initial">• Polo T-shirt to be worn with culottes on non-PE days.</span><br><span style="background-color:initial">• Culottes should be of knee length.</span><br><span style="background-color:initial">• Polo T-shirt, culottes and PE shorts should not be oversized.<br>• Polo T-shirt should be untucked when worn with shorts or PE shorts.</span></td>
+</tr>
 </tbody>
 </table>
 
-##### PE Attire (Old Uniform)
+##### Days with PE / PAL Lessons
 
-On days when students have PE lessons, they are allowed to wear their PE attire throughout the day.&nbsp; Girls\* can wear their PE T-shirt with their school skirt and boys with their school shorts when there are no PE lessons.&nbsp;
+PE attire i.e Polo T-shirt and PE shorts can be work throughout the day.
 
-\*Girls should tuck in their PE T-shirts.
+##### Name Tags
+
+A name tag should be worn on the Polo T-shirt at all times.
 
 
-##### Attire on CCA days&nbsp;&nbsp;
+##### Attire on CCA days
 
 Students can wear their PE attire and sports shoes on their CCA days. Special permission will be given by the Principal for students to come in their PE attire and sports shoes on days when students participate in competitions. Scouts are allowed to wear their Scouts uniform and shoes throughout the day on CCA days.
 
