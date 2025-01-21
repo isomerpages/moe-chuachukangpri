@@ -152,7 +152,7 @@ variant: tiptap
 </li>
 </ul>
 <p>For enquiries about our PSG, please contact Mdm Nur (Chairperson) at
-<a href="mailto:nurnn79nn@gmail.com" rel="noopener noreferrer nofollow" target="_blank">nurnn79nn@gmail.com</a>
+<a rel="noopener noreferrer nofollow" target="_blank">cckps.psg@gmail.com</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/picture1.jpg">
