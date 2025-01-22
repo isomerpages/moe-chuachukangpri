@@ -3,6 +3,7 @@ title: Canteen Vendor
 permalink: /partners/canteen-vendor/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
