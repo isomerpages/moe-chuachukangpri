@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Future of Learning (Internal)</p>
+<p>HOD / Student Development (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Evelyn Lim Siew Hsien</p>
