@@ -19,80 +19,8 @@ variant: tiptap
 </p>
 <p>2)&nbsp; &nbsp; &nbsp;<strong>Sale of School Uniform in CCKPS</strong>
 </p>
-<p>Please be informed with effect from 2025, school uniforms will no longer
-be sold at our school’s bookshop (Pacific Bookstore). To provide you with
-continual support, our uniform vendor, Shanghai Uniforms, will be arranging
-an on-site sale in the school. Please refer to the revised dates below:</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><u>Month</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><u>Date</u>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>January</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 to 16 January reserved for online orders at <a href="https://shanghai-uniforms.com" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.com</a>
-</p>
-<p>Self-collection on 24 January at school canteen for online orders placed
-by 16 January.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>February</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7th and 21st February</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7th and 21st March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th and 25th April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd and 16th May</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Time: 2pm to 4pm</u>
-</p>
-<p><u>Sale Location: School Canteen</u>
-</p>
-<p>Parents will only be allowed to enter the school’s premises after 2pm
-during the sales dates.</p>
-<p>Alternatively, Parents can also purchase the school uniform at our vendor’s
-outlet, at the location stated at the top of this page.</p>
+<p>You may purchase at our school's bookshop (Pacific Bookstore) from 7 February
+2025 till 31 October 2025 (<strong>2pm to 4pm</strong>).</p>
 <p></p>
 <hr>
 <table style="minWidth: 25px">
