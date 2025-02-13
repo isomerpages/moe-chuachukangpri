@@ -6,7 +6,7 @@ third_nav_title: Service Providers
 variant: tiptap
 ---
 <p>Operating hours :&nbsp;Mondays to Fridays, 8:00 a.m. to 3:30 p.m.</p>
-<p>Tel. : 68937311</p>
+<p>Tel. : 90481953</p>
 <p><em>Kindly note that the school bookshop is open to parents/guardians after 2:00 p.m. only.</em>
 </p>
 <hr>
