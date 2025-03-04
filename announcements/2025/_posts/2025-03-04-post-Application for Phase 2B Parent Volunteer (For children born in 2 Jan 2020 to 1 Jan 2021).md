@@ -11,6 +11,6 @@ variant: tiptap
 <p>Dear Parents,</p>
 <p></p>
 <p>Application for Phase 2B Parent Volunteer is now closed.</p>
-<p>&nbsp;Thank you.</p>
+<p>Thank you.</p>
 <p></p>
 <p></p>
