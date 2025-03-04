@@ -1,8 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
-variant: markdown
+variant: tiptap
 ---
-### **FAQ**
-
-Under Construction
+<h3><strong>FAQ</strong></h3>
+<p>Under Construction</p>
