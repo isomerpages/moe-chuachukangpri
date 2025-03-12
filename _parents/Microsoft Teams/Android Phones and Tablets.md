@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Microsoft Teams
 ---
 <p>Here are instructions on the download, installation and use of Microsoft
-Teams on Windows laptops and desktop computers.</p>
+Teams on Android phones and tablets:</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
