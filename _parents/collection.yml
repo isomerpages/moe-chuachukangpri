@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Windows Laptops and Desktops.md
       - Rules and Regulations.md
       - School Safety and Security.md
       - Useful Links for Parents/.keep
