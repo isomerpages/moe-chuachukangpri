@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Microsoft Teams.md
       - Rules and Regulations.md
       - School Safety and Security.md
       - Useful Links for Parents/.keep
