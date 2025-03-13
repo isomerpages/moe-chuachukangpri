@@ -14,4 +14,5 @@ Teams. Please click on the relevant link for your preferred system.</p>
 </p>
 <p><a href="/android-phones-and-tablets/" rel="noopener nofollow" target="_blank">For Android Phones and Tablets</a>
 </p>
-<p>For iOS Phones and iPadOS</p>
+<p><a href="/ios-phones-and-ipados/" rel="noopener nofollow" target="_blank">For iOS Phones and iPadOS</a>
+</p>
