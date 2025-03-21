@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN Officer (LBS)</p>
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Wee Li</p>
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer (LBS)</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Florence Ong Hwee Ming</p>
@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer (LBS)</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice Lim Chin Bee</p>
+<p>Mdm Sutashini d/o Sukumar</p>
 </td>
 </tr>
 <tr>
