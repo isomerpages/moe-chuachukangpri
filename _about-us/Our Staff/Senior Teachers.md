@@ -61,18 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Melati Hallel</p>
+<p>Mdm Charline Ang Li Shan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCE (Internal)</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Teng</p>
+<p>Mdm Melati Hallel</p>
 </td>
 </tr>
 <tr>
