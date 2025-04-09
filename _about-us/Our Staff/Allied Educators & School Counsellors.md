@@ -40,7 +40,7 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sutashini d/o Sukumar</p>
+<p>Ms Sutashini d/o Sukumar</p>
 </td>
 </tr>
 <tr>
@@ -49,14 +49,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suriana Bte Othman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lionel Ong Yue Jin</p>
 </td>
 </tr>
 <tr>
