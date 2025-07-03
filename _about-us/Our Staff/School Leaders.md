@@ -39,14 +39,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Chwee Eng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
