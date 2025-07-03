@@ -55,14 +55,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Francis Anita Chitra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,6 +163,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Goh Shiting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Hoon Suu</p>
 </td>
 </tr>
 <tr>
