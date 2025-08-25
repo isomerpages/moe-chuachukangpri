@@ -33,5 +33,5 @@ FormSG</p>
 <hr>
 <p></p>
 <h4>Application Form for Leave of Absence</h4>
-<p><a href="/files/LOA_form.pdf" rel="noopener nofollow" target="_blank">Leave of Absence Form</a>
+<p><a href="/files/Latest_LOA_form.pdf" rel="noopener nofollow" target="_blank">Leave of Absence Form</a>
 </p>
