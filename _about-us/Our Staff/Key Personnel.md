@@ -103,6 +103,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kasidah Khatoon Bte Kasim Khan Surattee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,14 +123,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rasidah Bte Abdul Wahab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kasidah Khatoon Bte Kasim Khan Surattee</p>
 </td>
 </tr>
 <tr>
