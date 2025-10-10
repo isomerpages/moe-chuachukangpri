@@ -21,6 +21,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Steve Lin Chunshan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sathasivam Rajasegaran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,15 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Roshimah Bte Awang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norcia Binte Arshad</p>
@@ -45,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ruth Tan Khar Heoh</p>
@@ -61,34 +69,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct Corporate Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rajeswari Kumaran</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Normalah Bte Jantan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Wei Jian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aida Bte Ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -125,10 +109,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Advocate</p>
+<p>ICT Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raimi bin Rosenen</p>
+<p>Mr Leonard Lim</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +144,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Hiak</p>
+<p>Mr Pereira Stanlas</p>
 </td>
 </tr>
 </tbody>
