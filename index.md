@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagesample.gif
+      key_highlights:
+        - title: Key Highlights
+          description: ""
+          url: ""
+        - title: Achievements
+          description: ""
+          url: ""
   - resources:
       title: Announcements
       subtitle: Latest Updates
