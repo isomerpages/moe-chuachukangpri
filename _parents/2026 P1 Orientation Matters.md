@@ -6,7 +6,7 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">Slides from 2026 P1 Cohort Orientation on 20th November 2025</a>
+<p><a href="/files/2025_Primary_1_Orientation__2026_Cohort____For_Website_V6.pdf" rel="noopener nofollow" target="_blank">Slides from 2026 P1 Cohort Orientation on 20th November 2025</a>
 </p>
 </li>
 </ul>
