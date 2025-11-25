@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - 2025 P6 PSLE Results Matters.md
+      - 2026 P1 Orientation Matters.md
       - Rules and Regulations.md
       - School Safety and Security.md
       - Useful Links for Parents/.keep

@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagesample.gif
+      key_highlights:
+        - title: Highlights
+          description: Click here to view all
+          url: https://www.chuachukangpri.moe.edu.sg/highlights
+        - title: Achievements
+          description: Click here to view all
+          url: https://www.chuachukangpri.moe.edu.sg/achievements
   - resources:
       title: Announcements
       subtitle: Latest Updates
