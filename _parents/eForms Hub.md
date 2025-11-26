@@ -15,8 +15,6 @@ in the following year again.</p>
 <p></p>
 <p><a href="https://go.gov.sg/cckpswaitinglist" rel="noopener nofollow" target="_blank">Online Waiting List Submission</a> -
 FormSG</p>
-<p><a href="/files/Waitlist_Form.pdf" rel="noopener nofollow" target="_blank">CCKPS Wait List Form</a>
-</p>
 <hr>
 <p></p>
 <h4>Financial Assistance Application Form</h4>
@@ -24,6 +22,11 @@ FormSG</p>
 <br>The above link requires login using Singpass.</p>
 <p></p>
 <p><a href="/files/MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+</p>
+<p></p>
+<p><a href="www.digitalaccess.gov.sg" rel="noopener nofollow" target="_blank">IMDA Digital Access @ Home</a>
+<br>Contact: 6377 3800
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <hr>
 <p></p>
