@@ -15,8 +15,6 @@ in the following year again.</p>
 <p></p>
 <p><a href="https://go.gov.sg/cckpswaitinglist" rel="noopener nofollow" target="_blank">Online Waiting List Submission</a> -
 FormSG</p>
-<p><a href="/files/Waitlist_Form.pdf" rel="noopener nofollow" target="_blank">CCKPS Wait List Form</a>
-</p>
 <hr>
 <p></p>
 <h4>Financial Assistance Application Form</h4>
