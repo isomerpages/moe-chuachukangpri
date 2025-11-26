@@ -21,9 +21,6 @@ FormSG</p>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
 <br>The above link requires login using Singpass.</p>
 <p></p>
-<p><a href="/files/MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
-</p>
-<p></p>
 <p><a href="www.digitalaccess.gov.sg" rel="noopener nofollow" target="_blank">IMDA Digital Access @ Home</a>
 <br>Contact: 6377 3800
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
