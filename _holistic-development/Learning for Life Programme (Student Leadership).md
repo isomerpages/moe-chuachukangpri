@@ -17,9 +17,11 @@ Opportunities are also given to students through their Values in Action
 of Student Leadership across the six levels.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCKPS_Leadership_Framework_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership_Framework_updated.png">
 </div>
-<p></p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/2025LLP/NewLLP1.jpg">
 </div>
