@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Service Providers
 variant: markdown
 ---
-Operating hours:
+**Operating hours:**
 
 Mon, Wed, Fri – 0800 to 1700hrs<br>
 Tue &amp; Thu – 0800 to 1730hrs<br><br>
