@@ -5,14 +5,12 @@ description: ""
 third_nav_title: Service Providers
 variant: tiptap
 ---
+<p>1)&nbsp; &nbsp; &nbsp;<strong>Sale of School Uniform in CCKPS</strong>
+</p>
 <p>You may purchase at our school's bookshop (Pacific Bookstore) when the
 school starts (from <strong>2pm to 4pm</strong>). Please note that the colour
 of the name tag has been standardised to blue for all levels with effect
 from 2026:</p>
-<p>1)&nbsp; &nbsp; &nbsp;<strong>Sale of School Uniform in CCKPS</strong>
-</p>
-<p>You may purchase at our school's bookshop (Pacific Bookstore) from 7 February
-2025 till 31 October 2025 (<strong>2pm to 4pm</strong>).</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
