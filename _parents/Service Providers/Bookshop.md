@@ -17,37 +17,37 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>
+<p><a href="/files/P1__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P2.pdf" rel="noopener nofollow" target="_blank">2026 P2 Booklist</a>
+<p><a href="/files/P2__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P2 Booklist</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3.pdf" rel="noopener nofollow" target="_blank">2026 P3 Booklist</a>
+<p><a href="/files/P3__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P3 Booklist</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4.pdf" rel="noopener nofollow" target="_blank">2026 P4 Booklist</a>
+<p><a href="/files/P4__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P4 Booklist</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P5.pdf" rel="noopener nofollow" target="_blank">2026 P5 Booklist</a>
+<p><a href="/files/P5__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P5 Booklist</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
+<p><a href="/files/P6__2026__Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
 </p>
 </td>
 </tr>
