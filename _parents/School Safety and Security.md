@@ -90,59 +90,9 @@ with teachers before coming to the school as teachers are likely to be
 engaged during the school hours.</p>
 <h3><u>Opening Time of School Gates during the School Term</u></h3>
 <p></p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Days</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate 1A and 1B</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate 4</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate 4A</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday to Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.15 to 5.30p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.15 to 5.30p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.45 to 7.30 a.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.45 to 7.30 a.m.</p>
-<p>1.30 to 2.00 p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Gate_Hours.jpg">
+</div>
 <h3><u>Social Responsibility</u></h3>
 <ul data-tight="true" class="tight">
 <li>
