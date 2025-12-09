@@ -52,8 +52,8 @@ Parents who are dropping off students at the foyer in the morning should
 request a decal to be displayed on the windscreen. This drop-off arrangement
 is allowed only in the morning and at dismissal, and during term time only.&nbsp;
 Vehicles without CCKPS decal may be refused entry into school even for
-drop-off in the morning. Please assess this link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/carparkdecalfor</a> the
-request of a decal.</p>
+drop-off in the morning. Please access this link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/carparkdecal</a> for
+the request of a decal.</p>
 </li>
 </ul>
 </li>
@@ -94,37 +94,39 @@ engaged during the school hours.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Gate_Hours.jpg">
 </div>
 <h3><u>Social Responsibility</u></h3>
+<p></p>
+<p><u>Unwell Students</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If a student is unwell and needs to be sent home early, parent/guardian
-should fetch their child/ward from school and seek medical attention if
-necessary. Please keep the Form Teacher updated on your child's/ward's
-well-being after a medical consultation. Every student should have a stand-by
-mask for use if he/she suddenly feels unwell in school. As part of our
-collective social responsibility, we request that parents keep their child
-at home if they are unwell, to protect the well-being of other students
-and staff. Together, we can create a healthy and safe environment for every
-student and staff in our school.</p>
+<p>If a student is unwell and needs to be sent home early, parent should
+fetch their child from school and seek medical attention if necessary.
+Please keep the Form Teacher updated on your child's well-being after a
+medical consultation. Every student should have a stand-by mask for use
+if he/she suddenly feels unwell in school. As part of our collective social
+responsibility, we request that parents keep their child at home if they
+are unwell, to protect the well-being of other students and staff. Together,
+we can create a healthy and safe environment for every student and staff
+in our school.</p>
 </li>
 </ul>
-<p></p>
+<p><u>Thermometer</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every student is to ensure that he/she has a working Oral Digital Thermometer
-in his/her pencil case and brought to school every day. This is to educate
-students to take personal responsibility for their own health and practise
-social responsibility. Your child/ward has to take his/her temperature
-before the start of the school day when he/she feels unwell or during an
-outbreak. Please remind your child/ward to check and replace batteries
-or purchase a new thermometer if necessary. Thermometers are also available
-for sale at the school bookshop at an estimated cost of $5.50. There will
-be a yearly Attendance and Temperature-Taking Exercise conducted. This
-is to maintain schools' preparedness to re-activate the attendance and
-temperature-taking regime should there be a need to. Therefore, it is important
-that every student has a working thermometer with him/her at all times.</p>
+<p>Every student is to ensure that he/she has a working thermometer in his/her
+pencil case and brought to school every day. This is to educate students
+to take personal responsibility for their own health and practice social
+responsibility. Your child has to take his/her temperature before the start
+of the school day when he/she feels unwell or during an outbreak. Please
+remind your child to check and replace batteries or purchase a new thermometer
+if necessary. There will be a yearly Attendance and Temperature-Taking
+Exercise conducted. This is to maintain schools' preparedness to re-activate
+the attendance and temperature-taking regime should there be a need to.</p>
 </li>
 </ul>
-<p></p>
+<p><u>Personal Hygiene</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are expected to take charge of their own personal hygiene and
