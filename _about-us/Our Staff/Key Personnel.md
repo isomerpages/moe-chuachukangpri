@@ -34,7 +34,7 @@ variant: tiptap
 <p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Yuan Yuan</p>
+<p>Mr Koh Lin Kai (Xu Lingkai)</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Internal)</p>
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Xiaoxuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Chun Ni Junie</p>
@@ -183,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Aesthetics (Internal)</p>
+<p>Subject Head / Student leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Jia Hui</p>
@@ -223,10 +231,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head / Science (Internal)</p>
+<p>Level Head / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faith Wong</p>
+<p>Mr Ho Yeow Lin Peter</p>
 </td>
 </tr>
 <tr>
