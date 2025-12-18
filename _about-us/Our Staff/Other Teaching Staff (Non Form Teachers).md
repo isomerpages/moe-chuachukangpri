@@ -48,7 +48,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Yeo</p>
+<p>Mdm Ng Hui Lin (Mrs Karen Yeo)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hwee Ping</p>
+<p>Mdm Uma Vicnesvare</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Kwa</p>
+<p>Mdm Jameela Binti Masood</p>
 </td>
 </tr>
 <tr>
@@ -72,15 +72,47 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharini Bte Shamsuddin</p>
+<p>Ms Audrey Loh Sok Mun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ow Chew Cheng</p>
+<p>Mdm Teo Guat Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juita Binte Neemat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nuraisah Binte Sman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fadilah Binte Isnin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurafizah Binte Abdul Razak</p>
 </td>
 </tr>
 </tbody>
