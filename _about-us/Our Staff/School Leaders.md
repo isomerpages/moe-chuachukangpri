@@ -26,14 +26,6 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheree Chong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Principal Designate</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Quek Swee Nee</p>
 </td>
 </tr>
@@ -43,6 +35,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Low Boon Hwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Lim</p>
 </td>
 </tr>
 <tr>
