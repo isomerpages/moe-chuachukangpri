@@ -178,7 +178,7 @@ variant: tiptap
 <p>Subject Head / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hoon Suu</p>
+<p>Mdm Soh Hoon Suu (Lyvia)</p>
 </td>
 </tr>
 <tr>
