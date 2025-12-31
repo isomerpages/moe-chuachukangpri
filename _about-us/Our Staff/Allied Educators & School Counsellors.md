@@ -48,7 +48,7 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice Lim Bee Choo</p>
+<p>Mdm Eunice Lim Chin Bee</p>
 </td>
 </tr>
 <tr>
