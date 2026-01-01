@@ -1,5 +1,5 @@
 ---
-title: Principal's Forward
+title: Principal's Foreword
 permalink: /about-us/principals-forward/
 description: ""
 variant: tiptap

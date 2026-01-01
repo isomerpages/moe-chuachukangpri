@@ -175,10 +175,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Chinese</p>
+<p>Subject Head / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hoon Suu</p>
+<p>Mdm Soh Hoon Suu (Lyvia)</p>
 </td>
 </tr>
 <tr>
@@ -191,10 +191,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student leadership (Internal)</p>
+<p>Subject Head / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jia Hui</p>
+<p>Mdm Nur Diana Binte Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -235,6 +235,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Yeow Lin Peter</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head / Aesthetics (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jia Hui</p>
 </td>
 </tr>
 <tr>
