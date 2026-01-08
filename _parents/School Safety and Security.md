@@ -52,7 +52,7 @@ Parents who are dropping off students at the foyer in the morning should
 request a decal to be displayed on the windscreen. This drop-off arrangement
 is allowed only in the morning and at dismissal, and during term time only.&nbsp;
 Vehicles without CCKPS decal may be refused entry into school even for
-drop-off in the morning. Please access this link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/carparkdecal</a> for
+drop-off in the morning. Please access this link <a href="https://go.gov.sg/carparkdecal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/carparkdecal</a> for
 the request of a decal.</p>
 </li>
 </ul>
