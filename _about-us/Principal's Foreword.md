@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /about-us/principals-forward/
+permalink: /about-us/principals-foreword/
 description: ""
 variant: tiptap
 ---

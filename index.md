@@ -8,13 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagesample.gif
-      key_highlights:
-        - title: Highlights
-          description: Click here to view all
-          url: https://www.chuachukangpri.moe.edu.sg/highlights
-        - title: Achievements
-          description: Click here to view all
-          url: https://www.chuachukangpri.moe.edu.sg/achievements
+  - infopic:
+      title: Principal's Foreword
+      id: infopic
+      description: Welcome to 2026! Our Principal shares his hopes, values, and
+        commitment to partnering parents in nurturing confident, caring, and
+        capable learners.
+      button: Read the full message here
+      url: https://www.chuachukangpri.moe.edu.sg/about-us/principals-foreword/
+      image: /images/2026 Photos/P1000904__1_.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       subtitle: Latest Updates
