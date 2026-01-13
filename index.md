@@ -19,4 +19,14 @@ sections:
       title: Announcements
       subtitle: Latest Updates
       button: View All
+  - infopic:
+      title: Principal's Foreword
+      id: infopic
+      description: Welcome to 2026! Our Principal shares his hopes, values, and
+        commitment to partnering parents in nurturing confident, caring, and
+        capable learners.
+      button: Read the full message here
+      url: https://www.chuachukangpri.moe.edu.sg/about-us/principals-forward/
+      image: /images/2026 Photos/P1000904__1_.jpg
+      alt: Image alt text
 ---
