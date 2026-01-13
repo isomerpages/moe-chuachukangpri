@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagesample.gif
-  - resources:
-      title: Announcements
-      subtitle: Latest Updates
-      button: View All
   - infopic:
       title: Principal's Foreword
       id: infopic
@@ -22,4 +18,8 @@ sections:
       url: https://www.chuachukangpri.moe.edu.sg/about-us/principals-foreword/
       image: /images/2026 Photos/P1000904__1_.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      subtitle: Latest Updates
+      button: View All
 ---
