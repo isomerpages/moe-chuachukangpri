@@ -3,7 +3,7 @@ url: https://www.chuachukangpri.moe.edu.sg
 favicon: /images/CCK-Logo-b-colour-200.png
 colors:
   primary-color: "#2b49a4"
-  secondary-color: "#75ad5b"
+  secondary-color: "#2b49a4"
   media-colors:
     - title: media-color-one
       color: "#75ad5b"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: announcements
+google_analytics_ga4: ""
