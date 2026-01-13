@@ -26,7 +26,7 @@ sections:
         commitment to partnering parents in nurturing confident, caring, and
         capable learners.
       button: Read the full message here
-      url: https://www.chuachukangpri.moe.edu.sg/about-us/principals-forward/
+      url: https://www.chuachukangpri.moe.edu.sg/about-us/principals-foreword/
       image: /images/2026 Photos/P1000904__1_.jpg
       alt: Image alt text
 ---
