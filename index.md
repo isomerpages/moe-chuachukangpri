@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2026 Photos/Test_GIF___A.gif
+      background: /images/2026 Photos/Test_GIF___B.gif
       title: Chua Chu Kang Primary School
       variant: center
       subtitle: Bringing out the Best in Every Child
