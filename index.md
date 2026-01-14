@@ -7,7 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagesample.gif
+      background: /images/2026 Photos/Test_GIF___A.gif
+      title: Chua Chu Kang Primary School
+      variant: center
+      subtitle: Bringing out the Best in Every Child
   - infopic:
       title: Principal's Foreword
       id: infopic
