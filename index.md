@@ -28,8 +28,8 @@ sections:
   - infobar:
       id: infobar
       description: <iframe frameborder="0"
-        src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="640"
-        width="520"></iframe>
+        src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
+        width="720"></iframe>
       button: Visit our Instagram page here!
       url: https://www.instagram.com/chuachukangpri/
 ---
