@@ -26,11 +26,10 @@ sections:
       subtitle: Latest Updates
       button: View All
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
       id: infobar
       description: <iframe frameborder="0"
         src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="440"
         width="320"></iframe>
-      button: Button Text
+      button: Visit our Instagram page here!
+      url: https://www.instagram.com/chuachukangpri/
 ---
