@@ -2,6 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Useful Links for Staff.md
       - Caring Teacher Award.md
       - Star Awards.md
-      - Useful Links for Staff.md
