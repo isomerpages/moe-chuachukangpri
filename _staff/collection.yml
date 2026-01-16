@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Star Awards.md
       - Useful Links for Staff.md
