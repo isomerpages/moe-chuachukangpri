@@ -25,4 +25,11 @@ sections:
       title: Announcements
       subtitle: Latest Updates
       button: View All
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe
+        src="https://www.instagram.com/p/DS_-Ak7kQHq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="></iframe>
+      button: Button Text
 ---
