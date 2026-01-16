@@ -29,7 +29,8 @@ sections:
       title: Infobar
       subtitle: Add informational text
       id: infobar
-      description: <iframe
-        src="https://www.instagram.com/p/DS_-Ak7kQHq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="></iframe>
+      description: <iframe frameborder="0"
+        src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="440"
+        width="320"></iframe>
       button: Button Text
 ---
