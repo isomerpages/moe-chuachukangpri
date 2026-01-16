@@ -93,7 +93,7 @@ will be donated to selected beneficiaries.</p>
 <p><strong><u>Story Hype</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 EL Photos/Picture4.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 EL Photos/Picture4.jpg">
 </div>
 <p>Story Hype is an engaging reading programme designed to help CCKPS students
 make meaningful connections between what they know and what they read.
