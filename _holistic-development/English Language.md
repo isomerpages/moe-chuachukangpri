@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong><u>Curriculum Framework</u></strong></h3>
 <p>The English Language instructional programmes in the classroom are aligned
-with the principles of language learning and teaching in the EL Syllabus.&nbsp;&nbsp;STELLAR
+with the principles of language learning and teaching in the EL Syllabus.&nbsp;STELLAR
 (Strategies for English Language Learning and Reading) is an EL instructional
 programme that provides the instructional materials, teaching strategies
 and training to enable teachers to implement the EL syllabus. Adopted at
@@ -60,8 +60,8 @@ share their views with their teachers and peers</p>
 <p>build students’ confidence in speech and writing</p>
 </li>
 </ul>
-<p>Our curriculum incorporates interesting programmes to enhance our students’
-learning of the language.</p>
+<p>We have interesting programmes that are infused in our curriculum to enhance
+our students’ learning of the language.</p>
 <hr>
 <h3><strong><u>Reading Programmes</u></strong></h3>
 <p></p>
@@ -77,9 +77,10 @@ students.</p>
 in activities related to reading such as character exploration and introduction
 to various genres or authors. We also encourage students to read regularly
 by acknowledging the top readers from each level through the termly Avid
-Reader Awards.</p>
+Reader Awards..</p>
 <p><strong><u>Read for Books</u></strong>
 </p>
+<p></p>
 <p>In addition to encouraging students to read actively, we offer a platform
 for both students and staff to read for a good cause and share their love
 for reading with others. Riding on the National Library Board (NLB)’s Read
