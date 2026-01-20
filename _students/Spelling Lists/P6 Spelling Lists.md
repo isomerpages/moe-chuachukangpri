@@ -29,7 +29,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CL-J</p>
+<p>6CLG Spelling List Unit 1-6</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 Standard CL Spelling Term 1 Unit 1 - 6</p>
+<p>6CLJ Spelling List Unit 1-10</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,15 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>6CLK Spelling List Unit 1-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CLL Spelling List Unit 1-6</p>
 </td>
 </tr>
 </tbody>
