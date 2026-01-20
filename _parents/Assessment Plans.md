@@ -21,22 +21,28 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary One</p>
+<p><a href="/files/2026 Assessment Plans/P1_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary One</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Two</p>
+<p><a href="/files/2026 Assessment Plans/P2_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Two</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Three</p>
+<p><a href="/files/2026 Assessment Plans/P3_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Three</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Four</p>
+<p><a href="/files/2026 Assessment Plans/P4_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Four</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Five Standard</p>
+<p><a href="/files/2026 Assessment Plans/P5_STD_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Five Standard</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Six Standard</p>
+<p><a href="/files/2026 Assessment Plans/P6_STD_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Six Standard</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,10 +59,12 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Five Foundation</p>
+<p><a href="/files/2026 Assessment Plans/P5_FDN_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Five Foundation</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary Six Foundation</p>
+<p><a href="/files/2026 Assessment Plans/P6_FDN_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Six Foundation</a>
+</p>
 </td>
 </tr>
 </tbody>
