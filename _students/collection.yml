@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Spelling Lists.md
       - Student Learning Space (SLS).md
       - Student iCON.md
