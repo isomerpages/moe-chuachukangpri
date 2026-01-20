@@ -47,7 +47,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EL</p>
+<p><a href="/files/2026 Spelling Lists/EL_Primary_3_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">EL</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
