@@ -15,12 +15,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="6">
+<th rowspan="1" style="text-align: center;" colspan="6">
 <p>2026 Assessment Plans</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" style="text-align: center;" colspan="1">
 <p><a href="/files/2026 Assessment Plans/P1_Assessment_Plan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary One</a>
 </p>
 </td>
