@@ -21,22 +21,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary One</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Two</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Three</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Four</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Five Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Six Standard</p>
 </td>
 </tr>
 <tr>
@@ -53,10 +53,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Five Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Six Foundation</p>
 </td>
 </tr>
 </tbody>
