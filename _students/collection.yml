@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Spelling Lists/P6 Spelling Lists.md
       - Spelling Lists/P5 Spelling Lists.md
       - Spelling Lists/P4 Spelling Lists.md
       - Spelling Lists/P3 Spelling Lists.md
