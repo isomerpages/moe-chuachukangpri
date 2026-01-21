@@ -28,7 +28,8 @@ variant: tiptap
 <br>LIST OF APPROVED DICTIONARIES FOR USE IN PSLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/seab-approveddictionaries.pdf</a>
+</p>
 </td>
 </tr>
 <tr>
