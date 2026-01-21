@@ -3,36 +3,54 @@ title: Chinese Language
 permalink: /holistic-development/Mother-Tongue-Languages/chinese/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: tiptap
 ---
-##### **Useful Resources/Links**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-4l7k{background-color:#E8EDFF;color:#134693;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<h5><strong>Useful Resources/Links</strong></h5>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lr6o">新加坡学生学习平台<br>Student Learning Space (SLS)</td>
-    <td class="tg-4l7k"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#134693">https://vle.learning.moe.edu.sg/login</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">考评局批准词典<br>LIST OF APPROVED DICTIONARIES FOR USE IN PSLE</td>
-    <td class="tg-4l7k"><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf"><span style="text-decoration:none;color:#134693">https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o">知识网<br>eTutor</td>
-    <td class="tg-4l7k"><a href="https://www.ezhishi.net/Contents/"><span style="text-decoration:none;color:#134693">https://www.ezhishi.net/Contents/</span></a></td>
-  </tr>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>新加坡学生学习平台
+<br>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>考评局批准词典
+<br>LIST OF APPROVED DICTIONARIES FOR USE IN PSLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>知识网
+<br>eTutor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/Contents/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8频道口试练习</p>
+<p>Channel 8 Oral Practise Video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.8world.com/topic/koushilianxi" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/topic/koushilianxi</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
