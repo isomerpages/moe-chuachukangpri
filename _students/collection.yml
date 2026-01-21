@@ -2,5 +2,12 @@ collections:
   students:
     output: true
     order:
+      - Spelling Lists/.keep
+      - Spelling Lists/P1 Spelling Lists.md
+      - Spelling Lists/P2 Spelling Lists.md
+      - Spelling Lists/P3 Spelling Lists.md
+      - Spelling Lists/P4 Spelling Lists.md
+      - Spelling Lists/P5 Spelling Lists.md
+      - Spelling Lists/P6 Spelling Lists.md
       - Student Learning Space (SLS).md
       - Student iCON.md

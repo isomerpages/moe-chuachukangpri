@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
-<h3>Useful Websites<br>பயனுள்ள இணயத்தளங்கள்</h3>
+<h4><strong><u>Tamil Language Useful Resources and Links</u></strong><br>பயனுள்ள இணயத்தளங்கள்</h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,7 +18,7 @@ variant: tiptap
 <p>Tamil Cube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academy.tamilcube.com/" rel="noopener nofollow" target="_blank">https://academy.tamilcube.com/</a>
+<p><a href="https://academy.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">https://academy.tamilcube.com/</a>
 </p>
 </td>
 </tr>
@@ -26,7 +27,7 @@ variant: tiptap
 <p>Tamil News</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://seithi.mediacorp.sg/" rel="noopener nofollow" target="_blank">http://seithi.mediacorp.sg/</a>
+<p><a href="http://seithi.mediacorp.sg/" rel="noopener noreferrer nofollow" target="_blank">http://seithi.mediacorp.sg/</a>
 </p>
 </td>
 </tr>
@@ -35,7 +36,7 @@ variant: tiptap
 <p>Online Dictionary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://tamildict.com" rel="noopener nofollow" target="_blank">http://tamildict.com</a>
+<p><a href="http://tamildict.com/" rel="noopener noreferrer nofollow" target="_blank">http://tamildict.com</a>
 </p>
 </td>
 </tr>

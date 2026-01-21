@@ -3,31 +3,52 @@ title: Malay Language
 permalink: /holistic-development/Mother-Tongue-Languages/malay/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: tiptap
 ---
-##### Pautan Bahasa Melayu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2a7j{background-color:#E8EDFF;color:#134693;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h5><strong><u>Malay Language Useful Resource and Links</u></strong></h5>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">KAMUS talian DBP</span></td>
-    <td class="tg-2a7j"><a href="https://prpm.dbp.gov.my/"><span style="text-decoration:none;color:#134693">http://prpm.dbp.gov.my</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Majlis Bahasa Melayu Singapura</span></td>
-    <td class="tg-2a7j"><a href="https://www.languagecouncils.sg/mbms/en"><span style="text-decoration:none;color:#134693">https://www.languagecouncils.sg/mbms/en</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222">Siri Bacaan Nabil Nabilah</span></td>
-    <td class="tg-2a7j"><a href="https://mllpc.sg/publications"><span style="text-decoration:none;color:#134693">https://mllpc.sg/publications</span></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senarai Kamus yang Diluluskan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">seab-approveddictionaries.pdf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAMUS dalam talian DBP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://prpm.dbp.gov.my/" rel="noopener noreferrer nofollow" target="_blank">http://prpm.dbp.gov.my</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Majlis Bahasa Melayu Singapura</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.languagecouncils.sg/mbms/en" rel="noopener noreferrer nofollow" target="_blank">https://www.languagecouncils.sg/mbms/en</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siri Bacaan Nabil Nabilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://mllpc.sg/publications/3" rel="noopener noreferrer nofollow" target="_blank">MLLPC – Malay Committee in Singapore</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
