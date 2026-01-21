@@ -44,8 +44,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8频道口试练习</p>
-<p>Channel 8 Oral Practise Video</p>
+<p>8频道口试练习
+<br>Channel 8 Oral Practise Video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.8world.com/topic/koushilianxi" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/topic/koushilianxi</a>
