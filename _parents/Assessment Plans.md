@@ -11,7 +11,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" style="text-align: center;" colspan="2">
 <p>2026 Assessment Plans</p>
 </th>
 </tr>
