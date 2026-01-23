@@ -15,7 +15,7 @@ of materials that enrich learning and broaden knowledge.</p>
 <h4><strong><u>Book Reservation</u></strong></h4>
 <p>To reserve books, you may look at the How To Use section at the bottom
 of the page. It provides instructions with pictures on how to reserve books
-that can be found in the school library.</p><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/ChuaChuKangpri/cgi-bin/spydus.exe/MSGTRNGEN/WPAC/HOWTO?HOMEPRMS=HOWTOPARAMS"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/OPAC_How_to_Use.jpg"></a>
+that can be found in the school library.</p><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/ChuaChuKangpri/cgi-bin/spydus.exe/MSGTRNGEN/WPAC/HOWTO?HOMEPRMS=HOWTOPARAMS"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/OPAC_How_to_Use.jpg"></a>
 <p></p>
 <h4><strong><u>School e-Resource Repository</u></strong></h4>
 <p>To access the supplementary e-resources, you may click the banner located
