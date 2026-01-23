@@ -71,9 +71,9 @@ our students’ learning of the language.</p>
 reader. Our Reading Programme is conducted through various platforms to
 inculcate the love for reading and to improve the literacy level of our
 students.</p>
+<p></p>
 <p><strong><u>Reading Passports and Avid Readers</u></strong>
-</p>
-<p>Reading Passports provide students with the opportunity to immerse themselves
+<br>Reading Passports provide students with the opportunity to immerse themselves
 in activities related to reading such as character exploration and introduction
 to various genres or authors. We also encourage students to read regularly
 by acknowledging the top readers from each level through the termly Avid
@@ -114,9 +114,8 @@ to promote reading to their peers by sharing selected books during termly
 pre-assembly talks and designing meaningful posters using Canva. Reading
 Reps also play a part in building a school-wide reading culture by creating
 an inviting class library.</p>
-<p><strong><u>Book Character Parade</u></strong>
-</p>
-<p>Media Resource Library (MRL) in CCKPS aims to promote the love for reading
+<p><strong><u>Book Character Parade (Media Resource Library Programme)</u></strong>
+<br>Media Resource Library (MRL) in CCKPS aims to promote the love for reading
 among our students and provide them the opportunities to develop the knowledge
 and skills necessary to access library resources. To enhance the joy of
 learning, students are also introduced to different themes and genre of
@@ -144,7 +143,17 @@ language skills and self-expression. Through engaging activities, students
 learn to articulate their thoughts creatively while building vocabulary,
 grammar and sentence structure. The programme fosters a love for writing
 and provide opportunities for students to share their work and learn from
-one another.
+one another.</p>
+<p><strong><u>Reading Circles</u></strong>
+<br>Reading Circles (RC) is an advanced reading programme for students to
+engage with texts deeply and critically while developing their literacy
+and communication skills. As part of the High-Ability Learners Programme,
+RC is introduced to stretch students beyond the curriculum.</p>
+<p>The Reading Circles uses a reader response approach to engage advanced
+readers with a variety of rich texts. It is organised into different modules,
+with each module built around a fictional text. Its goals are to extend
+students' world experience and cultivate empathy, imagination, and perspective-taking
+through collective inquiry and discussion.
 <br>
 <br><strong><u>Young Journalist Programme</u></strong>
 <br>The Young Journalist Programme (YJP) aims to empower participants with
@@ -191,20 +200,7 @@ they integrate text and visual elements into their final masterpiece.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_9.png">
 </div>
-<p></p>
-<p><strong><u>Enhancing Teaching &amp; Learning with EdTech</u></strong>
-</p>
-<p>As part of the ministry’s EdTech Masterplan 2030, our English teachers
-are increasingly embracing technology as a tool to transform the learning
-experience in the classroom.<sup> </sup>We are exploring innovative ways
-to integrate technology into the classrooms, from gamifying grammar lessons
-to using AI-powered tools to assess students’ learning. By continuously
-developing our technological competencies, we aim to cater to diverse learning
-styles and increase effective engagement in the classroom.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Picture_10.png">
-</div>
-<p></p>
+<hr>
 <p><strong><u>Targeted Literacy Support Programmes for students</u></strong>
 </p>
 <p><strong>Learning Support Programme (LSP) (P1 and P2)</strong>
