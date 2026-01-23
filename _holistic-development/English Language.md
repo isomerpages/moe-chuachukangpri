@@ -144,7 +144,17 @@ language skills and self-expression. Through engaging activities, students
 learn to articulate their thoughts creatively while building vocabulary,
 grammar and sentence structure. The programme fosters a love for writing
 and provide opportunities for students to share their work and learn from
-one another.
+one another.</p>
+<p><strong><u>Reading Circles</u></strong>
+<br>Reading Circles (RC) is an advanced reading programme for students to
+engage with texts deeply and critically while developing their literacy
+and communication skills. As part of the High-Ability Learners Programme,
+RC is introduced to stretch students beyond the curriculum.</p>
+<p>The Reading Circles uses a reader response approach to engage advanced
+readers with a variety of rich texts. It is organised into different modules,
+with each module built around a fictional text. Its goals are to extend
+students' world experience and cultivate empathy, imagination, and perspective-taking
+through collective inquiry and discussion.
 <br>
 <br><strong><u>Young Journalist Programme</u></strong>
 <br>The Young Journalist Programme (YJP) aims to empower participants with
