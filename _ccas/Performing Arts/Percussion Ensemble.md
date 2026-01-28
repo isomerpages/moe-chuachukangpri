@@ -48,6 +48,10 @@ responsibility, care, and teamwork through the musical learning process,
 whilst applying the principles of the 7 Habits of Highly Effective People
 to develop well-rounded individuals.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Band/Band2.jpg">
+</div>
+<p></p>
 <h4><strong><u>Key Learning Experiences</u></strong></h4>
 <p></p>
 <p>Students learn different skills and competencies at different tiers:</p>
@@ -81,7 +85,11 @@ performance contexts.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong><u>CCA Achievements </u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Band/Band1.jpg">
+</div>
+<p></p>
+<h4><strong><u>CCA Achievements</u></strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -159,4 +167,9 @@ performance contexts.</p>
 <p>Mdm Alison Ho</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Band/Band4.jpg">
+</div>
 <p></p>
