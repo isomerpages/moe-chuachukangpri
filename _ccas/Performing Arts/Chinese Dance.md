@@ -15,6 +15,10 @@ These experiences allow students to broaden their artistic exposure, build
 their confident, and develop a deeper appreciation for the diverse styles
 and expressions within the dance community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Chinese Dance/CD4.jpg">
+</div>
+<p></p>
 <h4><strong><u>CCA Objective</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,11 +44,14 @@ in various formations</p>
 </li>
 <li>
 <p>Perform dance with appropriate expressions and movement qualities to communicate
-the dance theme to</p>
-<p>provide the students an opportunity to perform at external performance
-or school events.</p>
+the dance theme to provide the students an opportunity to perform at external
+performance or school events.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Chinese Dance/CD3.jpg">
+</div>
 <p></p>
 <h4><strong><u>Achievements</u></strong></h4>
 <table style="minWidth: 50px">
@@ -98,6 +105,9 @@ Celebration</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Chinese Dance/CD2.jpg">
+</div>
 <h4><strong><u>Training Details</u></strong></h4>
 <p>Days of Training: Thursdays</p>
 <p>Time: 2:15pm to 4:15pm</p>
@@ -114,4 +124,10 @@ Celebration</p>
 <p>Mdm Huang Yue</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Chinese Dance/CD1.jpg">
+</div>
+<p></p>
 <p></p>
