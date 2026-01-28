@@ -18,11 +18,14 @@ our girls grow in confidence, physical fitness and mental toughness.</p>
 where every player is encouraged to discover her potential and develop
 a lifelong love for the game.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB2.jpg">
+</div>
+<p></p>
 <h4><strong><u>Objectives</u></strong></h4>
 <p></p>
 <p><strong><u>3 Key Objectives of the Basketball Girls CCA</u></strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop Fundamental Skills and Fitness
@@ -70,6 +73,10 @@ and handling wins and losses</p>
 peer mentors</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB4.jpg">
+</div>
 <p></p>
 <h4><u>Achievements</u></h4>
 <p></p>
@@ -217,9 +224,11 @@ peer mentors</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB3.jpg">
+</div>
+<p></p>
 <h4><u>Training Schedule</u></h4>
 <p>Days of Training: Mondays, Tuesdays, Wednesdays, Thursdays
 <br>Time: 3:30pm to 5:30pm
@@ -240,6 +249,8 @@ peer mentors</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB1.jpg">
+</div>
 <p></p>
 <p></p>
