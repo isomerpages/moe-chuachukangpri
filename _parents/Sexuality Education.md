@@ -123,7 +123,7 @@ affected, even when one's body is experiencing changes due to puberty.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ own responses when they encounter pornography by applying the strategy <strong>'
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -212,7 +212,7 @@ Instead, they should focus on building strong and healthy friendships with
 their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -245,7 +245,7 @@ education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents&nbsp;who wish to opt their
 children out of the&nbsp;Sexuality Education lessons&nbsp;need to&nbsp;complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable <a href="/files/CCKPS_SEd_Opt_out_form__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;<strong>The completed opt-out form is to be submitted by 31st January 2025.</strong>
+of the year and is also downloadable <a href="/files/CCKPS_SEd_Opt_out_form__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;<strong>The completed opt-out form is to be submitted by 6th February 2026.</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;67661574
 or email us at <a href="mailto:cckps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cckps@moe.edu.sg</a>&nbsp;for
