@@ -19,6 +19,7 @@ where every player is encouraged to discover her potential and develop
 a lifelong love for the game.</p>
 <p></p>
 <h4><strong><u>Objectives</u></strong></h4>
+<p></p>
 <p><strong><u>3 Key Objectives of the Basketball Girls CCA</u></strong>
 </p>
 <p></p>
@@ -43,7 +44,8 @@ grow into confident and responsible individuals.
 to challenge themselves and strive for personal and team excellence.
 <br>
 <br>
-<br><strong><u>Key Learning Experiences</u></strong>
+</p>
+<p><strong><u>Key Learning Experiences</u></strong>
 </p>
 </li>
 </ul>
