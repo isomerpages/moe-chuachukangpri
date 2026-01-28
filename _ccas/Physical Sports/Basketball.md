@@ -5,7 +5,81 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h4>E-Showcase</h4>
+<p>Chua Chu Kang Primary School Basketball Girls CCA nurtures confident,
+resilient and disciplined student-athletes through structured training
+and meaningful competition. Our program focuses on developing strong fundamentals,
+teamwork and sportsmanship, while instilling values such as perseverance,
+respect and leadership.</p>
+<p>Through regular training, friendly matches and inter-school competitions,
+players learn to challenge themselves, support one another and strive for
+excellence both on and off the court. Guided by dedicated coaches and teachers,
+our girls grow in confidence, physical fitness and mental toughness.</p>
+<p>The Basketball Girls CCA provides a supportive and empowering environment
+where every player is encouraged to discover her potential and develop
+a lifelong love for the game.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB2.jpg">
+</div>
+<p></p>
+<h4><strong><u>Objectives</u></strong></h4>
+<p></p>
+<p><strong><u>3 Key Objectives of the Basketball Girls CCA</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop Fundamental Skills and Fitness
+<br>Build strong basketball fundamentals, physical fitness and game understanding
+through structured and progressive training.
+<br>
+</p>
+</li>
+<li>
+<p>Cultivate Values and Character
+<br>Instil discipline, resilience, teamwork and sportsmanship, helping students
+grow into confident and responsible individuals.
+<br>
+</p>
+</li>
+<li>
+<p>Encourage Excellence and Confidence
+<br>Provide opportunities for competition and leadership, motivating players
+to challenge themselves and strive for personal and team excellence.
+<br>
+<br>
+</p>
+<p><strong><u>Key Learning Experiences</u></strong>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate in structured training sessions to develop basketball skills,
+fitness and game strategies</p>
+</li>
+<li>
+<p>Experience teamwork and collaboration through drills, matches and team
+challenges</p>
+</li>
+<li>
+<p>Learn resilience, discipline and sportsmanship by training consistently
+and handling wins and losses</p>
+</li>
+<li>
+<p>Represent the school in friendly games and inter-school competitions</p>
+</li>
+<li>
+<p>Develop confidence and leadership through roles such as team leaders and
+peer mentors</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB4.jpg">
+</div>
+<p></p>
+<h4><u>Achievements</u></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,58 +87,27 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/bbb.png">
-</div>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/bbg.png">
-</div>
+<p>Senior Girls National League 1 Champions</p>
 </td>
 </tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb1.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb2.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/CCAs/BB1.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/CCAs/BB2.jpg">
-</div>
-<p>
-<br>
-</p>
-<h4>Achievements</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Junior Girls National Tier 1 Champions</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +115,7 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls League 1 3rd Runner Up</p>
+<p>Senior Girls National League 1 4th Place</p>
 </td>
 </tr>
 <tr>
@@ -80,57 +123,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Tier 1 Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys Tier 1 2nd Runner Up</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Junior Girls National Tier 1 Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys West Zone 3rd Runner Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys Tier 1 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Girls National Champions</p>
@@ -141,28 +139,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Tier 1 Champions</p>
+<p>Senior Girls West Zone Champions</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Junior Girls National Tier 1 Champions</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +155,31 @@ variant: tiptap
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls West Zone Runner Up</p>
+<p>Senior Girls West Zone 2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 - 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COVID - Suspension of School Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls National Champions</p>
 </td>
 </tr>
 <tr>
@@ -178,271 +187,70 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls Tier 1 Champions</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Junior Girls National Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys 3-vs-3 Tier 1 Champions</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Senior Girls National Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2013</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys 3-v-3 Tier 1 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys National Champions</p>
+<p>Junior Girls National Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2012</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls Zone 4th Junior Girls Regional Tier 1 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Girls Regional Tier 1 Champions</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>Senior Girls National Champions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2009</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys National Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys National 1st Runners up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Girls Zone 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Girls Zone 2nd</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys National Champions
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Girls Zone 1st Senior Girls Nationals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Junior Girls Zone 1st</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Schedule</h4>
-<p></p>
-<p><strong><u>Basketball Girls</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesdays (Tier 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:30pm - 5:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesdays (Tier 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:30pm - 5:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesdays (Tier 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm - 5:00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursdays (Tier 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:15pm - 4:15pm</p>
+<p>Senior Girls National Champions</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB3.jpg">
+</div>
 <p></p>
-<p><strong><u>Basketball Boys</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mondays (Tier 2 &amp; 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:30pm - 5:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursdays (Tier 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:15pm - 4:15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fridays (Tier 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><u>Training Schedule</u></h4>
+<p>Days of Training: Mondays, Tuesdays, Wednesdays, Thursdays
+<br>Time: 3:30pm to 5:30pm
+<br>Venue: Indoor Sports Hall</p>
+<p></p>
+<h4><u>Teachers-in-Charge</u></h4>
+<p>Main OIC: Mr Dominic Siew
+<br>CCA Teachers:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Mark Tan</p>
+</li>
+<li>
+<p>Mr Colin Chan</p>
+</li>
+<li>
+<p>Mdm Elaine Tan</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Basketball/BB1.jpg">
+</div>
+<p></p>
 <p></p>
