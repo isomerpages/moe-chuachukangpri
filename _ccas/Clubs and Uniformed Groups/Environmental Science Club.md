@@ -11,9 +11,11 @@ environmental education through experiential learning.</p>
 <p>We aim to help students become informed and proactive citizens dedicated
 to building a sustainable future for all.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Enviro/ENV3.png">
+</div>
 <p></p>
-<p></p>
-<p>Objectives</p>
+<h4><strong><u>Objectives</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To nurture passionate environmental stewards&nbsp;who care for the environment
@@ -24,7 +26,11 @@ and inspire sustainable living.</p>
 </li>
 </ul>
 <p></p>
-<p>Key Learning Experiences</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Enviro/ENV4.png">
+</div>
+<p></p>
+<h4><strong><u>Key Learning Experiences</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Upcycling workshops ( e.g self-watering planter)</p>
@@ -40,11 +46,22 @@ and inspire sustainable living.</p>
 </li>
 </ul>
 <p></p>
-<p>Training Details</p>
-<p>Day of Training: Thursday</p>
-<p>Time: 2:15pm to 4:15pm</p>
-<p>Venue: Science Room (Level 3)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Enviro/ENV1.png">
+</div>
 <p></p>
-<p>Teachers-in-Charge</p>
-<p>Main OIC: Mdm Wendy Tan</p>
-<p>CCA Teacher: Ms Wong Liyun</p>
+<h4><strong><u>Training Details</u></strong></h4>
+<p>
+<br>Day of Training: Thursday
+<br>Time: 2:15pm to 4:15pm
+<br>Venue: Science Room (Level 3)</p>
+<p></p>
+<h4><strong><u>Teachers-in-Charge</u></strong></h4>
+<p>
+<br>Main OIC: Mdm Wendy Tan
+<br>CCA Teacher: Ms Wong Liyun</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Enviro/ENV2.png">
+</div>
+<p></p>
