@@ -104,8 +104,8 @@ Celebration</p>
 <p>Venue: Dance Room</p>
 <p></p>
 <h4><strong><u>Teachers-in-charge</u></strong></h4>
-<p>Main OIC: Ms Teo Siew Peng</p>
-<p>CCA Teachers:</p>
+<p>Main OIC: Ms Teo Siew Peng
+<br>CCA Teachers:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Xi Jun</p>
