@@ -18,6 +18,10 @@ and community-based art.
 grow as reflective learners who appreciate art, culture, and their role
 in society.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Club session" src="/images/2026 Photos/2026 Art/ART1.png">
+</div>
+<p></p>
 <h4><strong><u>CCA Objectives</u></strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -44,6 +48,10 @@ and collaborative artworks.
 <br><strong>Leadership Tier 3:</strong> Student-led projects, mentoring of
 juniors, and large-scale artworks (e.g. murals, installations).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vendor Programme" src="/images/2026 Photos/2026 Art/ART2.png">
+</div>
+<p></p>
 <h4><strong><u>CCA Achievements</u></strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -56,6 +64,10 @@ Up for our Future”</p>
 by Tan Le Xin from 5HM3</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Showcase to P2s and parents" src="/images/2026 Photos/2026 Art/ART3.png">
+</div>
 <p></p>
 <h4><strong><u>Training Details</u></strong></h4>
 <p>Day of Training: Thursdays
@@ -76,4 +88,8 @@ by Tan Le Xin from 5HM3</p>
 <p>Mdm Raihanaa</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Showcase to P2s and parents" src="/images/2026 Photos/2026 Art/ART4.png">
+</div>
 <p></p>
