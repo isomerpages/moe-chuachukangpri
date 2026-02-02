@@ -77,6 +77,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Adjunct Customer Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Chen Wei Jian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Information and Communications Technology (ICT) Manager</p>
 </td>
 <td rowspan="1" colspan="1">
