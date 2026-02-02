@@ -31,6 +31,9 @@ following documents:</p>
 </li>
 </ul>
 <p></p>
+<p>The link to the form can be found here: <a href="https://go.gov.sg/1244pv" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/1244pv</a>
+</p>
+<p></p>
 <p>Successful applicants will be notified via email <u>2 weeks</u> after the
 closing date.</p>
 <p></p>
