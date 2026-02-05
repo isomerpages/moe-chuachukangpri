@@ -20,7 +20,7 @@ and others, growing into empowered learners through the performing arts.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Photos/2026 Malay Dance/MAL1.png">
 </div>
 <p></p>
-<h4><strong><u>CCA Objective</u></strong></h4>
+<h4><strong><u>CCA Objectives</u></strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
