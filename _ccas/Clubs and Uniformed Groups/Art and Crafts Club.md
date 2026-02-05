@@ -5,84 +5,91 @@ description: ""
 third_nav_title: Clubs and Uniformed Groups
 variant: tiptap
 ---
-<h4>E-Showcase</h4>
+<p>Art Club provides students with opportunities to explore visual arts through
+hands-on experiences, creative thinking, and collaborative projects. Students
+develop skills in drawing, painting, sculpture, mixed media, and digital
+art while learning to express ideas and emotions visually.
+<br>The CCA nurtures creativity, perseverance, and confidence as students
+experiment with materials and techniques. Anchored in school values, Art
+Club also exposes students to art as a means of communication and social
+awareness through projects such as murals, sustainability-themed artworks,
+and community-based art.
+<br>Through structured guidance and authentic art-making experiences, students
+grow as reflective learners who appreciate art, culture, and their role
+in society.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/aac1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Art Club session" src="/images/2026 Photos/2026 Art/ART1.png">
 </div>
+<p></p>
+<h4><strong><u>CCA Objectives</u></strong></h4>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Develop creativity, visual literacy, and artistic skills</p>
+</li>
+<li>
+<p>Foster resilience, self-expression, and confidence through art-making</p>
+</li>
+<li>
+<p>Encourage collaboration, empathy, and respect for diverse perspectives</p>
+</li>
+<li>
+<p>Cultivate appreciation for art, culture, and environmental sustainability</p>
+</li>
+</ol>
+<p></p>
+<h4><strong><u>Key Learning Experiences</u></strong></h4>
+<p></p>
+<p><strong>Foundational Tier 1:</strong> Exploration of basic art elements,
+techniques, and materials.
+<br><strong>Developmental Tier 2:</strong> Application of skills through thematic
+and collaborative artworks.
+<br><strong>Leadership Tier 3:</strong> Student-led projects, mentoring of
+juniors, and large-scale artworks (e.g. murals, installations).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aac2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Vendor Programme" src="/images/2026 Photos/2026 Art/ART2.png">
 </div>
-<p>Art and Crafts Club aspires to groom young artists by broadening their
-perspectives of art through different forms of Art Making and Appreciation.&nbsp;
-It also builds our students' confidence in self-expression through Art.</p>
-<h4>Achievements</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Achievements</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition in SYF 2021 Art Exhibition for Category C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition in SYF 2021 Art Exhibition for Category A
-<br>Certificate of Recognition in SYF 2021 Art Exhibition for Category B
-<br>Certificate of Participation in SYF 2021 Art Exhibition for Category C
-<br>Participation in Road Safety in collaboration with LTA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition in SYF for Category A
-<br>Certificate of Participation in SYF for Category B and C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation in SYF for Category A</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Schedule</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15pm to 4.15pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<h4><strong><u>CCA Achievements</u></strong></h4>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Recognition in SYF 2021 Art Exhibition for Category C “Gearing
+Up for our Future”</p>
+</li>
+<li>
+<p>Contribution of artwork at national level to Ministry of Foreign Affairs
+by Tan Le Xin from 5HM3</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Showcase to P2s and parents" src="/images/2026 Photos/2026 Art/ART3.png">
+</div>
+<p></p>
+<h4><strong><u>Training Details</u></strong></h4>
+<p>Day of Training: Thursdays
+<br>Time: 2:15pm to 4:15pm
+<br>Venue: Art Room 1 (Level 1) or Art Room 2 (Level 6)</p>
+<p></p>
+<h4><strong><u>Teachers-in-Charge</u></strong></h4>
+<p>Main OIC: Mrs Faith Teng</p>
+<p>CCA Teachers:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Zubaidah</p>
+</li>
+<li>
+<p>Mr Harry Huang</p>
+</li>
+<li>
+<p>Mdm Raihanaa</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Showcase to P2s and parents" src="/images/2026 Photos/2026 Art/ART4.png">
+</div>
 <p></p>
