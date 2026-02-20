@@ -109,6 +109,11 @@ are unwell, to protect the well-being of other students and staff. Together,
 we can create a healthy and safe environment for every student and staff
 in our school.</p>
 </li>
+<li>
+<p>For infectious diseases such as Hand, Foot Mouth Disease (HFMD)/Chicken
+Pox/Measles, obtain a medical clearance certificate from the doctor before
+the child returns to school.</p>
+</li>
 </ul>
 <p><u>Thermometer</u>
 </p>
