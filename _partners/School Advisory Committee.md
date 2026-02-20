@@ -17,11 +17,10 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td width="104" style="text-align: center;">
-<p>Mr Soh Yong Joo</p>
-<strong>Member</strong>
+<td width="130" style="text-align: center;">
+<p>Mr Soh Yong Joo<br><strong>Member</strong></p>
 </td>
-<td width="104" style="text-align: center;">
+<td width="130" style="text-align: center;">
 <p>Mr Chan Ren Hui, Ron <br><strong>Member</strong></p>
 </td>
 <td width="104" style="text-align: center;">
