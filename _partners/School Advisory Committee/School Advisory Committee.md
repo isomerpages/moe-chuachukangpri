@@ -21,15 +21,13 @@ student development.</p>
 
   
   <div style="margin-bottom:40px;">
-    <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="images/chair.jpg">
+    <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
     <p><strong>Dr Rebekah Lim</strong><br>
        <strong>Chairman</strong></p>
   </div>
-
-  
   <div style="display:flex;justify-content:center;gap:120px;flex-wrap:wrap;margin-bottom:50px;">
     <div>
-      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Ms Chng Jit Huee Cindy" src="images/vice.jpg">
+      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Ms Chng Jit Huee Cindy" src="/images/2026 SAC/Cindy_Chng.jpg">
       <p><strong>Ms Chng Jit Huee Cindy</strong><br>
          <strong>Vice Chairman</strong></p>
     </div>
