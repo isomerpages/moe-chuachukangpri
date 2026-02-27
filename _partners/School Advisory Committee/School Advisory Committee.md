@@ -20,7 +20,6 @@ student development.</p>
 <p></p>
 <div style="text-align:center; margin-top:30px;">
 
-  
   <div style="margin-bottom:40px;">
     <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
     <p><strong>Dr Rebekah Lim</strong><br>
