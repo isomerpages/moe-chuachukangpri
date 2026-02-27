@@ -7,7 +7,8 @@ third_nav_title: School Advisory Committee
 ---
 <h4><strong><u>Introduction</u></strong></h4>
 <p></p>
-<p>The School Advisory Committee (SAC) reflects the Ministry of Education’s
+<p style="text-align:justify;">
+The School Advisory Committee (SAC) reflects the Ministry of Education’s
 commitment to strong school-community partnerships. It provides a platform
 for citizens and permanent residents to support MOE education policies,
 collaborate with the school to enhance student learning and school effectiveness,
@@ -39,27 +40,27 @@ student development.</p>
   </div>
     <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Soh Yong Joo" src="images/m1.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
       <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Charn Ren Hui, Ron" src="images/m2.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/">
       <p><strong>Mr Charn Ren Hui, Ron</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Jaryl Chng" src="images/m3.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Jaryl Chng" src="/images/2026 SAC/">
       <p><strong>Mr Jaryl Chng</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="images/m4.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="/images/2026 SAC/">
       <p><strong>Dr Ho Yan Yin</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Huang Jianyun" src="images/m5.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Huang Jianyun" src="/images/2026 SAC/Huang_JY.jpg">
       <p><strong>Mr Huang Jianyun</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Ms Cindy Tan" src="images/m6.jpg">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Ms Cindy Tan" src="/images/2026 SAC/Cindy_Tan.jpg">
       <p><strong>Ms Cindy Tan</strong><br>Member</p>
     </div>
   </div>
