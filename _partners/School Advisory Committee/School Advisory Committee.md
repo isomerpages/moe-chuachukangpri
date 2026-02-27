@@ -32,30 +32,35 @@ student development.</p>
          <strong>Vice Chairman</strong></p>
     </div>
     <div>
-      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Mr Quek Swee Nee" src="/images/2026 SAC/">
+      <img style="width:120px;height:120px;border-radius:50%;  
+object-fit:cover;object-position:60% 2%;" alt="Mr Quek Swee Nee" src="/images/2026 SAC/P.png">
       <p><strong>Mr Quek Swee Nee</strong><br>
          <strong>Honorary Secretary</strong></p>
     </div>
   </div>
     <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
+      <img style="width:120px;height:120px;border-radius:50%;  
+object-fit:cover;object-position:60% 22%;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
       <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/">
+      <img style="width:120px;height:120px;border-radius:50%;  
+object-fit:cover;object-position:60% 3%;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/Ron_Charn.png">
       <p><strong>Mr Charn Ren Hui, Ron</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Jaryl Chng" src="/images/2026 SAC/">
+      <img style="width:120px;height:120px;border-radius:50%;  
+object-fit:cover;object-position:60% 2%;" alt="Mr Jaryl Chng" src="/images/2026 SAC/Jaryl_Chng.png">
       <p><strong>Mr Jaryl Chng</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="/images/2026 SAC/">
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="/images/2026 SAC/Dr_Ho.jpg">
       <p><strong>Dr Ho Yan Yin</strong><br>Member</p>
     </div>
     <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Huang Jianyun" src="/images/2026 SAC/Huang_JY.jpg">
+      <img style="width:120px;height:120px;border-radius:50%;  
+object-fit:cover;object-position:60% 2%;" alt="Mr Huang Jianyun" src="/images/2026 SAC/Huang_JY.jpg">
       <p><strong>Mr Huang Jianyun</strong><br>Member</p>
     </div>
     <div>
