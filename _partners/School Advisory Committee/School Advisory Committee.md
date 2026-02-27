@@ -71,7 +71,8 @@ object-fit:cover;object-position:60% 2%;" alt="Mr Huang Jianyun" src="/images/20
 </div>
 <p></p>
 <h4><strong><u>School-Industry Partnership</u></strong></h4>
-<p>With the support of our Vice Chairperson, Ms Cindy Chng, Chua Chu Kang
+<p style="text-align:justify;">
+With the support of our Vice Chairperson, Ms Cindy Chng, Chua Chu Kang
 Primary School has established a meaningful industry partnership with Merck
 Sharp &amp; Dohme (MSD).
 <br>To equip our students with future-ready skills and competencies, the school
@@ -84,7 +85,8 @@ the key skillsets required to succeed in a global biopharmaceutical company.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 SAC/Picture2.jpg">
 </div>
 <p></p>
-<p>In addition, in 2025, CCKPS key personnel embarked on a leadership learning
+<p style="text-align:justify;">
+In addition, in 2025, CCKPS key personnel embarked on a leadership learning
 journey to MSD’s headquarters, where they gained valuable insights into
 HR best practices through engaging team-building activities. We look forward
 to this continued partnership with MSD.</p>
