@@ -32,13 +32,12 @@ student development.</p>
          <strong>Vice Chairman</strong></p>
     </div>
     <div>
-      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Mr Quek Swee Nee" src="images/secretary.jpg">
+      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Mr Quek Swee Nee" src="/images/2026 SAC/">
       <p><strong>Mr Quek Swee Nee</strong><br>
          <strong>Honorary Secretary</strong></p>
     </div>
   </div>
-  
-  <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
+    <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
     <div>
       <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Soh Yong Joo" src="images/m1.jpg">
       <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
