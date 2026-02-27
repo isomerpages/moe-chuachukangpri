@@ -17,61 +17,65 @@ their expertise and perspectives to promote school excellence and holistic
 student development.</p>
 <p></p>
 <h4><strong><u>SAC Members</u></strong></h4>
-<p></p>
 <div style="text-align:center; margin-top:30px;">
-
+  
   <div style="margin-bottom:40px;">
-		<a href="https://www.chuachukangpri.moe.edu.sg/sac-chairman/">
-    <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
+    <img style="width:130px;height:130px;border-radius:50%;
+                object-fit:cover;object-position:50% 30%;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
     <p><strong>Dr Rebekah Lim</strong><br>
        <strong>Chairman</strong></p>
-		</a>
+    <img style="width:120px;height:120px;border-radius:50%;
+                object-fit:cover;object-position:50% 3%;margin-top:30px;" alt="Ms Chng Jit Huee Cindy" src="/images/2026 SAC/Cindy_Chng.jpg">
+    <p><strong>Ms Chng Jit Huee Cindy</strong><br>
+       <strong>Vice Chairperson</strong></p>
   </div>
-  <div style="display:flex;justify-content:center;gap:120px;flex-wrap:wrap;margin-bottom:50px;">
+  
+  <div style="display:flex;justify-content:flex-end;
+              max-width:800px;margin:-260px auto 60px;">
     <div>
-      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Ms Chng Jit Huee Cindy" src="/images/2026 SAC/Cindy_Chng.jpg">
-      <p><strong>Ms Chng Jit Huee Cindy</strong><br>
-         <strong>Vice Chairman</strong></p>
-    </div>
-    <div>
-      <img style="width:120px;height:120px;border-radius:50%;  
-object-fit:cover;object-position:60% 2%;" alt="Mr Quek Swee Nee" src="/images/2026 SAC/P.png">
+      <img style="width:120px;height:120px;border-radius:50%;
+                  object-fit:cover;object-position:50% 3%;" alt="Mr Quek Swee Nee" src="/images/2026 SAC/P.png">
       <p><strong>Mr Quek Swee Nee</strong><br>
          <strong>Honorary Secretary</strong></p>
     </div>
   </div>
-    <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
-    <div>
-      <img style="width:120px;height:120px;border-radius:50%;  
-object-fit:cover;object-position:60% 22%;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
+
+<table style="margin:0 auto;border-collapse:collapse;text-align:center;">
+  <tbody><tr>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 25%;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
       <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
-    </div>
-    <div>
-      <img style="width:120px;height:120px;border-radius:50%;  
-object-fit:cover;object-position:60% 3%;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/Ron_Charn.png">
+    </td>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 2%;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/Ron_Charn.png">
       <p><strong>Mr Charn Ren Hui, Ron</strong><br>Member</p>
-    </div>
-    <div>
-      <img style="width:120px;height:120px;border-radius:50%;  
-object-fit:cover;object-position:60% 2%;" alt="Mr Jaryl Chng" src="/images/2026 SAC/Jaryl_Chng.png">
+    </td>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 3%;" alt="Mr Jaryl Chng" src="/images/2026 SAC/Jaryl_Chng.png">
       <p><strong>Mr Jaryl Chng</strong><br>Member</p>
-    </div>
-    <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="/images/2026 SAC/Dr_Ho.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 30%;" alt="Dr Ho Yan Yin" src="/images/2026 SAC/Dr_Ho.jpg">
       <p><strong>Dr Ho Yan Yin</strong><br>Member</p>
-    </div>
-    <div>
-      <img style="width:120px;height:120px;border-radius:50%;  
-object-fit:cover;object-position:60% 2%;" alt="Mr Huang Jianyun" src="/images/2026 SAC/Huang_JY.jpg">
+    </td>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 3%;" alt="Mr Huang Jianyun" src="/images/2026 SAC/Huang_JY.jpg">
       <p><strong>Mr Huang Jianyun</strong><br>Member</p>
-    </div>
-    <div>
-      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Ms Cindy Tan" src="/images/2026 SAC/Cindy_Tan.jpg">
+    </td>
+    <td style="padding:20px;width:220px;">
+      <img style="width:110px;height:110px;border-radius:50%;
+                  object-fit:cover;object-position:50% 30%;" alt="Ms Cindy Tan" src="/images/2026 SAC/Cindy_Tan.jpg">
       <p><strong>Ms Cindy Tan</strong><br>Member</p>
-    </div>
-  </div>
-</div>
-<p></p>
+    </td>
+  </tr>
+</tbody></table>
 <h4><strong><u>School-Industry Partnership</u></strong></h4>
 <p style="text-align:justify;">
 With the support of our Vice Chairperson, Ms Cindy Chng, Chua Chu Kang
@@ -115,4 +119,4 @@ to this continued partnership with MSD.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></div>
