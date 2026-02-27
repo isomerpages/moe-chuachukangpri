@@ -18,8 +18,7 @@ student development.</p>
 <p></p>
 <h4 style="text-align:left;"><strong><u>SAC Members</u></strong></h4>
 <div style="text-align:center; margin-top:30px;">
-  
-  <div style="margin-bottom:40px;">
+    <div style="margin-bottom:40px;">
     <img style="width:130px;height:130px;border-radius:50%;
                 object-fit:cover;object-position:50% 30%;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
     <p><strong>Dr Rebekah Lim</strong><br>
@@ -29,8 +28,7 @@ student development.</p>
     <p><strong>Ms Chng Jit Huee Cindy</strong><br>
        <strong>Vice Chairperson</strong></p>
   </div>
-  
-  <div style="display:flex;justify-content:flex-end;
+    <div style="display:flex;justify-content:flex-end;
               max-width:800px;margin:-260px auto 60px;">
     <div>
       <img style="width:120px;height:120px;border-radius:50%;
