@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - SAC/School Advisory Committee.md
-      - SAC/.keep
+      - School Advisory Committee/School Advisory Committee.md
+      - School Advisory Committee/.keep
       - Parent Support Group.md
       - Alumni.md
