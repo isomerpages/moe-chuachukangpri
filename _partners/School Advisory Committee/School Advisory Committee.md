@@ -16,7 +16,7 @@ and help achieve the Desired Outcomes of Education. SAC members contribute
 their expertise and perspectives to promote school excellence and holistic
 student development.</p>
 <p></p>
-<h4><strong><u>SAC Members</u></strong></h4>
+<h4 style="text-align:left;"><strong><u>SAC Members</u></strong></h4>
 <div style="text-align:center; margin-top:30px;">
   
   <div style="margin-bottom:40px;">
@@ -76,7 +76,7 @@ student development.</p>
     </td>
   </tr>
 </tbody></table>
-<h4><strong><u>School-Industry Partnership</u></strong></h4>
+<h4 style="text-align:left;"><strong><u>School-Industry Partnership</u></strong></h4>
 <p style="text-align:justify;">
 With the support of our Vice Chairperson, Ms Cindy Chng, Chua Chu Kang
 Primary School has established a meaningful industry partnership with Merck
