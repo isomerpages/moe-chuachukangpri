@@ -6,15 +6,17 @@ variant: markdown
 ---
 <p><strong>Learning for Life Programme</strong>
 </p>
-<p>The school’s <strong>Learning for Life Programme</strong> (Community Service
+<p style="text-align:justify;">
+The school’s <strong>Learning for Life Programme</strong> (Community Service
 &amp; Leadership), introduced in 2014, aims to equip students with the <strong>values</strong>, <strong>attitudes</strong> and <strong>habits</strong> needed
 to be <strong>personally and socially effective</strong>.&nbsp;</p>
-<p>Anchored in Stephen Covey’s 7 Habits, our student leadership programme
+<p style="text-align:justify;">
+Anchored in Stephen Covey’s 7 Habits, our student leadership programme
 develops both <strong>intrapersonal and interpersonal skills</strong>, believing
 that <strong>every student is a leader</strong>. Students learn personal
 and social effectiveness through a structured curriculum and platforms
 such as <strong>self-exploration</strong>, <strong>Grow in Values activities</strong>, <strong>recess activities</strong>, <strong>class projects </strong>and <strong>CCAs</strong>.&nbsp;</p>
-<p>
+<p style="text-align:justify;">
 <br>The school also provides students with various <strong>Values in Action (VIA)</strong> opportunities
 to <strong>give back to the community</strong> and<strong> apply their interpersonal values and skills.</strong>
 </p>
@@ -27,7 +29,7 @@ to <strong>give back to the community</strong> and<strong> apply their interpers
 <p><strong>CCKPS Student Leadership Framework</strong>
 </p>
 <p></p>
-<p>The CCKPS <strong>Student Leadership Framework</strong> is designed to help
+<p style="text-align:justify;">The CCKPS <strong>Student Leadership Framework</strong> is designed to help
 every student grow into a confident and responsible leader. At the heart
 of the framework is a <strong>caring and supportive school culture</strong>,
 where students are encouraged to speak up, take initiative, and learn through
@@ -57,6 +59,7 @@ confident, caring, and ready to lead in school and beyond.</p>
 <hr>
 <p><strong>Our Tiers of Leadership</strong>
 <br>
+</p><p style="text-align:justify;">
 <br>At CCKPS, we believe that<strong> every student is a leader</strong> who
 has the capacity to make a positive difference. Leadership is not defined
 by the size of a role or task; rather, it is reflected in everyday actions
@@ -86,6 +89,7 @@ the school with confidence, integrity, and commitment.</p>
 <hr>
 <p><strong>Values in Action (VIA)</strong>
 <br>
+</p><p style="text-align:justify;">
 <br><strong>The Design Thinking Proces</strong>s underpins our Values-in-Action
 (VIA) programmes, enabling students to empathise with the needs of others
 and design meaningful, purposeful solutions. Through this people-centred
@@ -95,7 +99,8 @@ real-world issues, nurturing empathy and social responsibility.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026 LLP Photos/Design_Thinking.jpg">
 </div>
 <p></p>
-<p>VIA serves as an important platform for the development of <strong>student agency,</strong> where
+<p style="text-align:justify;">
+VIA serves as an important platform for the development of <strong>student agency,</strong> where
 students are empowered with <strong>voice, choice, and ownership</strong> over
 their learning. Through authentic service-learning experiences, students
 take initiative, make informed decisions, and reflect on the impact of
