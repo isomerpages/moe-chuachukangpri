@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - School Advisory Committee/SAC Vice Chairman.md
-      - School Advisory Committee/SAC Chairman.md
-      - School Advisory Committee/School Advisory Committee.md
       - School Advisory Committee/.keep
+      - School Advisory Committee/School Advisory Committee.md
+      - School Advisory Committee/SAC Chairman.md
+      - School Advisory Committee/SAC Vice Chairman.md
       - Parent Support Group.md
       - Alumni.md
