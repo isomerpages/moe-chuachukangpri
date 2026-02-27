@@ -21,9 +21,11 @@ student development.</p>
 <div style="text-align:center; margin-top:30px;">
 
   <div style="margin-bottom:40px;">
+		<a>
     <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
     <p><strong>Dr Rebekah Lim</strong><br>
        <strong>Chairman</strong></p>
+		</a>
   </div>
   <div style="display:flex;justify-content:center;gap:120px;flex-wrap:wrap;margin-bottom:50px;">
     <div>
