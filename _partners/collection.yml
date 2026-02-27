@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - SAC Chairman.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - Alumni.md
