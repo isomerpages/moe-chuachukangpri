@@ -17,8 +17,55 @@ student development.</p>
 <p></p>
 <h4><strong><u>SAC Members</u></strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 SAC/SAC_Org_Chart_2026.jpg">
+<div style="text-align:center; margin-top:30px;">
+
+  
+  <div style="margin-bottom:40px;">
+    <img style="width:130px;height:130px;border-radius:50%;object-fit:cover;" alt="Dr Rebekah Lim" src="images/chair.jpg">
+    <p><strong>Dr Rebekah Lim</strong><br>
+       <strong>Chairman</strong></p>
+  </div>
+
+  
+  <div style="display:flex;justify-content:center;gap:120px;flex-wrap:wrap;margin-bottom:50px;">
+    <div>
+      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Ms Chng Jit Huee Cindy" src="images/vice.jpg">
+      <p><strong>Ms Chng Jit Huee Cindy</strong><br>
+         <strong>Vice Chairman</strong></p>
+    </div>
+    <div>
+      <img style="width:120px;height:120px;border-radius:50%;object-fit:cover;" alt="Mr Quek Swee Nee" src="images/secretary.jpg">
+      <p><strong>Mr Quek Swee Nee</strong><br>
+         <strong>Honorary Secretary</strong></p>
+    </div>
+  </div>
+  
+  <div style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Soh Yong Joo" src="images/m1.jpg">
+      <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
+    </div>
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Charn Ren Hui, Ron" src="images/m2.jpg">
+      <p><strong>Mr Charn Ren Hui, Ron</strong><br>Member</p>
+    </div>
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Jaryl Chng" src="images/m3.jpg">
+      <p><strong>Mr Jaryl Chng</strong><br>Member</p>
+    </div>
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Dr Ho Yan Yin" src="images/m4.jpg">
+      <p><strong>Dr Ho Yan Yin</strong><br>Member</p>
+    </div>
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Mr Huang Jianyun" src="images/m5.jpg">
+      <p><strong>Mr Huang Jianyun</strong><br>Member</p>
+    </div>
+    <div>
+      <img style="width:110px;height:110px;border-radius:50%;object-fit:cover;" alt="Ms Cindy Tan" src="images/m6.jpg">
+      <p><strong>Ms Cindy Tan</strong><br>Member</p>
+    </div>
+  </div>
 </div>
 <p></p>
 <h4><strong><u>School-Industry Partnership</u></strong></h4>
