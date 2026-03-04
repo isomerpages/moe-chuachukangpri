@@ -45,21 +45,19 @@ student development.</p>
               border-collapse:collapse;
               text-align:center;
               border:none;">
-  <tbody>
-    <tr style="border:none;">
-      <td style="padding:20px;width:220px;border:none;">
-        <img style="width:110px;height:110px;border-radius:50%;
+<tbody><tr style="border:none;">
+<td style="padding:20px;width:220px;border:none;">
+<img style="width:110px;height:110px;border-radius:50%;
                     object-fit:cover;object-position:50% 25%;border:1px solid #000;" alt="Mr Soh Yong Joo" src="/images/2026 SAC/Soh_YJ.jpg">
-        <p><strong>Mr Soh Yong Joo</strong><br>Member</p>
-      </td>
-      <td style="padding:20px;width:220px;border:none;">
-        <img style="width:110px;height:110px;border-radius:50%;
+<p><strong>Mr Soh Yong Joo</strong><br>Member</p>
+ </td>
+ <td style="padding:20px;width:220px;border:none;">
+ <img style="width:110px;height:110px;border-radius:50%;
                     object-fit:cover;object-position:50% 2%;border:1px solid #000;" alt="Mr Charn Ren Hui, Ron" src="/images/2026 SAC/Ron_Charn.png">
         <p><strong>Mr Charn Ren Hui, Ron</strong><br>Member</p>
       </td>
       <td style="padding:20px;width:220px;border:none;">
-        <img style="width:110px;height:110px;border-radius:50%;
-                    object-fit:cover;object-position:50% 3%;border:1px solid #000;" alt="Mr Jaryl Chng" src="/images/2026 SAC/Jaryl_Chng.png">
+        <img style="width:110px;height:110px;border-radius:50%; object-fit:cover;object-position:50% 3%;border:1px solid #000;" alt="Mr Jaryl Chng" src="/images/2026 SAC/Jaryl_Chng.png">
         <p><strong>Mr Jaryl Chng</strong><br>Member</p>
       </td>
     </tr>
@@ -80,8 +78,7 @@ student development.</p>
         <p><strong>Ms Cindy Tan</strong><br>Member</p>
       </td>
     </tr>
-  </tbody>
-</table>
+</tbody></table>
 <h4 style="text-align:left;"><strong><u>School-Industry Partnership</u></strong></h4>
 <p style="text-align:justify;">
 With the support of our Vice Chairperson, Ms Cindy Chng, Chua Chu Kang
