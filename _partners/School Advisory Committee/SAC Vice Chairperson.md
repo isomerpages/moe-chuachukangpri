@@ -12,7 +12,7 @@ third_nav_title: School Advisory Committee
 <p><strong>SAC Vice-Chairperson, Ms Chng Jit Huee Cindy</strong> is currently
 serving her second term as <strong>Vice-Chairman</strong> of our School Advisory
 Committee.</p>
-<p>She is an Associate Director, Strategic Partnerships, Singapore, Malaysia
+<p style="text-align:justify;">She is an Associate Director, Strategic Partnerships, Singapore, Malaysia
 &amp; Brunei, Merck Sharp &amp; Dohme.&nbsp; As an engaged grassroots leader,
 she facilitates the introduction of community programmes to the school,
 particularly benefiting students facing financial difficulties.</p>
