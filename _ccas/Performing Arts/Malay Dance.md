@@ -1,9 +1,9 @@
 ---
 title: Malay Dance
-permalink: /ccas/Performing-Arts/malay-dance/
+permalink: /ccas/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <p>The Malay Dance CCA provides students with opportunities to appreciate
 and practice traditional Malay dances that reflect cultural heritage and
