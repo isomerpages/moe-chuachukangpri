@@ -13,25 +13,9 @@ variant: tiptap
 <p>Submission of Application for Parent Volunteer in Chua Chu Kang Primary
 is now open and will close on <strong><u>28 Feb 2026</u></strong> or once
 the school had reached the maximum number of applications, whichever is
-earlier.
-<br>
-<br>The total hours of voluntary service may be shared by both parents.</p>
+earlier.</p>
 <p></p>
-<p>Before filling in the form, please ensure you have digital copies of the
-following documents:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Both parents’ identification cards</p>
-</li>
-<li>
-<p>Child’s Birth Certificate</p>
-</li>
-<li>
-<p>Exit Permit (for Singapore PR only)</p>
-</li>
-</ul>
-<p></p>
-<p>The link to the form can be found here: <a href="https://go.gov.sg/1244pv" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/1244pv</a>
+<p><strong>The Phase 2B Parent Volunteer application has officially closed.&nbsp; No further applications will be accepted for this phase.</strong>
 </p>
 <p></p>
 <p>Successful applicants will be notified via email <u>2 weeks</u> after the
