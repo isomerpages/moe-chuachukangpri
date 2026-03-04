@@ -10,7 +10,7 @@ third_nav_title: School Advisory Committee
 </div>
 <p><strong>SAC Chairperson, Dr Rebekah Lim</strong> is presently in her second
 term as <strong>Chairman</strong> of our School Advisory Committee.</p>
-<p>She is an Associate Professor at the Singapore University of Social Sciences.
+<p style="text-align:justify;">She is an Associate Professor at the Singapore University of Social Sciences.
 She concentrates particularly on student welfare and the school's strategic
 planning. Leveraging her expertise as a leader in tertiary education, Dr
 Lim offers invaluable guidance on emerging trends in education and learning
