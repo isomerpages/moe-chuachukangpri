@@ -19,11 +19,12 @@ student development.</p>
 <h4 style="text-align:left;"><strong><u>SAC Members</u></strong></h4>
 <div style="text-align:center; margin-top:30px;">
     <div style="margin-bottom:40px;">
+			<a href="/sac-chairman/">
 			<img style="width:130px;height:130px;border-radius:50%;
                 object-fit:cover;object-position:50% 30%;" alt="Dr Rebekah Lim" src="/images/2026 SAC/Rebekah_Lim.jpg">
 			<p><strong>Dr Rebekah Lim</strong><br>
-       <strong>Chairman</strong></p>
-			
+       <strong>Chairperson</strong></p>
+			</a>
     <img style="width:120px;height:120px;border-radius:50%;
                 object-fit:cover;object-position:50% 3%;margin-top:30px;" alt="Ms Chng Jit Huee Cindy" src="/images/2026 SAC/Cindy_Chng.jpg">
     <p><strong>Ms Chng Jit Huee Cindy</strong><br>
