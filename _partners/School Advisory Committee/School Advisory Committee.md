@@ -25,10 +25,12 @@ student development.</p>
 			<p><strong>Dr Rebekah Lim</strong><br>
        <strong>Chairperson</strong></p>
 			</a>
+			<a href="/sac-vice-chairman/">
     <img style="width:120px;height:120px;border-radius:50%;
                 object-fit:cover;object-position:50% 3%;margin-top:30px;" alt="Ms Chng Jit Huee Cindy" src="/images/2026 SAC/Cindy_Chng.jpg">
     <p><strong>Ms Chng Jit Huee Cindy</strong><br>
        <strong>Vice Chairperson</strong></p>
+			</a>
   </div>
     <div style="display:flex;justify-content:flex-end;
               max-width:800px;margin:-260px auto 60px;">
