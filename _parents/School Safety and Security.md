@@ -159,4 +159,12 @@ personal hand sanitiser to keep their hands clean.</p>
 </li>
 </ul>
 <p></p>
-	</details>
+<p><u>Declaration of Medical Conditions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+	<p>Parents must notify <b><u>Form Teachers and Year Heads</u></b> of any life-threatening medical conditions affecting their child, including but not limited to severe allergic reactions (anaphylaxis), epilepsy, and asthma. Parents bear full responsibility for ensuring their child carries the appropriate medication kit (inhalers, EpiPens, oral medications, etc.) to school each day and to all school-organised activities, regardless of timing or location. Additionally, parents must work with the school personnel to establish proper protocols for medication administration when required.</p>
+</li>
+</ul>
+<p></p>
+</details>
