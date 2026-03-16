@@ -2,9 +2,12 @@
 title: School Safety and Security
 permalink: /parents/school-safety-and-security/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<h3><u>Management of Traffic Situation</u></h3>
+<details>
+	<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;">
+		<u>Management of Traffic Situation</u>
+	</summary>
 <ul>
 <li>
 <p>The main entry and exit points of the school are Gate 1 and Gate 4.</p>
@@ -58,7 +61,12 @@ the request of a decal.</p>
 </ul>
 </li>
 </ul>
-<h3><u>Visitor Parking</u></h3>
+</details>
+<br>
+<details>
+	<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;">
+	<u>Visitor Parking</u>
+	</summary>
 <ul>
 <li>
 <p>For the safety and security of our students and staff, all unauthorised
@@ -78,7 +86,10 @@ registration at the Guard Post. These must be worn at all times while in
 the school premises for easy identification.</p>
 </li>
 </ul>
-<h3><u>Visitors to the School</u></h3>
+	</details>
+	<br>
+<details>
+	<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Visitors to the School</u></summary>
 <p>Visitors/contractors/vendors/volunteers are to report to the Security
 Guard Post to sign-in and a Visitor Pass will be issued for easy identification
 by the school staff.&nbsp; The Visitor Pass <strong>must be prominently displayed</strong> on
@@ -88,12 +99,18 @@ and they should not move beyond the General Office, unless accompanied
 by school staff. Parents are strongly encouraged to make prior appointments
 with teachers before coming to the school as teachers are likely to be
 engaged during the school hours.</p>
-<h3><u>Opening Time of School Gates during the School Term</u></h3>
+	</details>
+	<br>
+<details>
+<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Opening Time of School Gates during the School Term</u></summary>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Gate_Hours.jpg">
 </div>
-<h3><u>Social Responsibility</u></h3>
+	</details>
+	<br>
+<details>
+<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Social Responsibility</u></summary>
 <p></p>
 <p><u>Unwell Students</u>
 </p>
@@ -142,3 +159,12 @@ personal hand sanitiser to keep their hands clean.</p>
 </li>
 </ul>
 <p></p>
+<p><u>Declaration of Medical Conditions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+	<p>Parents must notify <b><u>Form Teachers and Year Heads</u></b> of any life-threatening medical conditions affecting their child, including but not limited to severe allergic reactions (anaphylaxis), epilepsy, and asthma. Parents bear full responsibility for ensuring their child carries the appropriate medication kit (inhalers, EpiPens, oral medications, etc.) to school each day and to all school-organised activities, regardless of timing or location. Additionally, parents must work with the school personnel to establish proper protocols for medication administration when required.</p>
+</li>
+</ul>
+<p></p>
+</details>
