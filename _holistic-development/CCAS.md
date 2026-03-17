@@ -111,7 +111,7 @@ To achieve these, there are 14 CCAS offered under 3 categories.
   </tr>
   <tr>
     <td class="tg-xccu"><a href="/ccas/Performing-Arts/chinese-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
-    <td class="tg-9ve2"><a href="/ccas/Performing-Arts/malay-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
+    <td class="tg-9ve2"><a href="/ccas/performing-arts/malay-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
     <td class="tg-9ve2"><a href="/ccas/Performing-Arts/indian-dance/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#134693">read more</span></a></td>
   </tr>
 </tbody>
