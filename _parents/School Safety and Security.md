@@ -110,7 +110,7 @@ engaged during the school hours.</p>
 </details>
 <br>
 <details>
-<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Social Responsibility</u></summary>
+<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Health &amp; Social Responsibility</u></summary>
 <p></p>
 <p><u>Unwell Students</u>
 </p>
