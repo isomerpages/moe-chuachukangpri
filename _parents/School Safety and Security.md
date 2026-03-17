@@ -86,10 +86,10 @@ registration at the Guard Post. These must be worn at all times while in
 the school premises for easy identification.</p>
 </li>
 </ul>
-	</details>
-	<br>
+</details>
+<br>
 <details>
-	<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Visitors to the School</u></summary>
+<summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Visitors to the School</u></summary>
 <p>Visitors/contractors/vendors/volunteers are to report to the Security
 Guard Post to sign-in and a Visitor Pass will be issued for easy identification
 by the school staff.&nbsp; The Visitor Pass <strong>must be prominently displayed</strong> on
@@ -99,16 +99,16 @@ and they should not move beyond the General Office, unless accompanied
 by school staff. Parents are strongly encouraged to make prior appointments
 with teachers before coming to the school as teachers are likely to be
 engaged during the school hours.</p>
-	</details>
-	<br>
+</details>
+<br>
 <details>
 <summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Opening Time of School Gates during the School Term</u></summary>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Gate_Hours.jpg">
 </div>
-	</details>
-	<br>
+</details>
+<br>
 <details>
 <summary style="font-size:1.3em; font-weight:bold; cursor: pointer;"><u>Social Responsibility</u></summary>
 <p></p>
