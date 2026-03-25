@@ -32,7 +32,7 @@ segment, teams generated innovative and non-obvious solutions tailored
 to their selected personas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026SD/DesignThinking2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026SD/DesignThinking4.jpg">
 </div>
 <p></p>
 <p style="text-align: justify;">The experience provided valuable opportunities to rethink existing school
@@ -45,6 +45,6 @@ spaces that nurture creativity, collaboration, and a strong sense of ownership
 in learning in CCKPS.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026SD/DesignThinking3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026SD/DesignThinking5.jpg">
 </div>
 <p></p>
