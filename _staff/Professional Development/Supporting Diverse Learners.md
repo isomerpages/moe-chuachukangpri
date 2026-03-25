@@ -1,8 +1,9 @@
 ---
-title: Professional Development
+title: Supporting Diverse Learners
 permalink: /professional-development/
 variant: markdown
 description: ""
+third_nav_title: Professional Development
 ---
 <h3><strong>Empowering Teachers to Support Diverse Learners through Student Agency</strong></h3>
 <p></p>

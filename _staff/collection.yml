@@ -2,7 +2,9 @@ collections:
   staff:
     output: true
     order:
-      - Professional Development.md
+      - Professional Development/Design Thinking.md
+      - Professional Development/Supporting Diverse Learners.md
+      - Professional Development/.keep
       - Useful Links for Staff.md
       - Caring Teacher Award.md
       - Star Awards.md
