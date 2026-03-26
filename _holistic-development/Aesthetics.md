@@ -57,63 +57,61 @@ meaning through the visual arts.</p>
 where students explore materials, develop ideas, refine artistic expression
 and communicate meaning through a variety of art forms and media.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Transforming Waste into Art: Abstract Animal Sculptures<br></strong>Students
-explore creative transformation by using recycled materials to build abstract
-animal sculptures, developing skills in form, structure, imagination and
-colour while learning about sustainable artmaking.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Shaping Ideas in Clay: Sculpture Exploration</strong>
-<br>Students deepen their understanding of three-dimensional art through clay
-sculpting, experimenting with form, texture and structure to create imaginative
-and interactive sculptures inspired by personal experiences and themes
-such as family and relationships. Through this process, students develop
-creativity, confidence and the ability to express ideas through sculptural
-form and colour.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Expressing Ideas through Chinese Brush Painting</strong>
-<br>Students explore traditional Chinese brush painting techniques while developing
-sensitivity to line, ink and composition. Through guided exploration, students
-learn to express mood and ideas through controlled brushwork and visual
-balance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Digital Art and Visual Communication</strong>
-<br>Students explore digital tools to create artworks that communicate ideas
-and stories visually. Building on their understanding of form, colour and
-composition, students learn to combine images, text and design elements
-to express meaning creatively through digital media.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
+  <tbody><tr>
+    <td style="width:15%; padding:12px; background:#f2f2f2; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P3
+    </td>
+    <td style="width:85%; padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Transforming Waste into Art: Abstract Animal Sculptures
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore creative transformation by using recycled materials to build abstract animal sculptures, developing skills in form, structure, imagination and colour while learning about sustainable artmaking.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px; background:#f9f9f9; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P4
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Shaping Ideas in Clay: Sculpture Exploration
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students deepen their understanding of three-dimensional art through clay sculpting, experimenting with form, texture and structure to create imaginative and interactive sculptures inspired by personal experiences and themes such as family and relationships. Through this process, students develop creativity, confidence and the ability to express ideas through sculptural form and colour.
+			</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px; background:#f2f2f2; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P5
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Expressing Ideas through Chinese Brush Painting
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore traditional Chinese brush painting techniques while developing sensitivity to line, ink and composition. Through guided exploration, students learn to express mood and ideas through controlled brushwork and visual balance.
+			</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px; background:#f9f9f9; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P6
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Digital Art and Visual Communication
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore digital tools to create artworks that communicate ideas and stories visually. Building on their understanding of form, colour and composition, students learn to combine images, text and design elements to express meaning creatively through digital media.
+			</p>
+    </td>
+  </tr>
+</tbody></table>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
