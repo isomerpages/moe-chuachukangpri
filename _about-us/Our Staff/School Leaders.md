@@ -26,7 +26,7 @@ variant: markdown
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Swee Nee</p>
+	<p> <a href="mailto:quek_swee_nee@schools.gov.sg">Mr Quek Swee Nee</a></p>
 </td>
 </tr>
 <tr>
