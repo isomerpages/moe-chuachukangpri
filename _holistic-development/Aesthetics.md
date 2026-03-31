@@ -2,141 +2,219 @@
 title: Aesthetics
 permalink: /holistic-development/aesthetics/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<h5><strong>Our Aesthetic Department Framework</strong></h5>
-<p>Creating a&nbsp;<strong>Vibrant Aesthetics Culture (VAC)</strong>&nbsp;through:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Empowering our students to be a confident Artist (Resilience)</p>
-</li>
-<li>
-<p>Enabling them to think critically through the understanding of different
-perspectives and solve problems in a critical manner (Respect)</p>
-</li>
-<li>
-<p>Allowing them to get in touch with their inner voice – Emotions and Expressions
-(Integrity)</p>
-</li>
-<li>
-<p>Facilitating connection with other human beings, creating empathy through
-the Arts (Care)</p>
-</li>
-<li>
-<p>Creating diversified thinking through the understanding of different Global
-Cultures (Respect)</p>
-</li>
-</ol>
-<h5><strong>Our Art Curriculum</strong></h5>
-<p><strong>Approaches:</strong>
+<h4><strong><u>Aesthetics at CCKPS</u></strong></h4>
+<p>Our vision for the Arts at CCKPS – To create a Vibrant Arts Culture (VAC)
+through purposeful learning. This includes nurturing creativity, expression,
+and artistic growth across every level of our school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES___Graphic1.jpg">
+</div>
+<p></p>
+<p><strong><u>Our Art Curriculum</u></strong>
+<br>The Art curriculum at CCKPS nurtures curiosity, creativity and confidence
+through exploration, expression and meaningful art-making in support of
+the school’s VAC.</p>
+<p><strong><u>Approaches:</u></strong>
+<br>Our Art curriculum adopts an inquiry-based approach that values both the
+creative process and the final artwork. Students are encouraged to explore,
+experiment and reflect on their learning through meaningful art-making
+experiences.</p>
+<p></p>
+<p>Through student-centred lessons, students develop confidence, curiosity
+and imagination while learning to express ideas visually. Artistic vocabulary
+is introduced to support students in discussing artworks and giving constructive
+feedback.</p>
+<p></p>
+<p>Students are also provided with broad exposure to diverse art forms and
+media, allowing them to explore different ways of creating and expressing
+meaning through the visual arts.</p>
+<p></p>
+<p><strong><u>Art Curriculum</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Inquiry-based learning approach where we emphasis both the process and
-the final product.&nbsp;</p>
-</li>
-<li>
-<p>Develop artistic vocabulary to enable them to give constructive feedback
-of artworks.&nbsp;</p>
-</li>
-<li>
-<p>Student-centric lessons to boost confidence, curiosity and imagination
-through active class discussions and enjoyment in art making.</p>
-</li>
-<li>
-<p>Create a broad-based exposure of different art forms through a variety
-of visual art programmes to engage students with different interests, needs
-and abilities.</p>
-</li>
-</ul>
-<p><strong>Art modular programmes:</strong>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES4.jpg">
+</div>
+<p></p>
+<p><strong><u>Art Modular Programmes:</u></strong>
+<br>Our modular art programmes are designed as a progressive learning journey
+where students explore materials, develop ideas, refine artistic expression
+and communicate meaning through a variety of art forms and media.</p>
+<p></p>
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
+  <tbody><tr>
+    <td style="width:15%; padding:12px; background:#f2f2f2; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P3
+    </td>
+    <td style="width:85%; padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Transforming Waste into Art: Abstract Animal Sculptures
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore creative transformation by using recycled materials to build abstract animal sculptures, developing skills in form, structure, imagination and colour while learning about sustainable artmaking.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px; background:#f9f9f9; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P4
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Shaping Ideas in Clay: Sculpture Exploration
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students deepen their understanding of three-dimensional art through clay sculpting, experimenting with form, texture and structure to create imaginative and interactive sculptures inspired by personal experiences and themes such as family and relationships. Through this process, students develop creativity, confidence and the ability to express ideas through sculptural form and colour.
+			</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px; background:#f2f2f2; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P5
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Expressing Ideas through Chinese Brush Painting
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore traditional Chinese brush painting techniques while developing sensitivity to line, ink and composition. Through guided exploration, students learn to express mood and ideas through controlled brushwork and visual balance.
+			</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px; background:#f9f9f9; font-weight:bold; text-align:center; vertical-align:middle; border:1px solid #ddd;">
+      P6
+    </td>
+    <td style="padding:12px; border:1px solid #ddd;">
+      <span style="font-weight:bold; font-size:16px;">
+        Digital Art and Visual Communication
+      </span><br>
+      <p style="font-size:16px; text-align:justify; line-height: 1.6">
+        Students explore digital tools to create artworks that communicate ideas and stories visually. Building on their understanding of form, colour and composition, students learn to combine images, text and design elements to express meaning creatively through digital media.
+			</p>
+    </td>
+  </tr>
+</tbody></table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES7.jpg">
+</div>
+<p></p>
+<p><strong><u>Other Aesthetic Programmes</u></strong><u>&nbsp;</u>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clay Exploration
-<br>Creating 3-dimensional forms and textures through playing with clay.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Batik Painting
-<br>Understanding colours through toning and exploring a different medium.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Brush Painting
-<br>Understanding the nuances of brushstrokes through a traditional medium.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Digital Art (Animation)
-<br>Expressing ideas through ICT.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Our Music Curriculum</h5>
-<p><strong>Approaches:</strong>
+<p></p>
+<p><strong>Art Talent Programme</strong>
+<br>The Art Talent Programme was introduced in 2022 to provide additional
+opportunities for students who demonstrate strong interest and potential
+in Art. Through this programme, a small group of students from Primary
+3 to Primary 6 receive more focused guidance to further develop their artistic
+skills and confidence.</p>
+<p>Students explore a range of mediums such as charcoal, watercolour and
+acrylic painting. The programme also supports students in developing their
+own portfolios, allowing them to document their artistic growth and creative
+journey over the years.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES10.jpg">
+</div>
+<p></p>
+<p><strong><u>Art Competitions and Showcases</u></strong>
+<br>Students are provided with opportunities to extend their learning beyond
+the classroom through school-based programmes, museum experiences and national
+art competitions.
+<br>
+<br>These experiences allow students to apply creative thinking, develop appreciation
+for the arts and engage with artistic practices in authentic contexts.
+<br>
+<br>These include sustainability-themed school art competitions, design challenges,
+museum-based learning experiences and participation in national platforms
+such as the ViArt National Art Competition.
+<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nurture the love and joy of music through active listening, creating musical
-expressions and performing.</p>
-</li>
-<li>
-<p>Create awareness and appreciation towards music of various cultures.</p>
-</li>
-<li>
-<p>Adopt and plan curriculum according to the spiral approach.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Exposing students through music and movement to help lower primary students
-develop their psychomotor skills while learning the rudiments of music
-(fundamental for music).</p>
-</li>
-<li>
-<p>Develop instrumental techniques using the WALT and WILF.</p>
-</li>
-<li>
-<p>Music composition and creation using technology.</p>
-</li>
-<li>
-<p>Ensemble playing across P1 – 6 to help students develop musicianship,
-confidence and learn to think critically.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Create a broad-based exposure of different genres, instrumental skills
-and music experiences through a variety of music programmes that engages
-students with different interests, needs and abilities.</p>
-</li>
-<li>
-<p>The use of different instructional techniques that cater to the different
-learning needs of the class, helping them achieve the desired Learning
-Objectives of the lesson.</p>
-</li>
-</ul>
+<p><strong>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Art Competition P1–P6 (Sustainability Theme)</strong>
+</p>
+<p><strong>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 Museum-Based Learning Programme</strong>
+</p>
+<p><strong>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 Camp T-Shirt Design Competition</strong>
+</p>
+<p><strong>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ViArt National Art Competition</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Museum-based Learning" src="/images/2026 Aesthetics/AES11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Exhibition" src="/images/2026 Aesthetics/AES12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ViArt National Art Competition Winners 2026" src="/images/2026 Aesthetics/AES16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCKPS School Competition Judges 2026" src="/images/2026 Aesthetics/AES17.jpg">
+</div>
+<p></p>
+<p><strong><u>Aesthetics Fiesta – Ar Mkr Activity</u></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES19.jpg">
+</div>
+<p></p>
 <p><strong>Music Modular Programmes</strong>
 </p>
 <table style="minWidth: 50px">
@@ -158,7 +236,14 @@ Objectives of the lesson.</p>
 <p>P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music &amp; Movement</p>
+<p><strong>Music &amp; Movement, Ethnic music</strong>
+</p>
+<p>Educational approach combining rhythmic sounds, songs, and physical activities
+to engage children in active learning through dance, clapping, and instrument
+play, which strengthens motor skills, coordination, and emotional expression.
+Ethnic music module includes authentic learning of ethnic music including
+cultural background, ethnic musical instruments, and singing of songs to
+strengthen understanding.</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +251,12 @@ Objectives of the lesson.</p>
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orff Ensemble</p>
+<p><strong>Orff Ensemble</strong>
+</p>
+<p>Active, play-based music module that combines singing, movement, and specialized
+barred percussion instruments like xylophones to teach musical concepts.
+It emphasizes improvisation and collaboration, allowing students to create
+music together in a natural, experiential way.</p>
 </td>
 </tr>
 <tr>
@@ -174,8 +264,12 @@ Objectives of the lesson.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instrumental skills: Keyboard &amp; Ukulele
-<br>Ensemble skills: Classroom instruments</p>
+<p><strong>Instrumental skills: Keyboard &amp; Ukulele<br>Ensemble skills: Classroom instruments</strong>
+</p>
+<p>Teaching of instruments such as keyboard for better understanding of pitch
+and melody, and ukulele for chords and accompaniment, while strengthening
+fine motor skills. Allowing collaborative and creative group work through
+ensemble playing using classroom instruments, on top of keyboard and ukulele.</p>
 </td>
 </tr>
 <tr>
@@ -183,9 +277,12 @@ Objectives of the lesson.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Global Music &amp; Cultural Awareness
-<br>Instrumental skills: Keyboard
-<br>Garageband: Music Arrangement Using Technology</p>
+<p><strong>Global Music &amp; Cultural Awareness<br>Instrumental skills: Keyboard<br>Garageband: Music Arrangement Using Technology</strong>
+</p>
+<p>Building on to keyboard skills acquired in P3, students will learn to
+play chords using the keyboard to accompany a melody. They will also learn
+to record musical ideas using digital audio workstations such as Garageband
+to arrange their very own digital music song cover.</p>
 </td>
 </tr>
 <tr>
@@ -193,8 +290,14 @@ Objectives of the lesson.</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instrumental Skills: Ukulele Chords and Finger Plucking
-<br>Ensemble Skills: Creating a Music Cover</p>
+<p><strong>Instrumental Skills: Ukulele Chords and Finger Plucking<br>Ensemble Skills: Creating a Music Cover</strong>
+</p>
+<p>Expansion of chordal knowledge acquired in P3 and P4, students will learn
+a variety of additional chords on the ukulele, as well as different ways
+to introduce texture to music, such as via strumming patterns, and through
+finger picking. They will then use this knowledge to create a music cover
+that also includes musical knowledge through P1 to P4, encouraging creativity
+and collaboration through group work.</p>
 </td>
 </tr>
 <tr>
@@ -202,46 +305,65 @@ Objectives of the lesson.</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensemble skills: iPad Live Jam Band</p>
+<p><strong>Ensemble skills: iPad Live Jam Band, Stomp Ensemble</strong>
+</p>
+<p>As a culmination of what students have learned from P1 to P5, students
+will learn to perform live using virtual instruments as a jam band to a
+song of their choice. At the end of the year, they will also gather as
+a class to create one last stomp percussion ensemble performance as their
+graduation performance.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>How do we help our students to think critically?</strong></h5>
-<p>To help our students to be critical thinkers, we have adopted the following
-thinking routines in our Art &amp; Music lessons.</p>
-<p><strong><u>Thinking Routines</u></strong>
+<p></p>
+<p><strong>Approaches:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aestheticstp.png">
-</div>
-<p>This routine encourages/helps students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nurture the love and joy of music through active listening, creating musical
+expressions and performing.</p>
+</li>
+<li>
+<p>Create awareness and appreciation towards music of various cultures.</p>
+</li>
+<li>
+<p>Our curriculum adopts the Spiral Approach, where we,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Expose students through music and movement to help lower primary students
+develop their psychomotor skills while learning the rudiments of music
+(fundamental for music).</p>
+</li>
+<li>
+<p>Develop instrumental techniques using the WALT and WILF.</p>
+</li>
+<li>
+<p>Provide opportunities for music composition and creation using technology.</p>
+</li>
+<li>
+<p>Provide opportunities for ensemble playing across P1 – 6 to help students
+develop musicianship, confidence and learn to think critically.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Create a broad-based exposure of different genres, instrumental skills
+and music experiences through a variety of music programmes that engages
+students with different interests, needs and abilities.</p>
+</li>
+<li>
+<p>The use of different instructional techniques that cater to the different
+learning needs of the class, helping them achieve the desired Learning
+Objectives of the lesson.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Thinking Routines for Music</strong>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Make careful observations</p>
-</li>
-<li>
-<p>Think critically and make thoughtful interpretations</p>
-</li>
-<li>
-<p>Stimulate curiosity</p>
-</li>
-<li>
-<p>Inquire about what they have observed</p>
-</li>
-<li>
-<p>Find a connection with what they already know</p>
-</li>
-</ol>
-<p>Applying various thinking routines help students to share their thought
-process at each step before moving on to the next. This allows the class
-to layer upon each other’s ideas or scaffold their thought process, thus
-stimulating more in-depth discussions and infusing creativity and problem-solving
-skills.&nbsp;&nbsp;</p>
-<h5><strong>Thinking Routines for Music</strong>&nbsp;</h5>
-<p><strong>1. Experience – Content – Apply (ECA) approach for lower primary</strong>
-</p>
-<p>ECA approach mainly allows students to experience and perceive a new concept
+<p><strong>Experience – Content – Apply (ECA) approach for lower primary</strong>
+<br>ECA approach mainly allows students to experience and perceive a new concept
 through kinaesthetic, aural and visual activities first before teaching
 it to them. These stimulus-based activities help the students to have a
 better grasp when a new concept is being taught as they were able to relate
@@ -249,70 +371,73 @@ to it, making sense of what they have learnt. After they have understood
 what was taught, the application phase allows students to apply the new
 concept, reinforcing their understanding. Through the ECA approach, students
 develop critical and creative thinking when transferring their knowledge
-effectively on their own in the application phase.&nbsp;</p>
-<p><strong>2.&nbsp; &nbsp; &nbsp; &nbsp;Creative cycle for upper primary</strong>
+effectively on their own in the application phase.&nbsp;
+<br>
 </p>
-<p>The Creative Cycle is a thinking process that helps students to constantly
+</li>
+<li>
+<p><strong>Creative cycle for upper primary</strong>
+<br>The Creative Cycle is a thinking process that helps students to constantly
 reflect and evaluate their own performance/s or practice, constantly seeking
 ways to improve.&nbsp; They identify the problem using their pre-requisite
 knowledge, then infuse creativity to solve it. Each time when they practice/play,
 improvement must be made. This form of deliberate practice trains them
 to be involved in their own self-assessment and take ownership in their
 own learning. The teacher’s role is to help facilitate and provide feedback
-to guide them, helping them with various practicing strategies.&nbsp; &nbsp;&nbsp;</p>
-<h5><strong>Other Aesthetic Programmes</strong>&nbsp;</h5>
-<p>On-the-Spot Art Competition (P1 to P6)
-<br>Museum-Based Learning (P4)
-<br>Music Fiesta (P1 &amp; P2)
-<br>Music mini-performances&nbsp;
-<br>Aesthetics Day</p>
+to guide them, helping them with various practicing strategies.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Music Performances and Showcases</strong>
+<br>Students are provided with opportunities to extend their learning beyond
+the classroom through school-based programmes, performance opportunities
+and showcases.
+<br>
+<br>These experiences allow students to apply creative thinking, develop appreciation
+for the arts and build confidence.</p>
 <p></p>
-<p><strong><u>Students performing on various instruments during our very first Aesthetics Day</u></strong>
+<p><strong>CCKPS Aesthetics Fiesta</strong>
+</p>
+<p><strong><u>Aesthetics Fiesta - P1 &amp; P2 students performing various instruments</u></strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes2.png">
-</div>
-<p><strong><u>P2 Sing and Dance Performers during Teacher’s Day</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes3.jpeg">
-</div>
-<p><strong><u>Lower Primary Music Fiesta</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes4.png">
-</div>
-<p><strong><u>Student-Centric lessons that encourages exploration, problem solving and discovery!</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES20.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes6.png">
-</div>
-<p><strong><u>Primary 4 Museum Based Learning to NUS Museum</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes7.png">
-</div>
-<p><strong><u>P4 Batik Painting</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES21.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES22.jpg">
 </div>
-<p><strong><u>P5 Chinese Ink Painting</u></strong>
+<p></p>
+<p><strong><u>P3 &amp; P4 CCKPS Talent Concert</u></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES23.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES24.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES26.jpg">
+</div>
+<p></p>
+<p><strong><u>P6 Graduation Performance – Stomp Music</u></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Aesthetics/AES27.jpg">
 </div>
 <p></p>

@@ -1,9 +1,9 @@
 ---
 title: School Leaders
-permalink: /about-us/Our-Staff/school-leaders/
+permalink: /about-us/our-staff/school-leaders/
 description: ""
 third_nav_title: Our Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -26,7 +26,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Swee Nee</p>
+	<p> <a href="mailto:quek_swee_nee@schools.gov.sg">Mr Quek Swee Nee</a></p>
 </td>
 </tr>
 <tr>
