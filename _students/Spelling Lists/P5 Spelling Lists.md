@@ -72,7 +72,7 @@ third_nav_title: Spelling Lists
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,8 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 Spelling Lists/5CLM_Spelling_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CLM</a>
+</p>
 </td>
 </tr>
 </tbody>
