@@ -128,87 +128,17 @@ third_nav_title: Spelling Lists
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EL_Primary_3_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 2/EL_Primary_3_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tamil Language</p>
 </td>
 </tr>
 </tbody>
