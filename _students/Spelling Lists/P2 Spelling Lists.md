@@ -20,13 +20,15 @@ third_nav_title: Spelling Lists
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 1/ML_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil Language</p>
