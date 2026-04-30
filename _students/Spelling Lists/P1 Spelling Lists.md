@@ -23,13 +23,16 @@ third_nav_title: Spelling Lists
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 1/2026T1P1____.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 1/ML_Primary_1_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tamil Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 1/P1_TL_1_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 </td>
 </tr>
 </tbody>
