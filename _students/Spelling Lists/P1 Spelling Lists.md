@@ -15,7 +15,7 @@ third_nav_title: Spelling Lists
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Spelling Lists</p>
+<p>Term 1 Spelling Lists</p>
 </th>
 </tr>
 <tr>
