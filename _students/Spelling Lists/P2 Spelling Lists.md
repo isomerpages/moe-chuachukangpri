@@ -15,30 +15,31 @@ third_nav_title: Spelling Lists
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Term 1 Spelling Lists</p>
+<p>Spelling Lists</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">EL Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/CL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 1/CL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/ML_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 1/ML_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">ML Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/P2TL_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 1/P2TL_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">TL Term 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/EL_Primary_2_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">EL Term 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
