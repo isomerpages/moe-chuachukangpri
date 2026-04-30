@@ -68,7 +68,7 @@ third_nav_title: Spelling Lists
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EL_Primary_5_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 2/EL_Primary_5_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +80,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/5CLM_Spelling_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CLM</a>
+<p><a href="/files/2026 Spelling Lists/Term 2/5CLM_Spelling_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CLM</a>
 </p>
 </td>
 </tr>
