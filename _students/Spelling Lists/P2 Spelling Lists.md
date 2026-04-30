@@ -76,7 +76,8 @@ third_nav_title: Spelling Lists
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tamil Language</p>
+<p><a href="/files/2026 Spelling Lists/P2_TL_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 </td>
 </tr>
 <tr>
