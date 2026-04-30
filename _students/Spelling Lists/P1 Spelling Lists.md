@@ -20,31 +20,48 @@ third_nav_title: Spelling Lists
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL Term 1</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CL Term 1</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ML Term 1</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CL Term 1</p>
+<p>Tamil Language</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Term 2 Spelling Lists</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EL_Primary_1_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">EL Term 2</a>
+<p><a href="/files/EL_Primary_1_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 Spelling Lists/P1_TL___Spelling_2026___Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 </td>
 </tr>
 </tbody>
