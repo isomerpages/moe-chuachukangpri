@@ -19,6 +19,7 @@ variant: tiptap
 <br>Fax: 67661583
 <br>Email: <a href="mailto:cckps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cckps@moe.edu.sg</a>
 <br>
-<br>Have feedback? Let us know here: <a href="https://form.gov.sg/6a02b79cc8f985b2823d62d8" rel="noopener nofollow" target="_blank">Feedback Form</a>
+<br>We welcome your feedback.
+<br>Please share your comments and suggestions here: <a href="https://form.gov.sg/6a02b79cc8f985b2823d62d8" rel="noopener nofollow" target="_blank">Feedback Form</a>
 </p>
 <p></p>
