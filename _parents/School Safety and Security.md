@@ -168,3 +168,5 @@ personal hand sanitiser to keep their hands clean.</p>
 </ul>
 <p></p>
 </details>
+
+If you have any feedback on our school safety, please let us know via this link: [Feedback Form](https://form.gov.sg/6a02b79cc8f985b2823d62d8)
