@@ -70,7 +70,7 @@ via email OR to the School's General Office.
 <br>Bus number: 301, 300 (Chua Chu Kang Ave 3)
 <br>172, 991 (Chua Chu Kang Ave 1)</p>
 <p></p>
-<p><strong><u>Interest applicants must meet the following criteria: </u></strong>
+<p><strong><u>Interest applicants must meet the following criteria:</u></strong>
 </p>
 <p>- Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant.
@@ -91,6 +91,6 @@ Food Hygiene Certificate.
 Singapore Food Agency (SFA).</p>
 <p></p>
 <p></p>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. </em>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
 <p></p>
