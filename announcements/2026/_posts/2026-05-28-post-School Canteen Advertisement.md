@@ -44,7 +44,7 @@ variant: tiptap
 <p>Download and complete the application form below. You may also request
 for a hardcopy from the General Office.
 <br>
-<br>Application Form
+<br><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
 <br>
 </p>
 <p>Attach the following documents together with the application form:
