@@ -21,3 +21,5 @@ and platforms designed to support students with diverse needs. Her contributions
 include thoughtfully designed programmes that enhance student learning
 experiences.</p>
 <p>Ms Chng had also received the Silver-Plated “Service to Education” Award 2025 in recognition of her role and contribution to the development of education in Singapore for 5 years.</p>
+<br>
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 SAC/Cindy_Chng_Award.jpg">
