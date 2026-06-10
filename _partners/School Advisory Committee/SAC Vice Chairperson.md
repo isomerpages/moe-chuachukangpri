@@ -20,3 +20,4 @@ particularly benefiting students facing financial difficulties.</p>
 and platforms designed to support students with diverse needs. Her contributions
 include thoughtfully designed programmes that enhance student learning
 experiences.</p>
+<p>Ms Chng had also received the Silver-Plated “Service to Education” Award 2025 in recognition of her role and contribution to the development of education in Singapore for 5 years.</p>
