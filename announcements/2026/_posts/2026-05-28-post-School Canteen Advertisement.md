@@ -30,7 +30,7 @@ variant: tiptap
 <p>Chinese Mixed Rice Stall (non-halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26th June 2026</p>
+<p>31st July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Healthy Chinese Mixed Rice</p>
