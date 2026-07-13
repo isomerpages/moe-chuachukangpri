@@ -34,10 +34,6 @@ a lifelong appreciation for movement and the arts.
 <br>We look forward to seeing our students' creativity, passion, and confidence
 shine as they embark on this exciting dance journey!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Modern Dance/MDPicture1.jpg">
-</div>
-<p></p>
 <h3><strong><u>CCA Objectives</u></strong></h3>
 <p>The programme must achieve the following objectives:</p>
 <ul data-tight="true" class="tight">
@@ -65,11 +61,6 @@ in school and external events.
 the CCE values &amp; the 7 Habits in the programme.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Modern Dance/MDPicture2.jpg">
-</div>
 <p></p>
 <h3><strong><u>Key Learning Experiences</u></strong></h3>
 <p>Students are able to:</p>
