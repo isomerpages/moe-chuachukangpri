@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice Stall (non-halal)</p>
+<p>Rice Stall (halal / non-halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31st July 2026</p>
+<p>31st August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Healthy Chinese Mixed Rice</p>
+<p>Any Healthy Rice Stall</p>
 </td>
 </tr>
 </tbody>
@@ -54,8 +54,8 @@ for a hardcopy from the General Office.
 etc
 <br>
 </p>
-<p>&nbsp;Submit the completed application form and documents by closing date
-via email OR to the School's General Office.
+<p>Submit the completed application form and documents by closing date via
+email OR to the School's General Office.
 <br>
 </p>
 <p></p>
