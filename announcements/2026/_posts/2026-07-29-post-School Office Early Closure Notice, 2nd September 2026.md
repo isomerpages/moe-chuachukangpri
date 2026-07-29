@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong>School Office Early Closure Notice</strong>
 </p>
 <p>Please be informed that the School General Office will close early at
-11:00 a.m. on Tuesday, 2 September.</p>
+11:00 a.m. on Wednesday, 2 September.</p>
 <p>Should you require urgent assistance after 11:00 a.m., please contact
 the school mobile at 9026 1395.</p>
 <p>We apologize for any inconvenience caused and thank you for your understanding.</p>
