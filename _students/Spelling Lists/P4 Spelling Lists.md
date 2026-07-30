@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Spelling Lists
 ---
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,12 +14,12 @@ third_nav_title: Spelling Lists
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Term 1 Spelling Lists</p>
+<p>Term 3 Spelling Lists</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_4_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4_EL_Spelling___Dictation_T3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +31,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLG_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-G</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/4_CL_M_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-M</a>
 </p>
 </td>
 </tr>
@@ -39,7 +40,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLJ_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-J</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4_CL_G_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-G</a>
 </p>
 </td>
 </tr>
@@ -48,7 +49,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLK_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-K</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4_CL_J_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-J</a>
 </p>
 </td>
 </tr>
@@ -57,7 +58,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLL_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-L</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4_CL_K_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-K</a>
 </p>
 </td>
 </tr>
@@ -66,7 +67,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLM_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-M</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4_CL_L_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-L</a>
 </p>
 </td>
 </tr>
@@ -75,31 +76,8 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/4CLN_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-N</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P4CL_N_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL-N</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Term 2 Spelling Lists</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/EL_Primary_4_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
