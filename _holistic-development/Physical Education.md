@@ -21,45 +21,67 @@ healthy living safely and responsibly.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEPicture2.jpg">
 </div>
 <p></p>
-<h3>Purpose of Physical Education<br><br></h3>
-<p><strong>The purpose of Physical Education is to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.</strong>
-</p>
-<p>&nbsp;</p>
-<p>The five goals below serve as a guide for the above purpose. Each goal
-is equally important, and they interact with one another in a well-planned
+<h3>Purpose of Physical Education</h3>
+<p></p>
+<p>The purpose of Physical Education is to develop physically competent and
+confident individuals who enjoy a lifetime of active and healthy living
+safely and responsibly.</p>
+<p>&nbsp;The five goals below serve as a guide for the above purpose. Each
+goal is equally important, and they interact with one another in a well-planned
 Physical Education curriculum that addresses the understanding, skills,
 practices and values desired for every student.</p>
-<p>&nbsp;</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Movement Competence. Students are competent and confident to participate in a range of physical and outdoor activities.</strong>
+<p>
+<br>
 </p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Movement Competence. Students are competent and confident to participate in a range of physical and outdoor activities.</strong>
+</p>
+</li>
+</ol>
 <p>Students acquire the skills and knowledge in a variety of physical activities
 to develop their personal level of movement competence. They apply their
 skills and knowledge to participate individually and with others in physical
 activities for recreation, health, and personal challenge and achievement.
 They understand the movement concepts and are able to transfer these skills
-and knowledge across different physical activities and environment.</p>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthy Lifestyle Practices. Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.</strong>
+and knowledge across different physical activities and environment.&nbsp;
+<br>
 </p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Healthy Lifestyle Practices. Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.</strong>
+</p>
+</li>
+</ol>
 <p>Students believe in the importance and benefits of an active and healthy
 lifestyle. They understand the individual and environmental factors that
 contribute to their lifestyle choices and are able to apply the health
 knowledge and skills in their daily living across different life contexts.
 They develop a sense of personal responsibility for their health and are
 able to make informed decisions to live it out, contributing to their holistic
-well-being.</p>
-<p>&nbsp;</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety Mindset. Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.</strong>
+well-being.&nbsp;
+<br>
 </p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Safety Mindset. Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.</strong>
+</p>
+</li>
+</ol>
 <p>Students demonstrate safe practices and take responsibility of their own
 safety as well as the safety of others around them. They are cognisant
 of their own ability and the environment, and are able to identify hazards,
 assess and manage risks, and respond to emergency situations. They possess
 a safety mindset with a keen spirit of adventure and have the ability to
-take responsible risks.</p>
-<p>&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Values. Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.</strong>
+take responsible risks.&nbsp;
+<br>
 </p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Core Values. Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.</strong>
+</p>
+</li>
+</ol>
 <p>Students’ behaviours are reflective of the core values such as the following:</p>
 <p>• respect and care for self, others and the environment</p>
 <p>• integrity (sportsmanship) and harmony (teamwork) in the participation
@@ -67,32 +89,46 @@ of physical activities</p>
 <p>• resilience through adopting a positive outlook when faced with challenges
 and giving their best effort</p>
 <p>• responsibility in the areas of personal health, fitness, hygiene and
-safety</p>
-<p>&nbsp;</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enjoyment. Students enjoy and value physical activities and healthy living in a sustainable way.</strong>
+safety
+<br>&nbsp;</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Enjoyment. Students enjoy and value physical activities and healthy living in a sustainable way.</strong>
 </p>
+</li>
+</ol>
 <p>Students appreciate the inherent values and joy of movement experiences.
 They exhibit a positive self-concept through participating in a wide range
 of physical activities. They are able to appreciate the outdoors, actively
 engage with places meaningfully and take actions to contribute to a sustainable
 community.</p>
-<p>&nbsp;</p>
 <p>In pursuing a lifetime of active and healthy living, students demonstrate
 the following:</p>
-<p>• engage in physical activities of interest regularly and limit sedentary
+<ul data-tight="true" class="tight">
+<li>
+<p>engage in physical activities of interest regularly and limit sedentary
 time</p>
-<p>• spend time outdoors and enjoy nature responsibly</p>
-<p>• have a balanced diet and often choose healthier options</p>
-<p>• rest and sleep sufficiently</p>
-<p>• practise personal hygiene</p>
+</li>
+<li>
+<p>spend time outdoors and enjoy nature responsibly</p>
+</li>
+<li>
+<p>have a balanced diet and often choose healthier options</p>
+</li>
+<li>
+<p>rest and sleep sufficiently</p>
+</li>
+<li>
+<p>practise personal hygiene</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Picture3.png">
 </div>
 <p></p>
 <h3>Beyond Classroom PE programmes</h3>
-<p>&nbsp;</p>
-<p><strong><u>Annual Children’s Day Carnival</u></strong>
+<p>&nbsp;<strong><u>Annual Children’s Day Carnival</u></strong>
 <br>At Chua Chu Kang Primary School, the Children’s Day Carnival is an annual
 highlight that our students eagerly look forward to. Designed to promote
 active living and teamwork, the carnival offers a vibrant and engaging
@@ -112,7 +148,7 @@ it an event that students eagerly anticipate year after year.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Picture4.jpg">
 </div>
 <p></p>
-<p><strong>Primary 5 Camp</strong>
+<p><strong><u>Primary 5 Camp</u></strong>
 <br>The 3-day-2-night Primary 5 Cohort Camp is the highlight of the primary
 education our students have gone through with us.&nbsp; This is their opportunity
 to apply the skills learnt in Outdoor Education modules and also the school
