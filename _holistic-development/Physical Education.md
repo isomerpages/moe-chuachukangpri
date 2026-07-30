@@ -2,62 +2,166 @@
 title: Physical Education
 permalink: /holistic-development/physical-education/
 description: ""
+variant: tiptap
 ---
-### Aim of Physical Education
-
-We aim to equip our students with the strong foundation in fundamental movement skills and core values for the leaning, participation and enjoyment of a wide variety of physical activities and sports.  Our students would be encouraged to participate in self-directed regular exercises as part of a healthy lifestyle.
-
-  
-
-  
-
-### Purpose of Physical Education
-
-The purpose of Physical Education is to enable our students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.
-
-We consciously make us of movement as the primary medium to reach and teach the whole child through the following three modes:
-
-* Education in movement
-* Education through movement; and
-* Education about movement
-
-  
-
-**Learning _in_ Movement**   
-Physical education distinguishes itself by its primary focus on the body and physical skills.  It emphasises education in movement or the psychomotor domain.  Education in movement presents students with carefully selected physical activities that develop efficiency, effectiveness and versatility across various complex movement situations which the student will experience in school and in the future.
-
-  
-
-**Learning _through_ Movement**   
-Physical education uses education through movement as an avenue for cognitive, affective and social development.  The outcomes of movement are not limited to the physical or simply the intrinsic part of the activity.  Therefore, the physical education programme develops in students the sufficient knowledge related to movement experiences which includes, movement concepts, principles and theories, game rules, tactics, and strategies, health- fitness-related benefits, the environmental risks and personal safety concerns.
-
-Physical education provides an authentic setting for students to develop and practise the 21st Century Competencies, values and ideals, which support the development of character
-
-  
-
-**Learning _about_ Movement**   
-Regular physical activity is necessary to develop and sustain optimal health and to attain desirable health-related fitness goals.  Education about movement addresses the value and benefits of a healthy lifestyle and a fit body.  Therefore, physical education encourages students to take deliberate actions to be involved in safe physical activities that help to develop health-related physical fitness and ultimately enjoy and value the benefits of daily physical activities.
-
-  
-
-### Beyond Classroom PE Programmes 
-
-  
-
-**Annual Sports Carnival / Lower Primary Sports Carnival**   
-The Annual Sports Carnival, changed to Consortium Games Day due to the lack of facilities (PERI Upgrading) and the Lower Primary Sports Carnival are key events that garner a lot of excitement among students and teachers.  Students are given the opportunities to apply the various psychomotor skills which they have acquired during their PE lessons.  The changing of games rules promotes a safe and friendly environment for mass participation and promotes a strong sense of class bonding, school values and sportsmanship. 
-
-  
-
-**National Physical Fitness Award (NAPFA)**   
-NAPFA is a tool that the school uses for students to measure their own physical fitness level: muscular strength and endurance, aerobic capacity, flexibility, agility, and body composition.
-
-**Primary 5 Camp**   
-The 3-day-2-night Primary 5 Cohort Camp is the highlight of the primary education our students have gone through with us.  This is their opportunity to apply the skills learnt in Outdoor Education modules and also the school values and the 7 Habits.  Through experiential learning, students learnt to apply all that they have learnt to work with one another through the various activities, resolve conflict and making sound decision for the group.  Adventure obstacle courses train our students to strengthen their resilience and not to give up when faced with challenges.  Students also learnt to encourage and help their classmates to give their best.  The experiences from the camp toughen our students’ mind and teach them valuable lessons outside the classrooms, and prepare them to be Future-Ready.
-
-![](/images/pe1.png)
-
-![](/images/pe2.png)
-
-<img src="/images/5.jpeg" 
-     style="width:85%">
+<h3>Aim of Physical Education</h3>
+<p></p>
+<p>Physical Education is an integral component of Singapore’s school curriculum
+to develop students holistically. By emphasizing the importance of movement,
+and an individual’s interaction with the environment, Physical Education
+seeks to develop the whole child to bring about a nation of physically
+competent and confident individuals who enjoy a lifetime of active and
+healthy living safely and responsibly.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PEPicture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEPicture2.jpg">
+</div>
+<p></p>
+<h3>Purpose of Physical Education</h3>
+<p></p>
+<p>The purpose of Physical Education is to develop physically competent and
+confident individuals who enjoy a lifetime of active and healthy living
+safely and responsibly.</p>
+<p>&nbsp;The five goals below serve as a guide for the above purpose. Each
+goal is equally important, and they interact with one another in a well-planned
+Physical Education curriculum that addresses the understanding, skills,
+practices and values desired for every student.</p>
+<p>
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Movement Competence. Students are competent and confident to participate in a range of physical and outdoor activities.</strong>
+</p>
+</li>
+</ol>
+<p>Students acquire the skills and knowledge in a variety of physical activities
+to develop their personal level of movement competence. They apply their
+skills and knowledge to participate individually and with others in physical
+activities for recreation, health, and personal challenge and achievement.
+They understand the movement concepts and are able to transfer these skills
+and knowledge across different physical activities and environment.&nbsp;
+<br>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Healthy Lifestyle Practices. Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.</strong>
+</p>
+</li>
+</ol>
+<p>Students believe in the importance and benefits of an active and healthy
+lifestyle. They understand the individual and environmental factors that
+contribute to their lifestyle choices and are able to apply the health
+knowledge and skills in their daily living across different life contexts.
+They develop a sense of personal responsibility for their health and are
+able to make informed decisions to live it out, contributing to their holistic
+well-being.&nbsp;
+<br>
+</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Safety Mindset. Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.</strong>
+</p>
+</li>
+</ol>
+<p>Students demonstrate safe practices and take responsibility of their own
+safety as well as the safety of others around them. They are cognisant
+of their own ability and the environment, and are able to identify hazards,
+assess and manage risks, and respond to emergency situations. They possess
+a safety mindset with a keen spirit of adventure and have the ability to
+take responsible risks.&nbsp;
+<br>
+</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Core Values. Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.</strong>
+</p>
+</li>
+</ol>
+<p>Students’ behaviours are reflective of the core values such as the following:</p>
+<p>• respect and care for self, others and the environment</p>
+<p>• integrity (sportsmanship) and harmony (teamwork) in the participation
+of physical activities</p>
+<p>• resilience through adopting a positive outlook when faced with challenges
+and giving their best effort</p>
+<p>• responsibility in the areas of personal health, fitness, hygiene and
+safety
+<br>&nbsp;</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Enjoyment. Students enjoy and value physical activities and healthy living in a sustainable way.</strong>
+</p>
+</li>
+</ol>
+<p>Students appreciate the inherent values and joy of movement experiences.
+They exhibit a positive self-concept through participating in a wide range
+of physical activities. They are able to appreciate the outdoors, actively
+engage with places meaningfully and take actions to contribute to a sustainable
+community.</p>
+<p>In pursuing a lifetime of active and healthy living, students demonstrate
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>engage in physical activities of interest regularly and limit sedentary
+time</p>
+</li>
+<li>
+<p>spend time outdoors and enjoy nature responsibly</p>
+</li>
+<li>
+<p>have a balanced diet and often choose healthier options</p>
+</li>
+<li>
+<p>rest and sleep sufficiently</p>
+</li>
+<li>
+<p>practise personal hygiene</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Picture3.png">
+</div>
+<p></p>
+<h3>Beyond Classroom PE programmes</h3>
+<p><strong><u>Annual Children’s Day Carnival</u></strong>
+<br>At Chua Chu Kang Primary School, the Children’s Day Carnival is an annual
+highlight that our students eagerly look forward to. Designed to promote
+active living and teamwork, the carnival offers a vibrant and engaging
+experience for all students, bringing joy and excitement beyond the classroom.</p>
+<p>Each year, our Primary 1 and 2 students participate in a fun-filled telematch,
+where they develop teamwork and coordination through a series of interactive
+challenges. Meanwhile, Primary 3 to 6 students explore a diverse range
+of physical activities, specially curated to provide them with opportunities
+to discover new interests and stay active. Popular activities such as sword
+play, archery tag, Kin ball, I Bounce, and many more ensure that students
+are engaged and energized throughout the day.</p>
+<p>The Children’s Day Carnival continues to be a cherished tradition that
+fosters camaraderie, resilience, and a love for physical activity, making
+it an event that students eagerly anticipate year after year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Picture4.jpg">
+</div>
+<p></p>
+<p><strong><u>Primary 5 Camp</u></strong>
+<br>The 3-day-2-night Primary 5 Cohort Camp is the highlight of the primary
+education our students have gone through with us.&nbsp; This is their opportunity
+to apply the skills learnt in Outdoor Education modules and also the school
+values and the 7 Habits.&nbsp; Through experiential learning, students
+learnt to apply all that they have learnt to work with one another through
+the various activities, resolve conflict and making sound decision for
+the group.&nbsp; Adventure obstacle courses train our students to strengthen
+their resilience and not to give up when faced with challenges.&nbsp; Students
+also learnt to encourage and help their classmates to give their best.&nbsp;
+The experiences from the camp toughen our students’ mind and teach them
+valuable lessons outside the classrooms, and prepare them to be Future-Ready.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Picture5.jpg">
+</div>
+<p></p>
