@@ -17,7 +17,6 @@ to Singapore.
 which are Total Defence Day, International Friendship Day, Racial Harmony
 Day and National Day.
 <br>
-<br>
 </p>
 <h3><br>National Education and Social Studies (NE-SS)</h3>
 <p>
