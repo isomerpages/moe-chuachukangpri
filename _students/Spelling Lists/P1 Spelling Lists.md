@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Spelling Lists
 ---
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
