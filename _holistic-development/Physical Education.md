@@ -128,7 +128,7 @@ time</p>
 </div>
 <p></p>
 <h3>Beyond Classroom PE programmes</h3>
-<p>&nbsp;<strong><u>Annual Children’s Day Carnival</u></strong>
+<p><strong><u>Annual Children’s Day Carnival</u></strong>
 <br>At Chua Chu Kang Primary School, the Children’s Day Carnival is an annual
 highlight that our students eagerly look forward to. Designed to promote
 active living and teamwork, the carnival offers a vibrant and engaging
