@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Spelling Lists
 ---
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,12 +14,12 @@ third_nav_title: Spelling Lists
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Term 1 Spelling Lists</p>
+<p>Term 3 Spelling Lists</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_5_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P5_STD_EL_T3_Spelling_List_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +31,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/5CLG_Spelling_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-G</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P5CLG_Spelling_chap_10_13.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL-G</a>
 </p>
 </td>
 </tr>
@@ -39,7 +40,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/5CLM_Spelling_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">CL-M</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P5CLJ_P5CLK_P5CLL_P5CLN_Spelling_chap_9_12.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL-J, 5CL-K, 5CL-L, 5CL-N</a>
 </p>
 </td>
 </tr>
@@ -48,39 +49,7 @@ third_nav_title: Spelling Lists
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/P5_STD_CL_Spelling_term_1_Unit_1_4.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Standard CL Term 1 Unit 1 - 4</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Term 2 Spelling Lists</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/EL_Primary_5_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/5CLM_Spelling_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CLM</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P5CLM_Spelling_chap_9_12.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL-M</a>
 </p>
 </td>
 </tr>

@@ -5,51 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Spelling Lists
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="4">
-<p>Term 1 Spelling Lists</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/EL_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 1/ML_Primary_2_Spelling_Term_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -61,83 +16,25 @@ third_nav_title: Spelling Lists
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Term 2 Spelling Lists</p>
+<p>Term 3 Spelling Lists</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/EL_Primary_2_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/2026 Spelling Lists/Term 3/P2_EL_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 3/P2_Level_CL_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p><a href="/files/2026 Spelling Lists/Term 3/ML_Primary_2_Spelling_Term_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026 Spelling Lists/Term 2/P2_TL_Spelling_Term_2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/ML_Primary_2_Spelling_Term_2_2026___2ML_P.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML-P</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/ML_Primary_2_Spelling_Term_2_2026___2ML_Q.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML-Q</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/ML_Primary_2_Spelling_Term_2_2026___2ML_R.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML-R</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Spelling Lists/Term 2/ML_Primary_2_Spelling_Term_2_2026___2ML_T.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML-T</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
